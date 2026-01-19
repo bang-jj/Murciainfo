@@ -3,49 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>交通資訊 - UCAM 交換生指南</title>
+    <title>交通運輸 - UCAM 交換生指南</title>
     <style>
-        body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #F9F9F7; color: #333; line-height: 1.8; margin: 0; padding: 40px 20px; display: flex; flex-direction: column; align-items: center; }
-        .container { max-width: 700px; width: 100%; }
-        header { border-bottom: 1px solid #D1D1D1; padding-bottom: 20px; margin-bottom: 30px; }
-        h1 { font-size: 1.6rem; color: #222; }
-        h2 { font-size: 1.3rem; color: #444; margin-top: 30px; border-left: 4px solid #333; padding-left: 15px; background: #F0F0EE; padding: 5px 15px; }
-        .info-card { background: white; border: 1px solid #E0E0E0; padding: 20px; margin: 15px 0; border-radius: 4px; }
-        .highlight { color: #003366; font-weight: bold; }
-        .back-link { display: inline-block; margin-top: 40px; text-decoration: none; color: #777; font-size: 0.9rem; border-bottom: 1px solid #DDD; }
+        body { font-family: 'Helvetica Neue', Arial, "Microsoft JhengHei", sans-serif; background-color: #F9F9F7; color: #333333; line-height: 1.8; margin: 0; padding: 40px 20px; display: flex; flex-direction: column; align-items: center; }
+        .container { max-width: 750px; width: 100%; }
+        header { border-bottom: 1px solid #D1D1D1; padding-bottom: 20px; margin-bottom: 40px; }
+        h1 { font-size: 1.8rem; letter-spacing: 1px; color: #222; }
+        h2 { font-size: 1.4rem; color: #333; margin-top: 40px; border-left: 5px solid #333; padding-left: 15px; }
+        h3 { font-size: 1.1rem; color: #555; margin-top: 25px; }
+        p { margin-bottom: 15px; }
+        .info-card { background: white; border: 1px solid #E0E0E0; padding: 25px; margin: 20px 0; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
+        .alert-box { background-color: #FFF5F5; border-left: 4px solid #CC0000; padding: 15px; margin: 20px 0; color: #660000; font-size: 0.95rem; }
+        .app-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        .app-item { background: #EEE; padding: 10px; text-align: center; border-radius: 4px; font-size: 0.85rem; }
+        .highlight { font-weight: bold; color: #222; }
+        .price-table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+        .price-table td { border: 1px solid #EEE; padding: 10px; font-size: 0.9rem; }
+        .back-link { display: inline-block; margin-top: 50px; text-decoration: none; color: #888; border-bottom: 1px solid #DDD; transition: 0.3s; }
+        .back-link:hover { color: #333; border-color: #333; }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>🚌 交通指南：如何前往校園與市區</h1>
+            <h1>Transportation 交通運輸</h1>
+            <p style="color: #777;">在外留學，交通方式無非是大眾運輸、共乘車或步行。</p>
         </header>
 
         <section>
-            <h2>輕軌 (Tranvía)</h2>
+            <h2>1. 輕軌 (Tranvía)</h2>
+            <p>輕軌是穆爾西亞最方便的交通工具。路線只有一條線（L1），涵蓋了大部分留學生會去的地方。</p>
+            
             <div class="info-card">
-                <p>前往 UCAM 最主要的方式是搭乘輕軌 <strong>L1 線</strong>。</p>
-                <ul>
-                    <li><strong>核心站點：</strong> <span class="highlight">Plaza Circular</span> (市中心圓環)。</li>
-                    <li><strong>搭乘方向：</strong> 往 <strong>UCAM-Los Jerónimos</strong> 方向。</li>
-                    <li><strong>車程：</strong> 約 20-30 分鐘。</li>
-                </ul>
+                <h3>💰 票價資訊</h3>
+                <table class="price-table">
+                    <tr><td>單程票 (Zona 1 / Zona 2)</td><td>1.4€ / 1.5€</td></tr>
+                    <tr><td><strong>三色卡 (Bono Multitranspote)</strong></td><td>0.5€ / 次</td></tr>
+                    <tr><td><strong>學生月票 (Bono Campus)</strong></td><td>12€ / 28天無限搭乘</td></tr>
+                </table>
+                <p><small>* 月票與三色卡需持學生證前往輕軌公司申請。</small></p>
             </div>
 
-            <h2>交通卡 (Bono Trasporte)</h2>
-            <p>在 Murcia 絕對不要每次買單程票，非常貴。請去辦理交通卡：</p>
+            <div class="alert-box">
+                <strong>⚠️ 重要轉乘提醒：</strong><br>
+                往學校 (Universidad) 方向時，前往 UCAM 的人需在 <span class="highlight">Los Rectores-Terra Natura</span> 站下車，轉乘往 <strong>UCAM - Los Jerónimos</strong> 的接駁支線。返程亦同（偶有直達車）。
+            </div>
+        </section>
+
+        <section>
+            <h2>2. 公車 (Autobús)</h2>
+            <p>公車系統較為複雜，分為市區 (TMurciaBus) 與郊區 (TMP) 兩套系統。</p>
             <ul>
-                <li><strong>Bonobús：</strong> 電車與公車通用卡。</li>
-                <li><strong>購買地點：</strong> Plaza Circular 的服務處或是電車站的自動售票機。</li>
-                <li><strong>學生優惠：</strong> 若持有 UCAM 學生證，可申請學生月票，價格更便宜。</li>
+                <li><strong>三色卡價格：</strong> 每次搭乘為 <span class="highlight">0.8€</span>。</li>
+                <li><strong>識別方式：</strong> 車頭標誌有 <strong>R</strong> 的通常為市區公車。</li>
+                <li><strong>前往 UCAM：</strong> 可搭乘 44、33 號公車。</li>
             </ul>
 
-            <h2>課外娛樂交通</h2>
-            <p>若要去大型購物中心 <strong>Nueva Condomina</strong>，同樣搭乘 L1 線，但方向與去學校的方向相反，請注意站點標示。</p>
+            <div class="alert-box">
+                <strong>🚨 陷阱注意：</strong><br>
+                1. 務必確認車頭有寫 <strong>UCAM - Los Jerónimos</strong>。例如 44E 是往移民局方向，完全不到學校。<br>
+                2. 公車時常誤點或消失，Google Maps 資訊不完全準確。
+            </div>
+        </section>
+
+        <section>
+            <h2>3. 必備應用程式 (App)</h2>
+            <p>注意：以下 App 介面主要皆為西班牙文。</p>
+            <div class="app-list">
+                <div class="app-item"><strong>Tranvía de Murcia</strong><br>輕軌路網與時刻</div>
+                <div class="app-item"><strong>TMurciaBus</strong><br>市區公車</div>
+                <div class="app-item"><strong>TMP</strong><br>郊區公車</div>
+            </div>
         </section>
 
         <footer>
-            <a href="index.html" class="back-link">← 返回目錄</a>
+            <a href="index.html" class="back-link">← 返回中文目錄</a>
         </footer>
     </div>
 </body>
