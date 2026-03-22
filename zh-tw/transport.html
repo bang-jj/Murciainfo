@@ -12,13 +12,28 @@
         h2 { font-size: 1.4rem; color: #333; margin-top: 40px; border-left: 5px solid #333; padding-left: 15px; }
         h3 { font-size: 1.1rem; color: #555; margin-top: 25px; }
         p { margin-bottom: 15px; }
-        .info-card { background: white; border: 1px solid #E0E0E0; padding: 25px; margin: 20px 0; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
+        
+        /* 票價卡片佈局：改為左右並排 */
+        .info-card-flex { background: white; border: 1px solid #E0E0E0; padding: 25px; margin: 20px 0; border-radius: 4px; display: flex; gap: 20px; flex-wrap: wrap; align-items: center; box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
+        .price-info { flex: 1; min-width: 300px; }
+        .price-images { flex: 0.8; display: flex; flex-direction: column; gap: 10px; min-width: 250px; text-align: center; }
+        .img-caption { font-size: 0.8rem; color: #777; margin-top: 5px; margin-bottom: 10px; }
+        
         .alert-box { background-color: #FFF5F5; border-left: 4px solid #CC0000; padding: 15px; margin: 20px 0; color: #660000; font-size: 0.95rem; }
-        .app-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-        .app-item { background: #EEE; padding: 10px; text-align: center; border-radius: 4px; font-size: 0.85rem; }
+        
+        /* App 列表：調整為垂直堆疊內容 */
+        .app-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; }
+        @media (max-width: 600px) { .app-list { grid-template-columns: 1fr; } } /* 手機版改為單欄 */
+        
+        .app-item { background: #EEE; padding: 15px; text-align: center; border-radius: 4px; font-size: 0.85rem; display: flex; flex-direction: column; align-items: center; justify-content: space-between; }
+        
         .highlight { font-weight: bold; color: #222; }
         .price-table { width: 100%; border-collapse: collapse; margin: 10px 0; }
         .price-table td { border: 1px solid #EEE; padding: 10px; font-size: 0.9rem; }
+        
+        /* 圖片通用樣式 */
+        img { max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 4px; border: 1px solid #DDD; box-shadow: 0 2px 5px rgba(0,0,0,0.05); margin-top: 10px; }
+        
         .back-link { display: inline-block; margin-top: 50px; text-decoration: none; color: #888; border-bottom: 1px solid #DDD; transition: 0.3s; }
         .back-link:hover { color: #333; border-color: #333; }
     </style>
@@ -34,14 +49,22 @@
             <h2>1. 輕軌 (Tranvía)</h2>
             <p>輕軌是穆爾西亞最方便的交通工具。路線只有一條線（L1），涵蓋了大部分留學生會去的地方。</p>
             
-            <div class="info-card">
-                <h3>💰 票價資訊</h3>
-                <table class="price-table">
-                    <tr><td>單程票 (Zona 1 / Zona 2)</td><td>1.4€ / 1.5€</td></tr>
-                    <tr><td><strong>三色卡 (Bono Multitranspote)</strong></td><td>0.5€ / 次</td></tr>
-                    <tr><td><strong>學生月票 (Bono Campus)</strong></td><td>12€ / 28天無限搭乘</td></tr>
-                </table>
-                <p><small>* 月票與三色卡需持學生證前往輕軌公司申請。</small></p>
+            <div class="info-card-flex">
+                <div class="price-info">
+                    <h3>💰 票價資訊</h3>
+                    <table class="price-table">
+                        <tr><td>單程票 (Zona 1 / Zona 2)</td><td>1.4€ / 1.5€</td></tr>
+                        <tr><td><strong>三色卡 (Bono Multitranspote)</strong></td><td>0.5€ / 次</td></tr>
+                        <tr><td><strong>學生月票 (Bono Campus)</strong></td><td>12€ / 28天無限搭乘</td></tr>
+                    </table>
+                    <p><small>* 月票與三色卡需持學生證前往輕軌公司申請。</small></p>
+                </div>
+                <div class="price-images">
+                    <img src="../images/bono-murcia-estudiante.jpg" alt="三色卡示意圖">
+                    <p class="img-caption">圖：三色卡 (Bono Estudiante)</p>
+                    <img src="../images/tranvia.jpg" alt="輕軌卡示意圖">
+                    <p class="img-caption">圖：輕軌卡 (Tranvía)</p>
+                </div>
             </div>
 
             <div class="alert-box">
@@ -70,9 +93,27 @@
             <h2>3. 必備應用程式 (App)</h2>
             <p>注意：以下 App 介面主要皆為西班牙文。</p>
             <div class="app-list">
-                <div class="app-item"><strong>Tranvía de Murcia</strong><br>輕軌路網與時刻</div>
-                <div class="app-item"><strong>TMurciaBus</strong><br>市區公車</div>
-                <div class="app-item"><strong>TMP</strong><br>郊區公車</div>
+                <div class="app-item">
+                    <div>
+                        <strong>Tranvía de Murcia</strong><br>
+                        <small style="color:#666">輕軌路網與時刻</small>
+                    </div>
+                    <img src="../images/Tranvia%20de%20Murcia.png" alt="輕軌 App 截圖">
+                </div>
+                <div class="app-item">
+                    <div>
+                        <strong>TMurciaBus</strong><br>
+                        <small style="color:#666">市區公車</small>
+                    </div>
+                    <img src="../images/TMurcia%20app.webp" alt="市區公車 App 截圖">
+                </div>
+                <div class="app-item">
+                    <div>
+                        <strong>TMP</strong><br>
+                        <small style="color:#666">郊區公車</small>
+                    </div>
+                    <img src="../images/TMP%20app.png" alt="郊區公車 App 截圖">
+                </div>
             </div>
         </section>
 
