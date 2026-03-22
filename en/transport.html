@@ -11,9 +11,7 @@
         h1 { font-size: 1.8rem; letter-spacing: 1px; color: #222; }
         h2 { font-size: 1.4rem; color: #333; margin-top: 40px; border-left: 5px solid #333; padding-left: 15px; }
         h3 { font-size: 1.1rem; color: #555; margin-top: 25px; }
-        p { margin-bottom: 15px; }
         
-        /* Layout for Price Cards: Side-by-side */
         .info-card-flex { background: white; border: 1px solid #E0E0E0; padding: 25px; margin: 20px 0; border-radius: 4px; display: flex; gap: 20px; flex-wrap: wrap; align-items: center; box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
         .price-info { flex: 1; min-width: 300px; }
         .price-images { flex: 0.8; display: flex; flex-direction: column; gap: 10px; min-width: 250px; text-align: center; }
@@ -21,7 +19,6 @@
         
         .alert-box { background-color: #FFF5F5; border-left: 4px solid #CC0000; padding: 15px; margin: 20px 0; color: #660000; font-size: 0.95rem; }
         
-        /* App List: Responsive Grid */
         .app-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; }
         @media (max-width: 600px) { .app-list { grid-template-columns: 1fr; } }
         
@@ -31,10 +28,11 @@
         .price-table { width: 100%; border-collapse: collapse; margin: 10px 0; }
         .price-table td { border: 1px solid #EEE; padding: 10px; font-size: 0.9rem; }
         
-        /* Image styling */
         img { max-width: 100%; max-height: 250px; object-fit: contain; border-radius: 4px; border: 1px solid #DDD; box-shadow: 0 2px 5px rgba(0,0,0,0.05); margin-top: 10px; }
         
-        .back-link { display: inline-block; margin-top: 50px; text-decoration: none; color: #888; border-bottom: 1px solid #DDD; transition: 0.3s; }
+        /* 返回連結樣式 */
+        footer { margin-top: 50px; width: 100%; text-align: center; border-top: 1px solid #EEE; padding-top: 20px; }
+        .back-link { text-decoration: none; color: #888; border-bottom: 1px solid #DDD; transition: 0.3s; }
         .back-link:hover { color: #333; border-color: #333; }
     </style>
 </head>
@@ -42,26 +40,25 @@
     <div class="container">
         <header>
             <h1>Transportation</h1>
-            <p style="color: #777;">Studying abroad often involves navigating public transit, ride-sharing, or walking.</p>
+            <p style="color: #777;">Public transit, ride-sharing, and getting around Murcia.</p>
         </header>
 
         <section>
             <h2>1. Tram (Tranvía)</h2>
-            <p>The tram is the most convenient tool in Murcia. It has one main line (L1) covering key spots for exchange students.</p>
+            <p>The tram is the most convenient tool in Murcia. It has one main line (L1).</p>
             
             <div class="info-card-flex">
                 <div class="price-info">
                     <h3>💰 Fare Information</h3>
                     <table class="price-table">
-                        <tr><td>Single Ticket (Zona 1 / Zona 2)</td><td>1.4€ / 1.5€</td></tr>
-                        <tr><td><strong>Multi-card (Bono Multitranspote)</strong></td><td>0.5€ / trip</td></tr>
-                        <tr><td><strong>Student Pass (Bono Campus)</strong></td><td>12€ / 28 days unlimited</td></tr>
+                        <tr><td>Single Ticket (Zona 1 / 2)</td><td>1.4€ / 1.5€</td></tr>
+                        <tr><td><strong>Multi-card (Bono)</strong></td><td>0.5€ / trip</td></tr>
+                        <tr><td><strong>Student Pass</strong></td><td>12€ / 28 days</td></tr>
                     </table>
-                    <p><small>* Student passes and Multi-cards must be applied for at the Tranvía office with your student ID.</small></p>
                 </div>
                 <div class="price-images">
                     <img src="../images/bono-murcia-estudiante.jpg" alt="Bono card">
-                    <p class="img-caption">Photo: Bono Estudiante (Multi-card)</p>
+                    <p class="img-caption">Photo: Bono Estudiante</p>
                     <img src="../images/tranvia.jpg" alt="Tram card">
                     <p class="img-caption">Photo: Tranvía Card</p>
                 </div>
@@ -69,38 +66,31 @@
 
             <div class="alert-box">
                 <strong>⚠️ Transfer Alert:</strong><br>
-                When heading towards "Universidad," those going to UCAM must get off at <span class="highlight">Los Rectores-Terra Natura</span> and transfer to the shuttle line for <strong>UCAM - Los Jerónimos</strong>. The same applies for the return trip (though direct trams occasionally run).
+                For UCAM, transfer at <span class="highlight">Los Rectores-Terra Natura</span> to the shuttle line.
             </div>
         </section>
 
         <section>
-            <h2>2. Bus (Autobús)</h2>
-            <p>The bus system is more complex, split into City (TMurciaBus) and Suburban (TMP) systems.</p>
-            <ul>
-                <li><strong>Multi-card Fare:</strong> Each trip costs <span class="highlight">0.8€</span>.</li>
-                <li><strong>Identification:</strong> Buses with an <strong>R</strong> on the front are typically city buses.</li>
-                <li><strong>Heading to UCAM:</strong> Take bus 44 or 33.</li>
-            </ul>
-
-            <div class="alert-box">
-                <strong>🚨 Important Notes:</strong><br>
-                1. Always ensure the front sign says <strong>UCAM - Los Jerónimos</strong>. For example, the 44E goes toward the Foreigners' Office (Extranjería) and does NOT go to campus.<br>
-                2. Buses are often late or cancelled; Google Maps data is not always 100% accurate.
-            </div>
-        </section>
-
-        <section>
-            <h2>3. Essential Apps</h2>
-            <p>Note: Most of these app interfaces are primarily in Spanish.</p>
+            <h2>2. Essential Apps</h2>
             <div class="app-list">
                 <div class="app-item">
-                    <div>
-                        <strong>Tranvía de Murcia</strong><br>
-                        <small style="color:#666">Network & Schedules</small>
-                    </div>
+                    <div><strong>Tranvía de Murcia</strong><br><small>Schedules</small></div>
                     <img src="../images/Tranvia%20de%20Murcia.png" alt="Tram app">
                 </div>
                 <div class="app-item">
-                    <div>
-                        <strong>TMurciaBus</strong><br>
-                        <small style="color:#666">City Bus Info</small>
+                    <div><strong>TMurciaBus</strong><br><small>City Bus</small></div>
+                    <img src="../images/TMurcia%20app.webp" alt="City bus app">
+                </div>
+                <div class="app-item">
+                    <div><strong>TMP</strong><br><small>Suburban Bus</small></div>
+                    <img src="../images/TMP%20app.png" alt="Suburban app">
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <a href="index.html" class="back-link">← Back to Menu</a>
+        </footer>
+    </div>
+</body>
+</html>
