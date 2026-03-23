@@ -8,17 +8,20 @@
         body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #F9F9F7; color: #333333; line-height: 1.8; margin: 0; padding: 40px 20px; display: flex; flex-direction: column; align-items: center; }
         .container { max-width: 750px; width: 100%; }
         header { border-bottom: 1px solid #D1D1D1; padding-bottom: 20px; margin-bottom: 40px; }
-        h1 { font-size: 1.8rem; letter-spacing: 1px; color: #222; }
-        h2 { font-size: 1.4rem; color: #333; margin-top: 40px; border-left: 5px solid #333; padding-left: 15px; background: #F0F0EE; padding: 5px 15px; }
+        h1 { font-size: 1.8rem; letter-spacing: 0.5px; color: #222; }
+        h2 { font-size: 1.4rem; color: #333; margin-top: 40px; border-left: 5px solid #333; padding: 8px 15px; background: #F0F0EE; }
         p { margin-bottom: 15px; }
-        .step-box { background: white; border: 1px solid #E0E0E0; padding: 25px; margin: 20px 0; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
-        .important-note { background-color: #FFF5F5; border-left: 4px solid #CC0000; padding: 15px; margin: 20px 0; color: #660000; font-size: 0.95rem; }
+        .step-box { background: white; border: 1px solid #E0E0E0; padding: 25px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.03); }
+        .important-note { background-color: #FFF5F5; border-left: 4px solid #CC0000; padding: 18px; margin: 20px 0; color: #660000; font-size: 0.95rem; border-radius: 0 4px 4px 0; }
         ul li { margin-bottom: 12px; }
-        strong { color: #222; }
+        strong { color: #111; }
         
-        /* Footer link styles */
-        .footer-reference { text-align: center; font-weight: bold; margin-top: 50px; padding: 20px; border-top: 1px solid #EEE; }
-        .footer-reference a { color: #222; text-decoration: underline; }
+        /* Reference Section Style */
+        .footer-reference { text-align: center; margin-top: 50px; padding: 30px; border-top: 2px dashed #EEE; background-color: #FFF; border-radius: 12px; }
+        .footer-reference p { font-weight: bold; margin-bottom: 15px; color: #555; }
+        .footer-reference .link-group { display: flex; flex-direction: column; gap: 12px; align-items: center; }
+        .footer-reference a { display: inline-block; color: #0055AA; text-decoration: none; border: 1px solid #0055AA; padding: 10px 25px; border-radius: 25px; transition: 0.3s; font-size: 0.9rem; min-width: 280px; }
+        .footer-reference a:hover { background: #0055AA; color: #FFF; }
         
         .back-link { display: inline-block; margin-top: 30px; text-decoration: none; color: #888; border-bottom: 1px solid #DDD; transition: 0.3s; }
         .back-link:hover { color: #333; border-color: #333; }
@@ -27,39 +30,46 @@
 <body>
     <div class="container">
         <header>
-            <h1>🛂 Visa & Residence Card (NIE/TIE)</h1>
-            <p style="color: #777;">Upon arrival in Spain, if your stay exceeds 180 days, you must apply for a TIE (Residence Card) within one month.</p>
+            <h1>🛂 Visa & Foreigner Identity Card (TIE)</h1>
+            <p style="color: #666;">If your stay in Spain is longer than 180 days, you are required to obtain a <strong>TIE (Tarjeta de Identidad de Extranjero)</strong> within 30 days of arrival.</p>
         </header>
 
         <section>
             <h2>Step 1: Book an Appointment (Cita Previa)</h2>
             <div class="step-box">
-                <p>Visit the official government appointment website:<br>
-                <a href="https://sede.administracionespublicas.gob.es/" target="_blank">https://sede.administracionespublicas.gob.es/</a><br>
-                Select <strong>PROCEDIMIENTOS</strong> in the top menu to show the dropdown<br>
-                Click on <strong>Extranjería</strong>, then select <strong>Cita Previa de Extranjería</strong><br>
-                Scroll to the bottom and click <strong>Acceder al Procedimiento</strong><br>
-                Select <strong>Murcia</strong> as the province, and choose <strong>POLICIA-TOMA DE HUELLAS</strong> (Fingerprinting).</p>
+                <p>Appointments must be scheduled through the official portal:<br>
+                <a href="https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus" target="_blank">Official Immigration Appointment Portal</a><br><br>
+                <strong>Process:</strong><br>
+                1. Select <strong>Murcia</strong> as your province.<br>
+                2. Select <strong>POLICIA-TOMA DE HUELLAS</strong> (Fingerprinting).<br>
+                3. Enter your details and choose an available office.</p>
                 
-                <p class="important-note">※ TIE appointments are extremely hard to get. It is recommended to check the website daily between 8-10 AM, and consider using a VPN to a Spanish server even before you arrive.</p>
+                <p class="important-note"><strong>💡 Advice:</strong> TIE slots are released unpredictably. Check the website every morning around 8:30 - 9:30 AM. Using a VPN to a Spanish server may improve connection stability during peak hours.</p>
             </div>
 
             <h2>Step 2: Required Documents</h2>
             <div class="step-box">
                 <ul>
-                    <li><strong>Form EX-17</strong>: Original and copy.</li>
-                    <li><strong>Passport</strong>: Full copy (including blank pages and entry stamp page).</li>
-                    <li><strong>Letter of Acceptance</strong>: The official admission letter from UCAM.</li>
-                    <li><strong>Certificate of Census (Empadronamiento)</strong>: Must be obtained at the City Hall (Ayuntamiento).<br>
-                        <span style="color: #666; font-size: 0.9rem;">Address: Calle Dr. Alonso de Espejo, 7, 30007 Murcia, Spain</span>
+                    <li><strong>Application Form EX-17</strong>: Completed and signed (Original + 1 Copy).</li>
+                    <li><strong>Valid Passport</strong>: Original plus a full photocopy of all pages.</li>
+                    <li><strong>Acceptance Letter</strong>: Your official enrollment document from UCAM.</li>
+                    <li><strong>Empadronamiento</strong>: Census certificate from Murcia City Hall.<br>
+                        <span style="color: #888; font-size: 0.85rem;">Office: Calle Dr. Alonso de Espejo, 7, 30007 Murcia.</span>
                     </li>
-                    <li><strong>Fee Tax 790-012</strong>: Paid at a bank, currently approx. €16.</li>
+                    <li><strong>Tax Form 790-012</strong>: Stamped proof of payment (approx. €16.08).</li>
                 </ul>
             </div>
 
             <div class="footer-reference">
-                For detailed steps and guide, please refer to:<br>
-                <a href="https://www.willstudy.tw/spain-tie-nie/#tie-apply" target="_blank">WillStudy - Spain TIE/NIE Application Guide</a>
+                <p>Official Academic & Government Resources</p>
+                <div class="link-group">
+                    <a href="https://sede.policia.gob.es/portalCiudadano/_en/tramites_extranjeria_tramite_tarjeta_residencia_residenciaytrabajo.php" target="_blank">
+                        🏛️ National Police: TIE Official Procedures
+                    </a>
+                    <a href="https://www.ucam.edu/sites/default/files/public/la-universidad/normativa/regulation-on-student-mobility-of-ucam-universidad-catolica-san-antonio-de-murcia-en.pdf" target="_blank">
+                        📄 UCAM International Student Mobility Guide (PDF)
+                    </a>
+                </div>
             </div>
         </section>
 
