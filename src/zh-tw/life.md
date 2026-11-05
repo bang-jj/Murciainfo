@@ -42,6 +42,8 @@ Mercadona、Día、Consum、Lidl、El Corte Inglés。基本生活所需的油�
 - **Hello Asia：** 位於市中心，離 Plaza Circular 步行 10 分鐘。
 - **糖家福（Happy Dulce）：** 位於 44 號公車路線上，抵達難度適中。
 - **萬家樂（Wan Ka Le）：** 位於郊區，需搭乘 30 號公車。
+
+亞超能買到哪些台灣常見的東西、怎麼和華人社群相處，請看 [台灣學生專區](community.html)。
 {% endcard %}
 
 ## 3. 網路通訊 (Mobile & Internet)
