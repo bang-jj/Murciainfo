@@ -1,0 +1,52 @@
+{#- 所有頁面共用的外框：<head>、頁首、語言切換、頁尾 -#}
+{%- set t = i18n[lang] if lang else i18n["en"] -%}
+{%- set langInfo = languages | findLang(lang) -%}
+<!DOCTYPE html>
+<html lang="{{ langInfo.htmlLang if langInfo else 'zh-Hant' }}" dir="{{ langInfo.dir if langInfo else 'ltr' }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if title and not isHome %}{{ title }} - {% endif %}{{ t.siteName if lang else site.siteTitle }}</title>
+    {%- if description %}
+    <meta name="description" content="{{ description }}">
+    {%- endif %}
+    <link rel="stylesheet" href="{{ root }}assets/style.css">
+</head>
+<body>
+    <div class="container">
+        {%- if lang %}
+        <nav class="topbar" aria-label="{{ t.language }}">
+            <a class="brand" href="index.html">{{ t.siteName }}</a>
+            {%- set others = collections.all | translationsOf(page) %}
+            {%- if others.length > 1 %}
+            <span class="lang-links">
+                {%- for p in others %}
+                {%- set l = languages | findLang(p.data.lang) %}
+                {%- if p.data.lang == lang %}<span class="current">{{ l.name }}</span>{% else %}<a href="{{ root }}{{ p.url.slice(1) }}" lang="{{ l.htmlLang }}">{{ l.name }}</a>{% endif %}
+                {%- endfor %}
+            </span>
+            {%- endif %}
+        </nav>
+        {%- endif %}
+
+        <header class="page-header">
+            <h1>{{ title }}</h1>
+            {%- if subtitle %}
+            <p class="subtitle">{{ subtitle }}</p>
+            {%- endif %}
+        </header>
+
+        <main>
+{{ content | safe }}
+        </main>
+
+        <footer class="page-footer">
+            {%- if lang and not isHome %}
+            <a href="index.html" class="back-link">{{ t.backToMenu }}</a>
+            {%- elif lang %}
+            <a href="{{ root }}index.html" class="back-link">{{ t.changeLanguage }}</a>
+            {%- endif %}
+        </footer>
+    </div>
+</body>
+</html>

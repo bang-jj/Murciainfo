@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+isHome: true
+---
+{#- 各語言的首頁：自動列出該語言所有頁面（依 order 排序） -#}
+{%- set t = i18n[lang] -%}
+{{ content | safe }}
+<ul class="category-list">
+{%- for p in collections.all | pagesInLang(lang) %}
+    <li class="category-item">
+        <a href="{{ p.page.fileSlug }}.html">
+            <span>{{ p.data.icon }} {{ p.data.menuTitle or p.data.title }}</span>
+            <span class="arrow">{{ t.view }}</span>
+        </a>
+    </li>
+{%- endfor %}
+</ul>

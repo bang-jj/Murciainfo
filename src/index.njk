@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+root: "./"
+permalink: /index.html
+title: "UCAM Murcia 交換生資訊網 Information of Murcia"
+subtitle: "請選擇語言 / Please Select Your Language / Selecciona tu idioma"
+---
+<ul class="category-list lang-grid">
+{%- for l in languages %}
+    {%- if l.ready %}
+    <li class="category-item">
+        <a href="{{ l.code }}/index.html" lang="{{ l.htmlLang }}">
+            <span>{{ l.name }}{% if l.english != l.name %} <span class="english">({{ l.english }})</span>{% endif %}</span>
+            <span class="arrow">→</span>
+        </a>
+    </li>
+    {%- else %}
+    <li class="category-item disabled">
+        <div class="soon" lang="{{ l.htmlLang }}">
+            <span>{{ l.name }}{% if l.english != l.name %} <span class="english">({{ l.english }})</span>{% endif %}</span>
+            <span class="arrow">準備中 / Coming soon</span>
+        </div>
+    </li>
+    {%- endif %}
+{%- endfor %}
+</ul>

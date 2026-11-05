@@ -1,0 +1,23 @@
+{
+  "name": "murciainfo",
+  "version": "1.0.0",
+  "description": "Information about Murcia for UCAM exchange students",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bang-jj/murciainfo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bang-jj/murciainfo/issues"
+  },
+  "homepage": "https://github.com/bang-jj/murciainfo#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.8",
+    "markdown-it": "^14.3.3"
+  },
+  "private": true,
+  "type": "module"
+}
