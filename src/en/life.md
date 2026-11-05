@@ -53,6 +53,15 @@ Upon arriving in Spain, it is recommended to visit a mobile store to get a **Pre
 - **Required Document:** You must bring your **Original Passport** to apply for a physical SIM card.
 - **Estimated Cost:** A monthly plan of **10€ to 15€** is usually more than enough for data and calls.
 
+{% alert "⚠️ Important: card verification codes (OTP)", "warning" %}
+When paying online with a card from your home country, your bank usually sends a verification code by SMS. Once you switch to a Spanish SIM, you may not receive these messages.
+
+**Solutions:**
+
+1. Before leaving, ask your bank to send verification codes **by email or in its app** instead.
+2. Add your card to **Apple Pay / Google Pay**, which can skip SMS verification.
+{% endalert %}
+
 ### 💸 Renewal & Topping Up (Validity: 28 Days)
 
 Prepaid plans in Spain typically run on a **28-day cycle**. There are two ways to renew:
