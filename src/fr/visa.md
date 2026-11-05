@@ -6,6 +6,19 @@ order: 2
 subtitle: "Si vous restez plus de 180 jours en Espagne, vous devez demander la TIE (Tarjeta de Identidad de Extranjero) dans les 30 jours suivant votre arrivée."
 ---
 
+{% alert "🇪🇺 Vous êtes citoyen de l'UE ?", "info" %}
+Les étapes ci-dessous (carte TIE) concernent les étudiants hors UE. **Les citoyens de l'UE (France, Belgique, Luxembourg…) n'ont besoin ni de visa ni de TIE.** Pour un séjour de plus de 3 mois, il faut s'inscrire au Registro Central de Extranjeros dans les 3 mois suivant l'arrivée et obtenir le **Certificado de Registro de Ciudadano de la Unión**, qui contient votre numéro **NIE**.
+
+Le rendez-vous se prend sur le même portail Cita Previa, en choisissant la procédure pour citoyens de l'UE (**Certificados UE**). Documents :
+
+- formulaire **EX-18**
+- justificatif de paiement de la taxe **790, code 012**
+- passeport ou **carte d'identité** en cours de validité
+- justificatif d'inscription (par ex. lettre d'acceptation de l'UCAM)
+- assurance maladie : la **carte européenne d'assurance maladie** valable pour tout le séjour suffit
+- déclaration de ressources suffisantes
+{% endalert %}
+
 ## Étape 1 : prendre rendez-vous (Cita Previa)
 
 {% card %}
