@@ -2,7 +2,7 @@
 title: Attractions 娛樂與景點
 menuTitle: 娛樂與景點
 icon: 🎉
-order: 6
+order: 7
 subtitle: 探索穆爾西亞：從市中心的人文氣息到近郊的自然風光。
 ---
 

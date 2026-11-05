@@ -2,7 +2,7 @@
 title: "Life Guide: Food & Supermarkets"
 menuTitle: "Life: Supermarkets, Banking & SIM"
 icon: 🛒
-order: 5
+order: 6
 subtitle: "How to survive in Murcia: From budget dining to grocery shopping tips."
 ---
 

@@ -6,6 +6,10 @@ order: 4
 subtitle: Public transit, ride-sharing, and getting around Murcia.
 ---
 
+{% alert "🧳 Going to Madrid, Barcelona or the airport?", "info" %}
+See [Long-Distance Travel: Getting to Murcia & Going Abroad](travel.html).
+{% endalert %}
+
 ## 1. Tram (Tranvía)
 
 The tram is the most convenient tool in Murcia. It has one main line (L1).
