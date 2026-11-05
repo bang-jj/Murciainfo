@@ -11,5 +11,5 @@ export default [
   { code: "fr", htmlLang: "fr", name: "Français", english: "French", dir: "ltr", ready: true },
   { code: "ar", htmlLang: "ar", name: "العربية", english: "Arabic", dir: "rtl", ready: true },
   { code: "pl", htmlLang: "pl", name: "Polski", english: "Polish", dir: "ltr", ready: true },
-  { code: "cs", htmlLang: "cs", name: "Čeština", english: "Czech", dir: "ltr", ready: false },
+  { code: "cs", htmlLang: "cs", name: "Čeština", english: "Czech", dir: "ltr", ready: true },
 ];

@@ -53,6 +53,10 @@ En arrivant en Espagne, le plus simple est d'aller en boutique prendre une **car
 - **Document :** apportez votre **passeport original** pour obtenir une carte SIM physique.
 - **Prix indicatif :** un forfait de **10 à 15 € par mois** suffit généralement largement.
 
+{% alert "🇪🇺 Itinérance dans l'UE", "info" %}
+Grâce au principe « roam like at home », vous pouvez utiliser votre SIM française (ou d'un autre pays de l'UE) sans surcoût au début. Pour un long séjour, l'opérateur peut toutefois appliquer des frais : pour tout un semestre, une SIM espagnole est souvent plus avantageuse.
+{% endalert %}
+
 {% alert "⚠️ Important : codes de vérification bancaire (OTP)", "warning" %}
 Pour les paiements en ligne avec une carte de votre pays, la banque envoie souvent un code par SMS. Avec une SIM espagnole, vous risquez de ne plus les recevoir.
 

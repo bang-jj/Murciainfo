@@ -89,7 +89,11 @@ Les vols long-courriers vers l'Asie, les Amériques et ailleurs partent généra
 
 ## 5. Conseils pour voyager
 
-{% alert "⚠️ Attention si vous n'avez pas encore votre TIE", "warning" %}
+{% alert "🇪🇺 Citoyens de l'UE", "info" %}
+Dans l'espace Schengen et l'UE, une **carte d'identité** ou un passeport suffit — gardez-le toujours sur vous à l'aéroport, les compagnies vérifient l'identité à l'embarquement. L'avertissement ci-dessous concerne surtout les étudiants hors UE.
+{% endalert %}
+
+{% alert "⚠️ Étudiants hors UE : attention si vous n'avez pas encore votre TIE", "warning" %}
 Si votre TIE est encore en cours, quitter l'espace Schengen (par ex. pour le Royaume-Uni ou le Maroc) peut poser problème pour revenir en Espagne. Vérifiez votre situation de visa et de séjour avant de partir, et en cas de doute, renseignez-vous auprès de l'immigration ou du bureau international de l'université.
 {% endalert %}
 
