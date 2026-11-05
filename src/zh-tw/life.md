@@ -2,7 +2,7 @@
 title: Life Guide 食物與超市
 menuTitle: 生活指南：超市、銀行與通訊
 icon: 🛒
-order: 5
+order: 6
 subtitle: 在穆爾西亞如何生存？從省錢外食到自煮攻略。
 ---
 
