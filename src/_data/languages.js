@@ -7,7 +7,7 @@ export default [
   { code: "en", htmlLang: "en", name: "English", english: "English", dir: "ltr", ready: true },
   { code: "es", htmlLang: "es", name: "Español", english: "Spanish", dir: "ltr", ready: true },
   { code: "ja", htmlLang: "ja", name: "日本語", english: "Japanese", dir: "ltr", ready: true },
-  { code: "ko", htmlLang: "ko", name: "한국어", english: "Korean", dir: "ltr", ready: false },
+  { code: "ko", htmlLang: "ko", name: "한국어", english: "Korean", dir: "ltr", ready: true },
   { code: "fr", htmlLang: "fr", name: "Français", english: "French", dir: "ltr", ready: false },
   { code: "ar", htmlLang: "ar", name: "العربية", english: "Arabic", dir: "rtl", ready: false },
   { code: "pl", htmlLang: "pl", name: "Polski", english: "Polish", dir: "ltr", ready: false },
