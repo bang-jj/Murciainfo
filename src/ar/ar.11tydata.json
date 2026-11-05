@@ -1,0 +1,6 @@
+{
+  "lang": "ar",
+  "root": "../",
+  "layout": "layouts/page.njk",
+  "permalink": "{{ page.filePathStem }}.html"
+}
