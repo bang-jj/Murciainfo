@@ -17,7 +17,7 @@
         {%- if lang %}
         <nav class="topbar" aria-label="{{ t.language }}">
             <a class="brand" href="index.html">{{ t.siteName }}</a>
-            {%- set others = collections.all | translationsOf(page) %}
+            {%- set others = collections.all | translationsOf(page, languages) %}
             {%- if others.length > 1 %}
             <span class="lang-links">
                 {%- for p in others %}
