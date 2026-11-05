@@ -71,11 +71,12 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("findLang", (languages, code) => languages.find((l) => l.code === code));
 
   // 找出同一頁面的其他語言版本（語言切換用）
-  eleventyConfig.addFilter("translationsOf", (pages, page) => {
+  eleventyConfig.addFilter("translationsOf", (pages, page, languages = []) => {
     const slug = page.filePathStem.split("/").slice(2).join("/");
-    return pages.filter(
-      (p) => p.data.lang && p.page.filePathStem.split("/").slice(2).join("/") === slug
-    );
+    const rank = (code) => languages.findIndex((l) => l.code === code);
+    return pages
+      .filter((p) => p.data.lang && p.page.filePathStem.split("/").slice(2).join("/") === slug)
+      .sort((a, b) => rank(a.data.lang) - rank(b.data.lang));
   });
 
   return {
