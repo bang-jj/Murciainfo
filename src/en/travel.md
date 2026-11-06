@@ -17,6 +17,8 @@ Murcia has two main stations. Check which one you need:
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen train station" %}
 
+{% figure "../images/places/bus-station.jpg", "Murcia bus station (San Andrés)" %}
+
 ## Which booking app?
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
@@ -87,6 +89,8 @@ From **Estació del Nord** bus station, about 10–12 hours. Overnight buses sav
 
 {% card "🛫 Alicante Airport ALC (best for going abroad)" %}
 {% tag "About 70 km" %} {% tag "Bus about 55 min" %}
+
+{% figure "../images/places/alicante-airport.jpg", "Alicante–Elche Airport" %}
 
 The airport with **the most routes** nearby: **141 destinations in 30 countries** in summer 2026, served by Ryanair, Vueling, easyJet, Wizz Air, Volotea and more. For most trips around Europe, this is the easiest place to fly from.
 

@@ -13,6 +13,8 @@ order: 1
 
 UCAM（Universidad Católica San Antonio de Murcia）はスポーツに強いことで知られています。メインキャンパスはロス・ヘロニモス修道院（Los Jerónimos Monastery）にあり、バスかトラムで中心部から約30〜60分です。
 
+{% figure "../images/places/ucam-jeronimos.jpg", "UCAM メインキャンパス（ロス・ヘロニモス修道院）" %}
+
 {% map "UCAM Campus de Los Jerónimos, Guadalupe, Murcia", "UCAM Campus de Los Jerónimos — Google マップで開く" %}
 
 英語で開講されている学部には、心理学、経営学、現代語学、歯学、薬学、スポーツ科学、国際関係があります。

@@ -13,6 +13,8 @@ order: 1
 
 تشتهر جامعة UCAM (Universidad Católica San Antonio de Murcia) بتميّزها في الرياضة. يقع الحرم الرئيسي في دير لوس خيرونيموس (Los Jerónimos)، ويمكن الوصول إليه بالحافلة أو الترام، على بعد 30 إلى 60 دقيقة تقريبًا من وسط المدينة.
 
+{% figure "../images/places/ucam-jeronimos.jpg", "الحرم الرئيسي لجامعة UCAM: دير لوس خيرونيموس" %}
+
 {% map "UCAM Campus de Los Jerónimos, Guadalupe, Murcia", "UCAM Campus de Los Jerónimos — افتح في خرائط Google" %}
 
 من التخصصات التي تُدرَّس بالإنجليزية: علم النفس، وإدارة الأعمال، واللغات الحديثة، وطب الأسنان، والصيدلة، وعلوم الرياضة، والعلاقات الدولية.

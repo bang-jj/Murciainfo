@@ -10,11 +10,11 @@ subtitle: "Jak znaleźć mieszkanie w Murcji: platformy i wskazówki dotyczące 
 
 Poza poleceniami znajomych najpopularniejszym narzędziem w Hiszpanii jest aplikacja **idealista**.
 
-{% card "💡 Wskazówki do idealista" %}
+{% app "idealista", "idealista", "https://www.idealista.com/" %}
 - **Język:** można ustawić angielski lub chiński, więc bariera językowa nie jest problemem.
 - **Wyszukiwanie:** na mapie, przez narysowanie obszaru albo kontakt telefoniczny.
 - **Typ lokalu:** większość studentów wymiany szuka **pokoju (habitación)** we wspólnym mieszkaniu.
-{% endcard %}
+{% endapp %}
 
 ## 2. Jak wygląda wspólne mieszkanie w Hiszpanii
 
@@ -27,6 +27,10 @@ Poza poleceniami znajomych najpopularniejszym narzędziem w Hiszpanii jest aplik
 {% endcard %}
 
 ## 3. Kontakt i podpisanie umowy
+
+{% app "WhatsApp", "whatsapp", "https://www.whatsapp.com/" %}
+W Hiszpanii prawie wszyscy korzystają z WhatsAppa – właściciele, współlokatorzy i grupy z zajęć. Zainstaluj go przed przyjazdem.
+{% endapp %}
 
 - **Używaj WhatsAppa:** najlepiej pisać po hiszpańsku. Jeśli właściciel nie odpowie w ciągu dnia, uprzejmie się przypomnij.
 - **Warunki najmu:** sprawdź, czy nie ma preferencji co do płci (np. tylko dziewczyny). Wielu właścicieli woli długie umowy (rok lub dłużej).

@@ -8,6 +8,11 @@ subtitle: "Descubre Murcia: de la cultura del centro a la naturaleza de los alre
 
 ## 1. Centro y alrededores (en tranvía o autobús)
 
+{% grid %}
+{% figure "../images/places/cathedral.jpg", "Catedral de Murcia" %}
+{% figure "../images/places/real-casino.jpg", "Interior del Real Casino" %}
+{% endgrid %}
+
 {% card "🏛️ Cultura y monumentos" %}
 - **Catedral de Murcia:** {% tag "Entrada libre cuando está abierta; visita guiada y torre de pago", "price" %} El símbolo de la ciudad. Las visitas a la catedral y a la torre se venden por separado, y las visitas guiadas son **solo en español**.
 - **Real Casino de Murcia:** {% tag "Con entrada", "price" %} Antiguo club de la alta sociedad convertido en museo. Su interior mezcla estilos islámico y europeo: espectacular y perfecto para fotos.

@@ -10,11 +10,11 @@ subtitle: "Encontrar tu casa en Murcia: consejos sobre plataformas y alquiler."
 
 Además de las recomendaciones de conocidos, la herramienta más usada en España es la app **idealista**.
 
-{% card "💡 Consejos para idealista" %}
+{% app "idealista", "idealista", "https://www.idealista.com/" %}
 - **Idioma:** se puede poner en inglés o chino, así que el idioma no es un problema.
 - **Formas de búsqueda:** por mapa, dibujando una zona o contactando por teléfono.
 - **Tipo de alojamiento:** la mayoría de estudiantes de intercambio buscan una **habitación** en piso compartido.
-{% endcard %}
+{% endapp %}
 
 ## 2. Cómo es un piso compartido en España
 
@@ -29,6 +29,10 @@ Además de las recomendaciones de conocidos, la herramienta más usada en Españ
 Ojo con el vocabulario: en España un **piso** es lo que en muchos países llaman *departamento*, y el **bajo** es la planta a nivel de calle.
 
 ## 3. Contacto y firma
+
+{% app "WhatsApp", "whatsapp", "https://www.whatsapp.com/" %}
+En España casi todo el mundo usa WhatsApp: caseros, compañeros de piso y grupos de clase. Instálala antes de llegar.
+{% endapp %}
 
 - **Usa WhatsApp:** se recomienda escribir en español. Si el casero no responde en un día, envía un recordatorio amable.
 - **Condiciones del alquiler:** fíjate si hay preferencia de género (p. ej. solo chicas) y ten en cuenta que muchos caseros prefieren contratos largos (1 año o más).

@@ -8,6 +8,11 @@ subtitle: "Odkryj Murcję: od kultury w centrum po przyrodę w okolicy."
 
 ## 1. Centrum i okolice (tramwajem lub autobusem)
 
+{% grid %}
+{% figure "../images/places/cathedral.jpg", "Katedra w Murcji" %}
+{% figure "../images/places/real-casino.jpg", "Wnętrze Real Casino" %}
+{% endgrid %}
+
 {% card "🏛️ Kultura i zabytki" %}
 - **Katedra w Murcji (Catedral de Murcia):** {% tag "Wstęp wolny w godzinach otwarcia; zwiedzanie z przewodnikiem i wieża płatne", "price" %} Symbol miasta. Zwiedzanie katedry i wieży sprzedawane jest osobno, a przewodnicy oprowadzają **tylko po hiszpańsku**.
 - **Real Casino de Murcia:** {% tag "Bilet wstępu", "price" %} Dawny klub elit zamieniony w muzeum. Wnętrza łączą styl islamski z europejskim – bardzo okazałe i świetne do zdjęć.

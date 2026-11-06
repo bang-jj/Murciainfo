@@ -38,6 +38,12 @@ Dans la candidature, vous choisissez une catégorie : **Erasmus+** pour les univ
 En cas de doute, demandez au bureau international de votre université ou écrivez à l'UCAM.
 {% endcard %}
 
+### 📸 Pas à pas : où trouver le Learning Agreement
+
+{% shot "../images/steps/la-1-erasmus.png", "Étape 1 : sur la page Incoming Students, ouvrez votre programme. Pour une université européenne, c'est « Erasmus Students Exchange at UCAM » (hors Europe : « Overseas Program »)." %}
+
+{% shot "../images/steps/la-2-erasmus.png", "Étape 2 : cliquez sur « Learning Agreement » pour télécharger le formulaire. « Elaborate your learning agreement », au-dessus, est le guide pour le remplir." %}
+
 {% alert "⚠️ Attention", "warning" %}
 - Le Learning Agreement déposé avec la candidature n'est **qu'une proposition** : ne l'envoyez pas encore aux tuteurs ou au bureau pour signature.
 - L'UCAM **n'utilise pas l'OLA (Online Learning Agreement)**.
@@ -74,10 +80,28 @@ En cas de doute, demandez au bureau international de votre université ou écriv
 Les abréviations de cursus sont acceptées, par ex. ADE/BBA (commerce), CAFD/SC (sciences du sport), TI (traduction), PSI/PSY (psychologie).
 {% endcard %}
 
+### 📸 Pas à pas : trouver les infos sur les cours
+
+{% shot "../images/steps/c-1-modalidad.png", "Étape 1 : dans le catalogue des licences, cliquez sur l'icône des filtres à côté de la recherche et cochez Presencial (en présentiel) dans « Modalidad »." %}
+
+{% shot "../images/steps/c-1-sede.png", "Étape 2 : descendez jusqu'à « Sedes » et cochez Murcia. (« Idiomas » permet de filtrer les cursus en anglais.)" %}
+
+{% shot "../images/steps/c-2-degree.png", "Étape 3 : ouvrez le cursus et passez à l'onglet « Plan de Estudios »." %}
+
+{% shot "../images/steps/c-3-plan.png", "Étape 4 : les cours sont classés par année avec leurs ECTS et leur semestre (Semestre). Cliquez sur un cours pour ouvrir sa fiche (guía docente)." %}
+
+{% shot "../images/steps/c-6-guia.png", "Étape 5 : le code du cours (ex. 17006) figure en haut de la fiche. Vous pouvez la passer en anglais (Inglés) ou la télécharger en PDF pour votre université." %}
+
 ## 5. À l'arrivée : emplois du temps, salles et plateforme en ligne
 
+### 📸 Pas à pas : emploi du temps et salles
+
+{% shot "../images/steps/c-4-horarios.png", "Sur la même page Plan de Estudios, descendez à « Horarios y exámenes », ouvrez « Horarios y Planificación » et choisissez l'année." %}
+
+{% shot "../images/steps/c-5-timetable.png", "L'emploi du temps en ligne indique l'heure, le code du cours et la salle de chaque séance : « Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8 » signifie salle 6, premier étage, bâtiment (pabellón) 8. Cliquez sur une séance pour plus de détails." %}
+
 {% card "🗓️ Emplois du temps et salles" %}
-- **Emplois du temps :** la page de chaque cursus propose des PDF **« Horarios y exámenes »** (horaires et examens), par année et semestre. Ils indiquent l'heure de chaque cours et le **code de la salle**, par ex. `P8_1_A02`.
+- **Emplois du temps :** sur la page **Plan de Estudios** du cursus, rubrique « Horarios y exámenes » → « Horarios y Planificación », ouvrez l'emploi du temps en ligne de chaque année. Il indique l'heure, le code du cours et la **salle** (ex. `Aula P8_1_A06` = bâtiment 8, premier étage, salle 6). Voir les captures ci-dessus.
 - **Plan du campus :** les salles sont réparties dans plusieurs bâtiments. Utilisez le [plan Google du campus](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19) et partez en avance pour vos premiers cours.
 - **Calendrier universitaire :** [calendrier 2026-2027 (PDF, anglais)](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf), avec rentrée, vacances et examens. Dentisterie, psychologie, soins infirmiers et médecine peuvent avoir d'autres dates.
 {% endcard %}
@@ -85,6 +109,10 @@ Les abréviations de cursus sont acceptées, par ex. ADE/BBA (commerce), CAFD/SC
 {% card "💻 Campus Virtual (plateforme en ligne)" %}
 Une fois votre compte UCAM créé, supports de cours, devoirs, annonces, examens et calendrier se trouvent sur le **[Campus Virtual](https://cv.ucam.edu/)**. Votre messagerie UCAM est sur [correo.ucam.edu](http://correo.ucam.edu/) ; en cas de problème de connexion, contactez le [support informatique de l'UCAM](https://soporte.ucam.edu/).
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+L'application officielle de l'UCAM : cherchez « UCAM » sur l'App Store ou Google Play.
+{% endapp %}
 
 ## 6. Contacts
 

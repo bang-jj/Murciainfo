@@ -17,6 +17,8 @@ subtitle: 從馬德里、巴塞隆納、瓦倫西亞到穆爾西亞，以及從�
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen 火車站" %}
 
+{% figure "../images/places/bus-station.jpg", "穆爾西亞巴士總站（San Andrés）" %}
+
 ## 訂票 App 怎麼選
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
@@ -89,6 +91,8 @@ Volotea 也有飛穆爾西亞機場（RMU）的航班，但班次較少。
 
 {% card "🛫 阿利坎特機場 ALC（最推薦出國）" %}
 {% tag "距離約 70 公里" %} {% tag "巴士約 55 分鐘" %}
+
+{% figure "../images/places/alicante-airport.jpg", "阿利坎特機場" %}
 
 附近**航線最多**的機場，2026 年夏季有 **141 個航點、30 個國家**，Ryanair、Vueling、easyJet、Wizz Air、Volotea 等廉航都有飛。想去歐洲其他國家旅遊，大多從這裡出發最方便。
 

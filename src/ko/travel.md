@@ -17,6 +17,8 @@ subtitle: "마드리드, 바르셀로나, 발렌시아에서 무르시아로 오
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen 기차역" %}
 
+{% figure "../images/places/bus-station.jpg", "무르시아 버스터미널(San Andrés)" %}
+
 ## 예매 앱 고르기
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
@@ -87,6 +89,8 @@ Volotea는 무르시아 공항(RMU)으로도 운항하지만 편수가 적습니
 
 {% card "🛫 알리칸테 공항 ALC(해외여행에 가장 추천)" %}
 {% tag "약 70km" %} {% tag "버스 약 55분" %}
+
+{% figure "../images/places/alicante-airport.jpg", "알리칸테 공항" %}
 
 근처에서 **노선이 가장 많은** 공항으로, 2026년 여름 **30개국 141개 도시**에 취항합니다. Ryanair, Vueling, easyJet, Wizz Air, Volotea 등 저가항공이 있어 유럽 여행 대부분은 여기서 출발하는 것이 편합니다.
 

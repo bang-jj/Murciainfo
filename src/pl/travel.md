@@ -17,6 +17,8 @@ Murcja ma dwa główne dworce. Sprawdź, którego potrzebujesz:
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Dworzec Murcia del Carmen" %}
 
+{% figure "../images/places/bus-station.jpg", "Dworzec autobusowy w Murcji (San Andrés)" %}
+
 ## Jaką aplikacją rezerwować?
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
@@ -87,6 +89,8 @@ Z dworca **Estació del Nord**, ok. 10–12 h. Autobusy nocne pozwalają zaoszcz
 
 {% card "🛫 Lotnisko Alicante ALC (najlepsze na wyjazdy za granicę)" %}
 {% tag "Ok. 70 km" %} {% tag "Autobus ok. 55 min" %}
+
+{% figure "../images/places/alicante-airport.jpg", "Lotnisko Alicante-Elche" %}
 
 Lotnisko z **największą liczbą połączeń** w okolicy: **141 kierunków w 30 krajach** latem 2026, m.in. Ryanair, Vueling, easyJet, Wizz Air i Volotea. Do większości miejsc w Europie (również do Polski) najwygodniej lecieć stąd.
 

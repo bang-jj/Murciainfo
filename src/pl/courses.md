@@ -38,6 +38,12 @@ W zgłoszeniu wybierasz kategorię: **Erasmus+** dla uczelni europejskich (w tym
 Jeśli nie wiesz, którego użyć, zapytaj w biurze międzynarodowym swojej uczelni albo napisz do UCAM.
 {% endcard %}
 
+### 📸 Krok po kroku: gdzie jest Learning Agreement
+
+{% shot "../images/steps/la-1-erasmus.png", "Krok 1: na stronie Incoming Students otwórz swój program. Dla uczelni europejskich, w tym polskich, to „Erasmus Students Exchange at UCAM”." %}
+
+{% shot "../images/steps/la-2-erasmus.png", "Krok 2: kliknij „Learning Agreement”, aby pobrać formularz. „Elaborate your learning agreement” wyżej to instrukcja wypełniania." %}
+
 {% alert "⚠️ Uwaga", "warning" %}
 - Learning Agreement przesłany ze zgłoszeniem to **tylko propozycja** – nie wysyłaj go jeszcze do tutorów ani biura do podpisu.
 - UCAM **nie korzysta z OLA (Online Learning Agreement)**, którego może wymagać Twoja uczelnia – w razie potrzeby uzgodnij to z koordynatorem w Polsce.
@@ -74,10 +80,28 @@ Jeśli nie wiesz, którego użyć, zapytaj w biurze międzynarodowym swojej ucze
 Można używać skrótów kierunków, np. ADE/BBA (zarządzanie), CAFD/SC (nauki o sporcie), TI (tłumaczenia), PSI/PSY (psychologia).
 {% endcard %}
 
+### 📸 Krok po kroku: informacje o przedmiotach
+
+{% shot "../images/steps/c-1-modalidad.png", "Krok 1: w katalogu studiów kliknij ikonę filtrów obok wyszukiwarki i zaznacz Presencial (stacjonarne) w sekcji „Modalidad”." %}
+
+{% shot "../images/steps/c-1-sede.png", "Krok 2: przewiń do „Sedes” i zaznacz Murcia. (W „Idiomas” możesz wybrać kierunki po angielsku.)" %}
+
+{% shot "../images/steps/c-2-degree.png", "Krok 3: otwórz kierunek i przejdź do zakładki „Plan de Estudios”." %}
+
+{% shot "../images/steps/c-3-plan.png", "Krok 4: przedmioty są podane według roku, z punktami ECTS i semestrem (Semestre). Kliknij nazwę, aby otworzyć sylabus (guía docente)." %}
+
+{% shot "../images/steps/c-6-guia.png", "Krok 5: kod przedmiotu (np. 17006) jest na górze sylabusa. Można przełączyć go na angielski (Inglés) albo pobrać jako PDF dla swojej uczelni." %}
+
 ## 5. Po przyjeździe: plan zajęć, sale i platforma online
 
+### 📸 Krok po kroku: plan zajęć i sale
+
+{% shot "../images/steps/c-4-horarios.png", "Na tej samej stronie Plan de Estudios przewiń do „Horarios y exámenes”, otwórz „Horarios y Planificación” i wybierz rok." %}
+
+{% shot "../images/steps/c-5-timetable.png", "Plan zajęć online pokazuje godzinę, kod przedmiotu i salę: „Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8” to sala 6 na pierwszym piętrze budynku (pabellón) 8. Kliknij zajęcia, aby zobaczyć szczegóły." %}
+
 {% card "🗓️ Plan zajęć i sale" %}
-- **Plan zajęć:** na stronie każdego kierunku są pliki PDF **„Horarios y exámenes”** (plan zajęć i egzaminów), według roku i semestru. Pokazują godziny zajęć i **kod sali**, np. `P8_1_A02`.
+- **Plan zajęć:** na stronie **Plan de Estudios** kierunku, w sekcji „Horarios y exámenes” → „Horarios y Planificación”, otwórz plan zajęć online dla każdego roku. Pokazuje godziny, kod przedmiotu i **salę** (np. `Aula P8_1_A06` = budynek 8, pierwsze piętro, sala 6). Zobacz zrzuty ekranu powyżej.
 - **Mapa kampusu:** sale są w różnych budynkach. Skorzystaj z [mapy kampusu w Google](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19) i na pierwsze zajęcia wyjdź wcześniej.
 - **Kalendarz akademicki:** [kalendarz 2026–2027 (PDF, po angielsku)](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf) – początek zajęć, przerwy i sesje. Stomatologia, psychologia, pielęgniarstwo i medycyna mogą mieć inne terminy.
 {% endcard %}
@@ -85,6 +109,10 @@ Można używać skrótów kierunków, np. ADE/BBA (zarządzanie), CAFD/SC (nauki
 {% card "💻 Campus Virtual (platforma e-learningowa)" %}
 Gdy dostaniesz konto UCAM, materiały, zadania, ogłoszenia, egzaminy i kalendarz znajdziesz na **[Campus Virtual](https://cv.ucam.edu/)**. Poczta UCAM jest na [correo.ucam.edu](http://correo.ucam.edu/), a w razie problemów z logowaniem pisz do [wsparcia IT UCAM](https://soporte.ucam.edu/).
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+Oficjalna aplikacja UCAM – wyszukaj „UCAM” w App Store lub Google Play.
+{% endapp %}
 
 ## 6. Kontakty
 

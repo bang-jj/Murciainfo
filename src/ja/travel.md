@@ -17,6 +17,8 @@ subtitle: "マドリード・バルセロナ・バレンシアからムルシア
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen 駅" %}
 
+{% figure "../images/places/bus-station.jpg", "ムルシアのバスターミナル（San Andrés）" %}
+
 ## 予約アプリの選び方
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
@@ -87,6 +89,8 @@ Volotea はムルシア空港（RMU）にも飛んでいますが、便数は少
 
 {% card "🛫 アリカンテ空港 ALC（海外旅行に一番おすすめ）" %}
 {% tag "約70km" %} {% tag "バスで約55分" %}
+
+{% figure "../images/places/alicante-airport.jpg", "アリカンテ空港" %}
 
 周辺で **最も路線が多い** 空港で、2026年夏は **30か国・141都市** に就航。Ryanair、Vueling、easyJet、Wizz Air、Volotea などの LCC が飛んでいます。ヨーロッパ旅行の多くはここからが便利です。
 

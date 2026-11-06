@@ -10,11 +10,11 @@ subtitle: "Jak najít bydlení v Murcii: platformy a tipy k pronájmu."
 
 Kromě doporučení od známých se ve Španělsku nejčastěji používá aplikace **idealista**.
 
-{% card "💡 Tipy k idealista" %}
+{% app "idealista", "idealista", "https://www.idealista.com/" %}
 - **Jazyk:** lze nastavit angličtinu nebo čínštinu, takže jazyková bariéra není problém.
 - **Hledání:** na mapě, nakreslením oblasti nebo kontaktem přes telefon.
 - **Typ bydlení:** většina výměnných studentů hledá **pokoj (habitación)** ve sdíleném bytě.
-{% endcard %}
+{% endapp %}
 
 ## 2. Jak vypadá sdílený byt ve Španělsku
 
@@ -27,6 +27,10 @@ Kromě doporučení od známých se ve Španělsku nejčastěji používá aplik
 {% endcard %}
 
 ## 3. Kontakt a podpis smlouvy
+
+{% app "WhatsApp", "whatsapp", "https://www.whatsapp.com/" %}
+Ve Španělsku skoro všichni používají WhatsApp – majitelé bytů, spolubydlící i skupiny z výuky. Nainstalujte si ho před příjezdem.
+{% endapp %}
 
 - **Používejte WhatsApp:** nejlépe pište španělsky. Pokud majitel do druhého dne neodpoví, zdvořile se připomeňte.
 - **Podmínky pronájmu:** zjistěte, jestli není požadavek na pohlaví (např. jen dívky). Mnoho majitelů preferuje dlouhé smlouvy (rok a déle).

@@ -38,6 +38,12 @@ subtitle: 從 Learning Agreement 下載、怎麼挑課，到開學後去哪裡�
 不確定用哪份，可以問台灣學校國際處或寫信給 UCAM。
 {% endcard %}
 
+### 📸 圖解：Learning Agreement 在哪裡
+
+{% shot "../images/steps/la-1-overseas.png", "第 1 步：打開 Incoming Students 頁面，點你的交換計畫。台灣等亞洲學校通常是「Overseas Program」。" %}
+
+{% shot "../images/steps/la-2-overseas.png", "第 2 步：展開後點「Learning Agreement」下載表格。上方的「Elaborate your learning agreement」是英文填寫教學。" %}
+
 {% alert "⚠️ 注意", "warning" %}
 - 申請時上傳的 Learning Agreement **只是草案**，不用先寄給 UCAM 老師或國際處簽名。
 - UCAM **不使用 OLA（Online Learning Agreement）系統**。
@@ -80,10 +86,28 @@ subtitle: 從 Learning Agreement 下載、怎麼挑課，到開學後去哪裡�
 填寫時科系名稱可以用縮寫，例如 ADE/BBA（企管）、CAFD/SC（運動科學）、TI（翻譯）、PSI/PSY（心理）。
 {% endcard %}
 
+### 📸 圖解：查課程資訊
+
+{% shot "../images/steps/c-1-modalidad.png", "第 1 步：在課程目錄點搜尋框右邊的篩選圖示，「Modalidad」勾選 Presencial（實體上課）。" %}
+
+{% shot "../images/steps/c-1-sede.png", "第 2 步：往下捲到「Sedes」，勾選 Murcia。（下方的「Idiomas」可以篩選英文授課的科系）" %}
+
+{% shot "../images/steps/c-2-degree.png", "第 3 步：點進想修的科系，切換到「Plan de Estudios」分頁。" %}
+
+{% shot "../images/steps/c-3-plan.png", "第 4 步：依年級列出每門課的學分（ECTS）和學期（Semestre）。點課名就會打開課程大綱。" %}
+
+{% shot "../images/steps/c-6-guia.png", "第 5 步：課程大綱最上方就是課程代碼（例如 17006），可以切換英文版（Inglés），也能下載 PDF，回台抵免時會用到。" %}
+
 ## 5. 開學後：課表、教室與上課平台
 
+### 📸 圖解：查課表和教室
+
+{% shot "../images/steps/c-4-horarios.png", "在同一個 Plan de Estudios 頁面往下捲到「Horarios y exámenes」，展開「Horarios y Planificación」，點你要的年級。" %}
+
+{% shot "../images/steps/c-5-timetable.png", "線上課表會列出每堂課的時間、課程代碼和教室。「Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8」代表 8 號館（Pabellón 8）1 樓的 6 號教室，西班牙的 1 樓等於台灣的 2 樓。點課堂可以看詳細資訊。" %}
+
 {% card "🗓️ 課表與教室" %}
-- **課表**：每個科系的網頁上都有 **「Horarios y exámenes」（課表與考試時間）** 的 PDF，依年級和學期分開。打開後可以看到每天每節課的時間和**教室代碼**，例如 `P8_1_A02`。
+- **課表：** 在科系的 **Plan de Estudios** 頁面下方「Horarios y exámenes」→「Horarios y Planificación」，依年級打開線上課表，會顯示每堂課的時間、課程代碼和**教室**（例如 `Aula P8_1_A06` = 8 號館 1 樓 6 號教室）。見上方圖解。
 - **校園地圖**：教室分佈在校園內不同建築，可以用學校的 [Google 校園地圖](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19)找到建築位置。第一次去上課建議提早出門找教室。
 - **學年行事曆**：[2026-2027 學年行事曆（英文 PDF）](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf)，上面有開學、假期和考試週。牙醫、心理、護理、醫學的開學日可能不同，請另外確認。
 {% endcard %}
@@ -91,6 +115,10 @@ subtitle: 從 Learning Agreement 下載、怎麼挑課，到開學後去哪裡�
 {% card "💻 Campus Virtual（線上學習平台）" %}
 拿到 UCAM 帳號後，課程教材、作業繳交、公告、考試與行事曆都在 **[Campus Virtual](https://cv.ucam.edu/)**。學校信箱在 [correo.ucam.edu](http://correo.ucam.edu/)，登入或技術問題可找 [UCAM 資訊支援](https://soporte.ucam.edu/)。
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+UCAM 官方 App，在 App Store 或 Google Play 搜尋「UCAM」即可下載，可以隨時查看學校資訊。
+{% endapp %}
 
 ## 6. 聯絡窗口
 

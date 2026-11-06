@@ -13,6 +13,8 @@ Murcie est la septième ville d'Espagne, au climat chaud et sec. Le coût de la 
 
 L'UCAM (Universidad Católica San Antonio de Murcia) est réputée pour le sport. Le campus principal se trouve au monastère de Los Jerónimos, accessible en bus ou en tramway, à environ 30-60 minutes du centre.
 
+{% figure "../images/places/ucam-jeronimos.jpg", "Campus principal de l'UCAM : monastère de Los Jerónimos" %}
+
 {% map "UCAM Campus de Los Jerónimos, Guadalupe, Murcia", "UCAM Campus de Los Jerónimos — Ouvrir dans Google Maps" %}
 
 Les cursus enseignés en anglais incluent la psychologie, le commerce, les langues modernes, la dentisterie, la pharmacie, les sciences du sport et les relations internationales.

@@ -14,6 +14,8 @@ See [Long-Distance Travel: Getting to Murcia & Going Abroad](travel.html).
 
 The tram is the most convenient way to get around Murcia. There is only one line (L1), and it covers most of the places exchange students go.
 
+{% figure "../images/places/tram.jpg", "Murcia tram" %}
+
 {% grid %}
 {% card "💰 Fare Information" %}
 | Ticket | Price |

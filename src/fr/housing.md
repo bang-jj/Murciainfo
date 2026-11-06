@@ -10,11 +10,11 @@ subtitle: "Trouver son chez-soi à Murcie : conseils sur les plateformes et la l
 
 En dehors du bouche-à-oreille, l'outil le plus utilisé en Espagne est l'application **idealista**.
 
-{% card "💡 Conseils pour idealista" %}
+{% app "idealista", "idealista", "https://www.idealista.com/" %}
 - **Langue :** l'application existe en anglais et en chinois, ce qui facilite la recherche.
 - **Modes de recherche :** carte, zone dessinée à la main ou contact par téléphone.
 - **Type de logement :** la plupart des étudiants en échange cherchent une **chambre (habitación)** en colocation.
-{% endcard %}
+{% endapp %}
 
 ## 2. À quoi ressemble une colocation espagnole
 
@@ -28,6 +28,10 @@ En dehors du bouche-à-oreille, l'outil le plus utilisé en Espagne est l'applic
 {% endcard %}
 
 ## 3. Contact et signature
+
+{% app "WhatsApp", "whatsapp", "https://www.whatsapp.com/" %}
+En Espagne, presque tout le monde utilise WhatsApp : propriétaires, colocataires et groupes de classe. Installez-la avant de partir.
+{% endapp %}
 
 - **Utilisez WhatsApp :** écrivez de préférence en espagnol. Si le propriétaire ne répond pas dans la journée, relancez-le poliment.
 - **Conditions :** vérifiez s'il y a une préférence de genre (par ex. filles uniquement). Beaucoup de propriétaires préfèrent les baux longs (1 an ou plus).

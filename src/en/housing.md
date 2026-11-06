@@ -10,11 +10,11 @@ subtitle: "Finding your sanctuary in Murcia: Platform tips and rental details."
 
 Apart from personal recommendations, the most popular tool in Spain is the **idealista** app.
 
-{% card "💡 idealista Tips" %}
+{% app "idealista", "idealista", "https://www.idealista.com/" %}
 - **Language:** English and Chinese settings are available to help bridge the communication gap.
 - **Search Methods:** Supports map view, draw-to-search, or contact via phone number.
 - **Room Types:** Most exchange students look for "Habitación" (a room in a shared apartment).
-{% endcard %}
+{% endapp %}
 
 ## 2. What a Spanish flatshare is like
 
@@ -28,6 +28,10 @@ Apart from personal recommendations, the most popular tool in Spain is the **ide
 {% endcard %}
 
 ## 3. Contact & Signing Advice
+
+{% app "WhatsApp", "whatsapp", "https://www.whatsapp.com/" %}
+Almost everyone in Spain uses WhatsApp — landlords, flatmates and class groups. Install it before you arrive.
+{% endapp %}
 
 - **Use WhatsApp:** It is highly recommended to message in Spanish. If the landlord doesn't reply within a day, send a polite follow-up.
 - **Rental Terms:** Check for gender preferences (e.g., female only) and note that most landlords prefer long-term leases (1 year+).

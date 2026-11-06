@@ -17,6 +17,8 @@ Murcie a deux gares principales. Vérifiez laquelle vous concerne :
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Gare de Murcia del Carmen" %}
 
+{% figure "../images/places/bus-station.jpg", "Gare routière de Murcie (San Andrés)" %}
+
 ## Quelle appli pour réserver ?
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/fr" %}
@@ -87,6 +89,8 @@ Depuis la gare routière **Estació del Nord**, environ 10 à 12 h. Les bus de n
 
 {% card "🛫 Aéroport d'Alicante ALC (le meilleur pour partir à l'étranger)" %}
 {% tag "Environ 70 km" %} {% tag "Bus environ 55 min" %}
+
+{% figure "../images/places/alicante-airport.jpg", "Aéroport d'Alicante-Elche" %}
 
 L'aéroport avec **le plus de lignes** de la région : **141 destinations dans 30 pays** à l'été 2026, avec Ryanair, Vueling, easyJet, Wizz Air, Volotea et d'autres. Pour la plupart des voyages en Europe, c'est le plus pratique.
 

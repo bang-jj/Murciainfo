@@ -17,6 +17,8 @@ Murcia má dvě hlavní nádraží. Ověřte si, které potřebujete:
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Nádraží Murcia del Carmen" %}
 
+{% figure "../images/places/bus-station.jpg", "Autobusové nádraží v Murcii (San Andrés)" %}
+
 ## Jakou aplikací rezervovat?
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
@@ -87,6 +89,8 @@ Z nádraží **Estació del Nord**, asi 10–12 h. Noční autobusy ušetří je
 
 {% card "🛫 Letiště Alicante ALC (nejlepší pro cesty do zahraničí)" %}
 {% tag "Asi 70 km" %} {% tag "Autobusem asi 55 min" %}
+
+{% figure "../images/places/alicante-airport.jpg", "Letiště Alicante-Elche" %}
 
 Letiště s **nejvíce linkami** v okolí: **141 destinací ve 30 zemích** v létě 2026, s Ryanairem, Vuelingem, easyJetem, Wizz Air, Voloteou a dalšími. Na většinu cest po Evropě je nejpohodlnější.
 

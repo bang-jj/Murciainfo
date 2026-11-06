@@ -8,6 +8,11 @@ subtitle: ムルシアを楽しむ：中心部の文化から郊外の自然ま�
 
 ## 1. 中心部と近郊（トラム・バスで行ける）
 
+{% grid %}
+{% figure "../images/places/cathedral.jpg", "ムルシア大聖堂" %}
+{% figure "../images/places/real-casino.jpg", "レアル・カジノの内部" %}
+{% endgrid %}
+
 {% card "🏛️ 文化とランドマーク" %}
 - **ムルシア大聖堂（Catedral de Murcia）：** {% tag "開館中は無料で入場可、ガイドツアーと鐘楼は有料", "price" %} 街のシンボル。大聖堂と鐘楼のツアーは別売りで、ガイドは **スペイン語のみ** です。
 - **レアル・カジノ（Real Casino de Murcia）：** {% tag "有料", "price" %} かつての上流階級のクラブを改装した博物館。イスラムとヨーロッパの様式が融合した内装はとても豪華で、写真映えします。

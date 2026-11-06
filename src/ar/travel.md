@@ -17,6 +17,8 @@ subtitle: "كيف تصل إلى مرسية من مدريد وبرشلونة وف
 
 {% figure "../images/places/murcia-del-carmen.jpg", "محطة قطار Murcia del Carmen" %}
 
+{% figure "../images/places/bus-station.jpg", "محطة حافلات مرسية (San Andrés)" %}
+
 ## أي تطبيق تستخدم للحجز؟
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
@@ -87,6 +89,8 @@ subtitle: "كيف تصل إلى مرسية من مدريد وبرشلونة وف
 
 {% card "🛫 مطار أليكانتي ALC (الأفضل للسفر إلى الخارج)" %}
 {% tag "نحو 70 كم" %} {% tag "بالحافلة نحو 55 دقيقة" %}
+
+{% figure "../images/places/alicante-airport.jpg", "مطار أليكانتي-إلتشي" %}
 
 المطار الذي فيه **أكبر عدد من الخطوط** في المنطقة: **141 وجهة في 30 دولة** في صيف 2026، مع Ryanair وVueling وeasyJet وWizz Air وVolotea وغيرها. لمعظم الرحلات داخل أوروبا، هو الأنسب.
 

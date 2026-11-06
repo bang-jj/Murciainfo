@@ -14,6 +14,8 @@ Consulta [Viajes largos: llegar a Murcia y viajar al extranjero](travel.html).
 
 El tranvía es la forma más cómoda de moverse por Murcia. Solo hay una línea (L1), que cubre la mayoría de los sitios a los que van los estudiantes de intercambio.
 
+{% figure "../images/places/tram.jpg", "Tranvía de Murcia" %}
+
 {% grid %}
 {% card "💰 Tarifas" %}
 | Billete | Precio |

@@ -17,6 +17,8 @@ Murcia tiene dos estaciones principales. Comprueba cuál necesitas:
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Estación de Murcia del Carmen" %}
 
+{% figure "../images/places/bus-station.jpg", "Estación de autobuses de Murcia (San Andrés)" %}
+
 ## ¿Con qué app reservar?
 
 {% app "Trainline", "trainline", "https://www.thetrainline.com/es" %}
@@ -87,6 +89,8 @@ Desde la **Estació del Nord**, unas 10-12 horas. Los nocturnos te ahorran una n
 
 {% card "🛫 Aeropuerto de Alicante ALC (el mejor para viajar fuera)" %}
 {% tag "Unos 70 km" %} {% tag "Autobús unos 55 min" %}
+
+{% figure "../images/places/alicante-airport.jpg", "Aeropuerto de Alicante-Elche" %}
 
 El aeropuerto con **más rutas** de la zona: **141 destinos en 30 países** en verano de 2026, con Ryanair, Vueling, easyJet, Wizz Air, Volotea y más. Para la mayoría de viajes por Europa, es el más cómodo.
 

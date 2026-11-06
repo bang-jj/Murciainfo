@@ -1,1 +1,37 @@
-{}
+{
+  "murcia-del-carmen.jpg": {
+    "author": "Sharon Hahn Darlin",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Murcia_del_Carmen_railway_station_-_front_2023.jpg"
+  },
+  "ucam-jeronimos.jpg": {
+    "author": "Francisco Martinez",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Los_Jer%C3%B3nimos_Guadalupe_Murcia_-_panoramio.jpg"
+  },
+  "bus-station.jpg": {
+    "author": "Hetemacaba",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_autobuses_de_Murcia.jpg"
+  },
+  "cathedral.jpg": {
+    "author": "Morini33",
+    "license": "CC BY-SA 3.0 ES",
+    "url": "https://commons.wikimedia.org/wiki/File:Catedral_de_Murcia._Fachada_principal_y_torre..jpg"
+  },
+  "real-casino.jpg": {
+    "author": "Olga1969",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Casino_Murcia.jpg"
+  },
+  "tram.jpg": {
+    "author": "Angelvilu",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Citadis_302_Tranvia_de_Murcia.JPG"
+  },
+  "alicante-airport.jpg": {
+    "author": "Werner Wilmes",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Alicante_-_52312672018.jpg"
+  }
+}
