@@ -37,14 +37,27 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. You can easily find basic neces
 
 ### 🏮 Asian Supermarkets
 
-If you miss Asian greens, daikon radish, black vinegar, or Shacha sauce, head to these spots:
+For Asian ingredients (soy sauce, noodles, tofu, sushi rice, spices) — or anything you can't find in Spanish supermarkets — try these Chinese-run shops:
 
 - **Hello Asia:** Located in the city center, a 10-minute walk from Plaza Circular.
 - **Happy Dulce (糖家福):** Located along the Bus 44 route; relatively easy to access.
 - **Wan Ka Le (萬家樂):** Located in the suburbs; requires Bus 30.
 {% endcard %}
 
-## 3. Mobile & Internet
+## 3. Money & Daily Habits
+
+{% card "💳 Paying for things" %}
+- **Cards work almost everywhere,** including contactless and Apple/Google Pay. Keep a little cash for small bars, markets and tobacco shops.
+- **Avoid foreign transaction fees:** many students use **Wise** or **Revolut** for euros instead of their home bank card. When a card machine offers to charge you in your home currency, always choose **euros**.
+- **Tipping isn't expected.** Rounding up or leaving a euro or two for good service is plenty — nothing like US tipping.
+- **Plugs:** Spain uses European type C/F plugs at 230 V. UK, US and Australian devices need an adapter.
+{% endcard %}
+
+{% card "🕐 The Spanish timetable" %}
+Lunch is around **14:00–16:00** and dinner rarely before **21:00**. Many small shops close in the afternoon, and restaurants may be empty at 19:00 because locals haven't started dinner yet.
+{% endcard %}
+
+## 4. Mobile & Internet
 
 Upon arriving in Spain, it is recommended to visit a mobile store to get a **Prepaid Card (Prepago)**. No long-term contracts are required.
 

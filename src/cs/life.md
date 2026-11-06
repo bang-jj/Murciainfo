@@ -37,12 +37,16 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. Základní potraviny jako olej,
 
 ### 🏮 Asijské obchody
 
-Pokud se vám stýská po asijské zelenině, ředkvi daikon, černém octu nebo omáčce shacha:
+Pro asijské potraviny (sójová omáčka, nudle, tofu, rýže na sushi, koření) zajděte do těchto obchodů vedených Číňany:
 
 - **Hello Asia:** v centru, 10 minut pěšky od Plaza Circular.
 - **Happy Dulce (糖家福):** na trase autobusu 44; snadno dostupné.
 - **Wan Ka Le (萬家樂):** na okraji města; autobus 30.
 {% endcard %}
+
+### 💶 Peníze
+
+Platba kartou funguje skoro všude. Abyste se vyhnuli poplatkům za převod z CZK na EUR, hodí se **eurový účet** nebo karta jako Revolut či Wise. U terminálu vždy plaťte v **EUR**, ne v CZK.
 
 ## 3. Telefon a internet
 

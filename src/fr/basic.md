@@ -14,3 +14,17 @@ Murcie est la septième ville d'Espagne, au climat chaud et sec. Le coût de la 
 L'UCAM (Universidad Católica San Antonio de Murcia) est réputée pour le sport. Le campus principal se trouve au monastère de Los Jerónimos, accessible en bus ou en tramway, à environ 30-60 minutes du centre.
 
 Les cursus enseignés en anglais incluent la psychologie, le commerce, les langues modernes, la dentisterie, la pharmacie, les sciences du sport et les relations internationales.
+
+## Langue : attention aux faux amis
+
+L'espagnol est proche du français, ce qui aide beaucoup… sauf avec les **faux amis** :
+
+| Espagnol | Veut dire | Et non pas |
+|---|---|---|
+| *embarazada* | enceinte | embarrassée |
+| *constipado* | enrhumé | constipé |
+| *éxito* | succès | sortie |
+| *salir* | sortir | salir |
+| *largo* | long | large |
+
+L'accent murcien est rapide et « avale » souvent le *s* final : c'est normal d'avoir du mal au début.

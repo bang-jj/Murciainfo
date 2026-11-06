@@ -15,6 +15,33 @@ Murcie a deux gares principales. Vérifiez laquelle vous concerne :
 - **Gare ferroviaire : Murcia del Carmen** (Plaza de la Industria). Tous les trains s'y arrêtent.
 - **Gare routière : Estación de Autobuses de Murcia** (San Andrés, Calle Sierra de la Pila 3). Les bus longue distance et les navettes aéroport partent d'ici.
 
+{% figure "../images/places/murcia-del-carmen.jpg", "Gare de Murcia del Carmen" %}
+
+## Quelle appli pour réserver ?
+
+{% app "Trainline", "trainline", "https://www.thetrainline.com/fr" %}
+**Comparez toutes les compagnies ferroviaires dans une seule appli.** En Espagne, la grande vitesse est assurée par Renfe, OUIGO et iryo, chacune avec son site. Trainline affiche leurs horaires et prix côte à côte et permet d'acheter en français ; le billet électronique est enregistré dans l'appli, il suffit de montrer son téléphone à bord.
+
+- **Pourquoi c'est pratique :** l'appli est en français et accepte généralement les **cartes étrangères** sans problème (le site de Renfe les refuse parfois).
+- **Inconvénient :** de petits frais de réservation s'ajoutent en général (affichés avant le paiement). Une fois le train choisi, comparez avec le site de la compagnie.
+- **Mode d'emploi :** départ (ex. Madrid), arrivée (Murcia) et date → comparer les compagnies → choisir un tarif → payer → le billet apparaît dans « Mes billets ».
+{% endapp %}
+
+{% grid %}
+{% app "Renfe", "renfe", "https://www.renfe.com/" %}
+La compagnie nationale : le plus d’horaires, de l’AVE aux trains régionaux.
+{% endapp %}
+{% app "OUIGO", "ouigo", "https://www.ouigo.com/es/" %}
+Grande vitesse low cost (filiale de la SNCF). Moins chère réservée tôt ; règles bagages strictes.
+{% endapp %}
+{% app "iryo", "iryo", "https://iryo.eu/" %}
+Compagnie privée à grande vitesse, prix proches de OUIGO, sièges plus confortables.
+{% endapp %}
+{% app "ALSA", "alsa", "https://www.alsa.com/" %}
+Le plus grand autocariste d’Espagne : aéroports, Madrid et Valence.
+{% endapp %}
+{% endgrid %}
+
 ## 1. Madrid → Murcie
 
 {% card "🚄 Train à grande vitesse (recommandé)" %}
@@ -101,6 +128,10 @@ Si votre TIE est encore en cours, quitter l'espace Schengen (par ex. pour le Roy
 - **Bagages low cost : règles strictes.** Souvent, seul un petit sac est gratuit. La valise cabine et les bagages en soute sont payants, et plus chers à l'approche du départ. Un bagage trop grand est facturé à la porte d'embarquement.
 - **Ryanair : enregistrement en ligne obligatoire.** S'enregistrer au comptoir de l'aéroport est payant.
 - **Comparateurs :** Skyscanner ou Google Flights pour les vols ; Trainline ou Omio pour les trains et bus — puis réservez sur le site de la compagnie, souvent moins cher.
+
+## 6. Rentrer en France
+
+L'aéroport de Murcie (RMU) a quelques vols vers la France (dont Marseille et Lille, souvent en saison), et **Alicante** en propose beaucoup plus vers de nombreuses villes françaises et belges. Comparez sur Skyscanner ou Google Flights et réservez tôt pour la fin du semestre.
 
 ## Sources
 

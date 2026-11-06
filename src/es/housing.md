@@ -16,14 +16,26 @@ Además de las recomendaciones de conocidos, la herramienta más usada en Españ
 - **Tipo de alojamiento:** la mayoría de estudiantes de intercambio buscan una **habitación** en piso compartido.
 {% endcard %}
 
-## 2. Contacto y firma
+## 2. Cómo es un piso compartido en España
+
+{% card "🏡 Qué esperar" %}
+- **Cocina compartida:** casi todos los pisos la tienen, equipada (fuego, horno, microondas, menaje). Normalmente cada persona tiene **una balda en la nevera** y un armario.
+- **Baño compartido:** las habitaciones con baño propio son pocas y más caras.
+- **Gastos:** pregunta si el agua, la luz, el gas e internet están **incluidos** en el alquiler. Si no, se reparten entre los compañeros.
+- **Fianza:** normalmente **un mes de alquiler**, que te devuelven al irte si no hay desperfectos.
+- **Calor y frío:** en verano Murcia supera a menudo los 35 °C y muchos pisos **no tienen calefacción**. Pregunta por el aire acondicionado y algún radiador.
+{% endcard %}
+
+Ojo con el vocabulario: en España un **piso** es lo que en muchos países llaman *departamento*, y el **bajo** es la planta a nivel de calle.
+
+## 3. Contacto y firma
 
 - **Usa WhatsApp:** se recomienda escribir en español. Si el casero no responde en un día, envía un recordatorio amable.
 - **Condiciones del alquiler:** fíjate si hay preferencia de género (p. ej. solo chicas) y ten en cuenta que muchos caseros prefieren contratos largos (1 año o más).
 - **Visita en persona:** visita siempre el piso antes de comprometerte, para evitar diferencias entre las fotos y la realidad.
 - **Pago:** pregunta si aceptan efectivo o transferencia. Para transferencias normalmente necesitarás una cuenta bancaria española.
 
-## 3. Curiosidades del alquiler en España
+## 4. Curiosidades del alquiler en España
 
 {% alert %}
 - **Cerraduras:** en los pisos compartidos, las puertas de las habitaciones a menudo **no tienen cerradura**. Pregunta antes si te importa la privacidad.
@@ -31,7 +43,7 @@ Además de las recomendaciones de conocidos, la herramienta más usada en Españ
 - **La cocina es clave:** comer fuera es caro; busca un piso con cocina. La mayoría están totalmente equipados.
 {% endalert %}
 
-## 4. Barrios recomendados
+## 5. Barrios recomendados
 
 Además del centro, las zonas con más oferta para estudiantes son:
 

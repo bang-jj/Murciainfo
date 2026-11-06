@@ -15,7 +15,36 @@ subtitle: 從馬德里、巴塞隆納、瓦倫西亞到穆爾西亞，以及從�
 - **火車站：Murcia del Carmen**（Plaza de la Industria），所有火車都停這裡。
 - **巴士總站：Estación de Autobuses de Murcia**（又稱 San Andrés，Calle Sierra de la Pila 3），長途巴士與機場巴士都在這裡。
 
+{% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen 火車站" %}
+
+## 訂票 App 怎麼選
+
+{% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
+**一個 App 比較所有火車公司**。西班牙高鐵有 Renfe、OUIGO、iryo 三家，各自有官網，Trainline 可以把同一天的班次和票價放在一起比，直接買票，電子票存在 App 裡，上車出示手機即可。
+
+- **適合台灣同學的原因：** 介面有英文，**台灣信用卡通常可以順利付款**（Renfe 官網有時不接受外國卡或卡在驗證）。
+- **缺點：** 通常會收一點手續費，結帳時會顯示金額。確定班次後，也可以再到該公司官網比較價格。
+- **怎麼用：** 輸入出發地（例如 Madrid）和目的地（Murcia）、日期 → 比較各家班次 → 選票種 → 付款 → 電子票出現在「我的車票」。
+{% endapp %}
+
+{% grid %}
+{% app "Renfe", "renfe", "https://www.renfe.com/" %}
+西班牙國鐵，班次最多，AVE 高鐵和區間車都買得到。
+{% endapp %}
+{% app "OUIGO", "ouigo", "https://www.ouigo.com/es/" %}
+法國國鐵旗下的低價高鐵，提早買最便宜，行李規定比較嚴。
+{% endapp %}
+{% app "iryo", "iryo", "https://iryo.eu/" %}
+另一家民營高鐵，價格和 OUIGO 差不多，座位比較舒適。
+{% endapp %}
+{% app "ALSA", "alsa", "https://www.alsa.com/" %}
+西班牙最大的長途巴士公司，去機場、馬德里、瓦倫西亞都靠它。
+{% endapp %}
+{% endgrid %}
+
 ## 1. 從馬德里到穆爾西亞
+
+從台灣飛來，多半會在 **馬德里機場（MAD）** 降落，再轉高鐵或巴士到穆爾西亞。拖著大行李的話，在機場直接搭 ALSA 巴士最省事。
 
 {% card "🚄 高鐵（最推薦）" %}
 - **車程：** 最快約 2 小時 45 分，多數班次約 3～3.5 小時。
@@ -97,6 +126,14 @@ Volotea 也有飛穆爾西亞機場（RMU）的航班，但班次較少。
 - **廉航行李規定很嚴：** 免費的通常只有一個小包，登機箱和托運行李都要另外加購，且越晚買越貴。尺寸超過會在登機口被收費。
 - **Ryanair 要提前線上報到：** 沒有線上報到、到機場櫃檯辦理會被收費。
 - **比價工具：** 機票用 Skyscanner、Google Flights；火車、巴士用 Trainline、Omio 比價後，再到官網買通常比較便宜。
+
+## 6. 回台灣的機票
+
+西班牙沒有直飛台灣的航班，回台通常要轉機一次：
+
+- **中東轉機：** 土耳其航空（伊斯坦堡）、阿聯酋航空（杜拜）、卡達航空（杜哈）等，馬德里、巴塞隆納都有航班。
+- **歐洲轉機：** 華航、長榮在幾個歐洲城市有直飛台北的航班（實際航點請查詢），可以先從阿利坎特或馬德里飛到這些城市再轉機。
+- 用 Skyscanner 或 Google Flights 比價，學期結束前後機票較貴，建議提早訂。
 
 ## 參考資料
 

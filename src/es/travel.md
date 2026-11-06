@@ -15,6 +15,33 @@ Murcia tiene dos estaciones principales. Comprueba cuál necesitas:
 - **Estación de tren: Murcia del Carmen** (Plaza de la Industria). Todos los trenes paran aquí.
 - **Estación de autobuses: Estación de Autobuses de Murcia** (San Andrés, Calle Sierra de la Pila 3). De aquí salen los autobuses de largo recorrido y los del aeropuerto.
 
+{% figure "../images/places/murcia-del-carmen.jpg", "Estación de Murcia del Carmen" %}
+
+## ¿Con qué app reservar?
+
+{% app "Trainline", "trainline", "https://www.thetrainline.com/es" %}
+**Compara todas las compañías de tren en una sola app.** La alta velocidad en España la operan Renfe, OUIGO e iryo, cada una con su web. Trainline muestra sus horarios y precios juntos y te deja comprar al momento; el billete electrónico queda guardado en la app y solo tienes que enseñar el móvil.
+
+- **Por qué la usan los estudiantes:** suele aceptar **tarjetas extranjeras** sin problemas (la web de Renfe a veces las rechaza).
+- **Inconveniente:** normalmente cobra una pequeña comisión, que ves antes de pagar. Cuando tengas el tren elegido, puedes comparar con la web de la compañía.
+- **Cómo se usa:** origen (p. ej. Madrid) y destino (Murcia) y fecha → comparar compañías → elegir tarifa → pagar → el billete aparece en «Mis billetes».
+{% endapp %}
+
+{% grid %}
+{% app "Renfe", "renfe", "https://www.renfe.com/" %}
+La compañía ferroviaria nacional: más horarios, desde el AVE hasta los regionales.
+{% endapp %}
+{% app "OUIGO", "ouigo", "https://www.ouigo.com/es/" %}
+Alta velocidad low cost. Más barato reservando pronto; normas de equipaje estrictas.
+{% endapp %}
+{% app "iryo", "iryo", "https://iryo.eu/" %}
+Alta velocidad privada, con precios parecidos a OUIGO y asientos más cómodos.
+{% endapp %}
+{% app "ALSA", "alsa", "https://www.alsa.com/" %}
+La mayor compañía de autobuses de España: aeropuertos, Madrid y Valencia.
+{% endapp %}
+{% endgrid %}
+
 ## 1. Madrid → Murcia
 
 {% card "🚄 Tren de alta velocidad (recomendado)" %}
@@ -97,6 +124,10 @@ Si tu TIE todavía está en trámite, salir del espacio Schengen (p. ej. a Reino
 - **Equipaje low cost:** normalmente solo es gratis un bolso pequeño. La maleta de cabina y la facturada se pagan aparte, y suben de precio cuanto más tarde las compres. Si tu equipaje es más grande, te cobran en la puerta de embarque.
 - **Ryanair: haz el check-in online:** hacerlo en el mostrador del aeropuerto cuesta dinero.
 - **Comparadores:** Skyscanner o Google Flights para vuelos; Trainline u Omio para trenes y autobuses. Después, compra en la web del operador, que suele ser más barata.
+
+## 6. Volver a Latinoamérica
+
+Los vuelos directos a América Latina salen casi siempre de **Madrid**, con muchas rutas a capitales como Bogotá, Lima, Quito, Ciudad de México, Buenos Aires o Santiago. Desde Murcia, lo más cómodo es el **autobús directo de ALSA a la T4** o el AVE hasta Madrid. Reserva pronto: a final de semestre los precios suben mucho.
 
 ## Fuentes
 

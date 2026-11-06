@@ -37,12 +37,16 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. Podstawowe produkty, takie jak 
 
 ### 🏮 Sklepy azjatyckie
 
-Jeśli brakuje Ci azjatyckich warzyw, rzodkwi daikon, czarnego octu czy sosu shacha:
+Po azjatyckie produkty (sos sojowy, makarony, tofu, ryż do sushi, przyprawy) wybierz się do tych sklepów prowadzonych przez Chińczyków:
 
 - **Hello Asia:** w centrum, 10 minut pieszo od Plaza Circular.
 - **Happy Dulce (糖家福):** na trasie autobusu 44; łatwo dojechać.
 - **Wan Ka Le (萬家樂):** na obrzeżach; autobus 30.
 {% endcard %}
+
+### 💶 Pieniądze
+
+Kartą zapłacisz prawie wszędzie. Żeby uniknąć opłat za przewalutowanie PLN → EUR, przyda się **karta wielowalutowa** lub konto walutowe (np. Revolut, Wise albo oferta Twojego banku). Przy płatności zawsze wybieraj walutę **EUR**, a nie PLN.
 
 ## 3. Telefon i internet
 

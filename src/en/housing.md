@@ -16,22 +16,33 @@ Apart from personal recommendations, the most popular tool in Spain is the **ide
 - **Room Types:** Most exchange students look for "Habitación" (a room in a shared apartment).
 {% endcard %}
 
-## 2. Contact & Signing Advice
+## 2. What a Spanish flatshare is like
+
+{% card "🏡 What to expect" %}
+- **Shared kitchen:** almost every flat has one, shared by all flatmates, usually fully equipped (hob, oven, microwave, pans). Each person normally gets **a shelf in the fridge** and a cupboard.
+- **Shared bathroom:** en-suite rooms are rare and cost more.
+- **Washing machine, rarely a dryer:** clothes dry on a rack or balcony — in Murcia's sun that's quick.
+- **Bills (gastos):** check whether water, electricity, gas and Wi-Fi are **included** in the rent, as "bills included" isn't always the default. If not, flatmates usually split them.
+- **Deposit (fianza):** usually **one month's rent**, returned when you move out if nothing is damaged.
+- **Air conditioning:** summers are very hot (often over 35 °C), and winters feel cold indoors because many flats have **no central heating**. Ask about *aire acondicionado* and a heater when viewing.
+{% endcard %}
+
+## 3. Contact & Signing Advice
 
 - **Use WhatsApp:** It is highly recommended to message in Spanish. If the landlord doesn't reply within a day, send a polite follow-up.
 - **Rental Terms:** Check for gender preferences (e.g., female only) and note that most landlords prefer long-term leases (1 year+).
 - **In-Person Viewing:** Always visit the apartment in person before committing to avoid discrepancies between photos and reality.
 - **Payment:** Ask if they accept cash or bank transfers. Transfers usually require a local bank account.
 
-## 3. Spanish Rental Trivia (Cultural Differences)
+## 4. Spanish Rental Trivia (Cultural Differences)
 
 {% alert %}
 - **Bedroom Locks:** In shared Spanish flats, bedroom doors often **do not have locks**. Ask in advance if you prioritize privacy.
-- **Floor Numbering:** Floors go from **G (Ground Floor) → 1 → 2…**. Thus, the "1st floor" is usually one level above the street.
+- **Floor Numbering:** Floors go from **Bajo (ground floor) → 1 → 2…**, just like in the UK and Ireland. **North Americans:** the Spanish "1st floor" is what you would call the 2nd floor.
 - **Kitchen Importance:** Eating out is expensive in Spain; finding a place with a kitchen is a must. Most rentals come fully equipped.
 {% endalert %}
 
-## 4. Neighborhood Recommendations
+## 5. Neighborhood Recommendations
 
 Beyond the City Center (Centro), popular areas for students include:
 

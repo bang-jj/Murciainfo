@@ -28,7 +28,7 @@ Alrededor del **10 de mayo** para el primer semestre y del **1 de noviembre** pa
 Todos los formularios están en la **[página de Incoming Students de la UCAM](https://www.ucam.edu/servicios/oficina-relaciones-internacionales/incoming-students)**.
 
 {% card "📄 Elige el formulario de tu programa" %}
-En la solicitud eliges una categoría: **Erasmus+** para universidades europeas, **UCAM Ibero** para Latinoamérica y **UCAM USA/Overseas** para EE. UU., Canadá y Asia.
+En la solicitud eliges una categoría: **Erasmus+** para universidades europeas, **UCAM Ibero** para Latinoamérica y **UCAM USA/Overseas** para EE. UU., Canadá y Asia. **Si vienes de una universidad latinoamericana, la tuya es UCAM Ibero**, que tiene su propia lista de asignaturas y calendario en la página de Incoming Students.
 
 - **Programa Overseas / Norteamérica:** [learning_agreement_completo.docx](https://www.ucam.edu/sites/default/files/public/Oficina-relaciones-internacionales/Incoming-Students/Overseas-Program/learning_agreement_completo.docx)
 - **Erasmus:** [learning_agreement.docx](https://www.ucam.edu/sites/default/files/public/Oficina-relaciones-internacionales/programa-erasmus-estudio/learning_agreement.docx)

@@ -45,6 +45,13 @@ Terminy na TIE pojawiają się nieregularnie i bardzo trudno je zdobyć. Sprawdz
 - **Opłata 790-012**: potwierdzenie wpłaty w banku (ok. 16 €).
 {% endcard %}
 
+## Zdrowie i sytuacje awaryjne
+
+- **EKUZ:** wyrób przed wyjazdem w NFZ – daje dostęp do publicznej opieki zdrowotnej w Hiszpanii. Warto mieć też dodatkowe ubezpieczenie podróżne.
+- **Numer alarmowy w Hiszpanii: 112.**
+- **Ambasada RP w Madrycie** zapewnia pomoc konsularną w całej Hiszpanii; w niektórych miastach działają też **konsulowie honorowi**. Aktualne kontakty: [gov.pl/web/hiszpania](https://www.gov.pl/web/hiszpania) i [lista konsulatów honorowych](https://www.gov.pl/web/hiszpania/konsulaty-honorowe).
+- Przed wyjazdem warto zarejestrować podróż w systemie **Odyseusz** MSZ.
+
 ## Oficjalne źródła
 
 - [🏛️ Policía Nacional: oficjalna procedura TIE](https://sede.policia.gob.es/portalCiudadano/_en/tramites_extranjeria_tramite_tarjeta_residencia_residenciaytrabajo.php)
