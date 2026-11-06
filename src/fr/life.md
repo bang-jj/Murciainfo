@@ -37,12 +37,18 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. Vous trouverez facilement l'ess
 
 ### 🏮 Épiceries asiatiques
 
-Si les légumes asiatiques, le radis daikon, le vinaigre noir ou la sauce shacha vous manquent :
+Pour les produits asiatiques (sauce soja, nouilles, tofu, riz à sushi, épices), direction ces épiceries tenues par des Chinois :
 
 - **Hello Asia :** dans le centre, à 10 minutes à pied de la Plaza Circular.
 - **Happy Dulce (糖家福) :** sur la ligne de bus 44 ; facile d'accès.
 - **Wan Ka Le (萬家樂) :** en périphérie ; bus 30.
+
+{% map "Hello Asia, Murcia", "Hello Asia — Ouvrir dans Google Maps" %}
 {% endcard %}
+
+### 💶 Banque
+
+Une carte bancaire française fonctionne partout en Espagne, sans frais de change (zone euro). Un compte espagnol n'est utile que si votre propriétaire exige un virement depuis une banque espagnole — en principe, un IBAN français est accepté dans la zone SEPA.
 
 ## 3. Téléphone et internet
 

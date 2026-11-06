@@ -38,6 +38,12 @@ V přihlášce volíte kategorii: **Erasmus+** pro evropské univerzity (včetn�
 Pokud si nejste jistí, který použít, zeptejte se na mezinárodním oddělení své školy nebo napište UCAM.
 {% endcard %}
 
+### 📸 Krok za krokem: kde najít Learning Agreement
+
+{% shot "../images/steps/la-1-erasmus.png", "Krok 1: na stránce Incoming Students otevřete svůj program. Pro evropské univerzity, včetně českých, je to „Erasmus Students Exchange at UCAM“." %}
+
+{% shot "../images/steps/la-2-erasmus.png", "Krok 2: klikněte na „Learning Agreement“ a stáhněte formulář. „Elaborate your learning agreement“ výše je návod k vyplnění." %}
+
 {% alert "⚠️ Pozor", "warning" %}
 - Learning Agreement nahraný s přihláškou je **jen návrh** – zatím ho neposílejte tutorům ani kanceláři k podpisu.
 - UCAM **nepoužívá OLA (Online Learning Agreement)**, které může vaše škola vyžadovat – případně to proberte s koordinátorem doma.
@@ -74,10 +80,28 @@ Pokud si nejste jistí, který použít, zeptejte se na mezinárodním oddělen�
 Lze používat zkratky oborů, např. ADE/BBA (podnikání), CAFD/SC (sportovní vědy), TI (překladatelství), PSI/PSY (psychologie).
 {% endcard %}
 
+### 📸 Krok za krokem: informace o předmětech
+
+{% shot "../images/steps/c-1-modalidad.png", "Krok 1: v katalogu oborů klikněte na ikonu filtrů vedle vyhledávání a v sekci „Modalidad“ zaškrtněte Presencial (prezenční)." %}
+
+{% shot "../images/steps/c-1-sede.png", "Krok 2: sjeďte k „Sedes“ a zaškrtněte Murcia. (V „Idiomas“ můžete vyfiltrovat obory v angličtině.)" %}
+
+{% shot "../images/steps/c-2-degree.png", "Krok 3: otevřete obor a přepněte na záložku „Plan de Estudios“." %}
+
+{% shot "../images/steps/c-3-plan.png", "Krok 4: předměty jsou seřazené podle ročníku s kredity ECTS a semestrem (Semestre). Kliknutím na název otevřete sylabus (guía docente)." %}
+
+{% shot "../images/steps/c-6-guia.png", "Krok 5: kód předmětu (např. 17006) je nahoře v sylabu. Můžete ho přepnout do angličtiny (Inglés) nebo stáhnout jako PDF pro svou univerzitu." %}
+
 ## 5. Po příjezdu: rozvrh, učebny a online platforma
 
+### 📸 Krok za krokem: rozvrh a učebny
+
+{% shot "../images/steps/c-4-horarios.png", "Na stejné stránce Plan de Estudios sjeďte k „Horarios y exámenes“, otevřete „Horarios y Planificación“ a vyberte ročník." %}
+
+{% shot "../images/steps/c-5-timetable.png", "Online rozvrh ukazuje čas, kód předmětu a učebnu: „Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8“ znamená učebnu 6 v prvním patře budovy (pabellón) 8. Kliknutím na hodinu zobrazíte podrobnosti." %}
+
 {% card "🗓️ Rozvrh a učebny" %}
-- **Rozvrh:** na stránce každého oboru jsou PDF **„Horarios y exámenes“** (rozvrh a zkoušky) podle ročníku a semestru. Najdete v nich časy výuky a **kód učebny**, např. `P8_1_A02`.
+- **Rozvrh:** na stránce **Plan de Estudios** oboru, v části „Horarios y exámenes“ → „Horarios y Planificación“, otevřete online rozvrh pro každý ročník. Ukazuje čas, kód předmětu a **učebnu** (např. `Aula P8_1_A06` = budova 8, první patro, učebna 6). Viz snímky výše.
 - **Mapa kampusu:** učebny jsou v různých budovách. Použijte [mapu kampusu na Google](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19) a na první hodiny vyrazte s předstihem.
 - **Akademický kalendář:** [kalendář 2026–2027 (PDF, anglicky)](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf) – začátek výuky, prázdniny a zkouškové období. Zubní lékařství, psychologie, ošetřovatelství a medicína mohou mít jiné termíny.
 {% endcard %}
@@ -85,6 +109,10 @@ Lze používat zkratky oborů, např. ADE/BBA (podnikání), CAFD/SC (sportovní
 {% card "💻 Campus Virtual (online platforma)" %}
 Jakmile dostanete účet UCAM, studijní materiály, úkoly, oznámení, zkoušky a kalendář najdete na **[Campus Virtual](https://cv.ucam.edu/)**. E-mail UCAM je na [correo.ucam.edu](http://correo.ucam.edu/); s problémy s přihlášením pomůže [IT podpora UCAM](https://soporte.ucam.edu/).
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+Oficiální aplikace UCAM – vyhledejte „UCAM“ v App Store nebo Google Play.
+{% endapp %}
 
 ## 6. Kontakty
 

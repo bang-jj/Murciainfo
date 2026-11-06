@@ -37,12 +37,18 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. Encontrarás fácilmente lo bá
 
 ### 🏮 Supermercados asiáticos
 
-Si echas de menos verduras asiáticas, rábano daikon, vinagre negro o salsa shacha, ve a:
+Para productos asiáticos (salsa de soja, fideos, tofu, arroz para sushi, especias), ve a estas tiendas regentadas por chinos:
 
 - **Hello Asia:** en el centro, a 10 minutos andando de Plaza Circular.
 - **Happy Dulce (糖家福):** en la ruta del autobús 44; fácil de llegar.
 - **Wan Ka Le (萬家樂):** en las afueras; autobús 30.
+
+{% map "Hello Asia, Murcia", "Hello Asia — Abrir en Google Maps" %}
 {% endcard %}
+
+### 🫓 Productos latinoamericanos
+
+La Región de Murcia tiene comunidades latinoamericanas numerosas, sobre todo **ecuatoriana, colombiana y boliviana**. Por eso es fácil encontrar **tiendas y restaurantes latinos** con harina de maíz precocida, ajíes, plátano macho, dulce de leche y otros productos de casa. Pregunta a compatriotas o busca en Google Maps «tienda latina Murcia».
 
 ## 3. Móvil e internet
 

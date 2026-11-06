@@ -15,6 +15,35 @@ Murcja ma dwa główne dworce. Sprawdź, którego potrzebujesz:
 - **Dworzec kolejowy: Murcia del Carmen** (Plaza de la Industria). Zatrzymują się tu wszystkie pociągi.
 - **Dworzec autobusowy: Estación de Autobuses de Murcia** (San Andrés, Calle Sierra de la Pila 3). Stąd odjeżdżają autobusy dalekobieżne i lotniskowe.
 
+{% figure "../images/places/murcia-del-carmen.jpg", "Dworzec Murcia del Carmen" %}
+
+{% figure "../images/places/bus-station.jpg", "Dworzec autobusowy w Murcji (San Andrés)" %}
+
+## Jaką aplikacją rezerwować?
+
+{% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
+**Porównaj wszystkich przewoźników kolejowych w jednej aplikacji.** Szybkie pociągi w Hiszpanii obsługują Renfe, OUIGO i iryo – każdy ma osobną stronę. Trainline pokazuje ich kursy i ceny obok siebie i pozwala od razu kupić bilet; e-bilet zapisuje się w aplikacji, w pociągu pokazujesz telefon.
+
+- **Dlaczego warto:** działa po angielsku i zwykle bez problemu przyjmuje **zagraniczne karty** (strona Renfe czasem je odrzuca).
+- **Minus:** zwykle doliczana jest niewielka opłata rezerwacyjna (widoczna przed płatnością). Po wybraniu pociągu porównaj cenę na stronie przewoźnika.
+- **Jak używać:** skąd (np. Madrid), dokąd (Murcia) i data → porównaj przewoźników → wybierz taryfę → zapłać → e-bilet pojawi się w „Moje bilety”.
+{% endapp %}
+
+{% grid %}
+{% app "Renfe", "renfe", "https://www.renfe.com/" %}
+Hiszpańskie koleje państwowe: najwięcej kursów, od AVE po pociągi regionalne.
+{% endapp %}
+{% app "OUIGO", "ouigo", "https://www.ouigo.com/es/" %}
+Tanie szybkie pociągi. Najtaniej przy wczesnej rezerwacji; surowe zasady bagażu.
+{% endapp %}
+{% app "iryo", "iryo", "https://iryo.eu/" %}
+Prywatny przewoźnik dużych prędkości, ceny podobne do OUIGO, wygodniejsze fotele.
+{% endapp %}
+{% app "ALSA", "alsa", "https://www.alsa.com/" %}
+Największy przewoźnik autobusowy w Hiszpanii: lotniska, Madryt i Walencja.
+{% endapp %}
+{% endgrid %}
+
 ## 1. Madryt → Murcja
 
 {% card "🚄 Pociąg dużych prędkości (polecany)" %}
@@ -61,6 +90,8 @@ Z dworca **Estació del Nord**, ok. 10–12 h. Autobusy nocne pozwalają zaoszcz
 {% card "🛫 Lotnisko Alicante ALC (najlepsze na wyjazdy za granicę)" %}
 {% tag "Ok. 70 km" %} {% tag "Autobus ok. 55 min" %}
 
+{% figure "../images/places/alicante-airport.jpg", "Lotnisko Alicante-Elche" %}
+
 Lotnisko z **największą liczbą połączeń** w okolicy: **141 kierunków w 30 krajach** latem 2026, m.in. Ryanair, Vueling, easyJet, Wizz Air i Volotea. Do większości miejsc w Europie (również do Polski) najwygodniej lecieć stąd.
 
 **Jak dojechać:**
@@ -100,6 +131,10 @@ Jeśli Twoja karta TIE jest jeszcze w trakcie wydawania, wyjazd poza strefę Sch
 - **Bagaż w tanich liniach – surowe zasady:** zwykle za darmo jest tylko mała torba. Walizka kabinowa i bagaż rejestrowany są płatne, a ich cena rośnie z czasem. Za za duży bagaż zapłacisz przy bramce.
 - **Ryanair – odprawa online:** odprawa przy stanowisku na lotnisku jest płatna.
 - **Porównywarki:** Skyscanner lub Google Flights dla lotów, Trainline lub Omio dla pociągów i autobusów – potem kup bilet na stronie przewoźnika, często taniej.
+
+## 6. Powrót do Polski
+
+Z lotniska w **Alicante** latają tanie linie (m.in. Ryanair i Wizz Air) do kilku polskich miast – sprawdź aktualne połączenia na Skyscannerze lub Google Flights i rezerwuj wcześnie przed końcem semestru.
 
 ## Źródła
 

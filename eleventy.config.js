@@ -1,6 +1,8 @@
 // Eleventy 設定檔：把 src/ 裡的內容組合成網站，輸出到 _site/
 // Site configuration: builds everything in src/ into _site/
 import markdownIt from "markdown-it";
+import fs from "node:fs";
+import path from "node:path";
 
 const md = markdownIt({ html: true, linkify: true, breaks: false });
 
@@ -52,10 +54,59 @@ export default function (eleventyConfig) {
     return `<span class="tag tag-${type}">${escapeHtml(text)}</span>`;
   });
 
+  // 把頁面裡的圖片路徑（例如 ../images/x.jpg）對應到 src/images/x.jpg
+  const imageFile = (src) => path.join("src", src.replace(/^(\.\.\/)+/, ""));
+
+  // 照片來源與授權（src/_data/photoCredits.json）
+  const credits = () => {
+    try { return JSON.parse(fs.readFileSync("src/_data/photoCredits.json", "utf8")); } catch { return {}; }
+  };
+  const creditLine = (src) => {
+    const c = credits()[path.basename(src)];
+    if (!c) return "";
+    const who = c.url ? `<a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">${escapeHtml(c.author)}</a>` : escapeHtml(c.author);
+    return `<span class="credit">📷 ${who}${c.license ? ` · ${escapeHtml(c.license)}` : ""}</span>`;
+  };
+
   // 附說明文字的圖片：{% figure "../images/tranvia.jpg", "說明文字" %}
+  // 圖片檔不存在時不顯示（避免出現破圖）
   eleventyConfig.addShortcode("figure", (src, caption = "") => {
-    const cap = caption ? `<figcaption>${escapeHtml(caption)}</figcaption>` : "";
+    if (!fs.existsSync(imageFile(src))) {
+      console.warn(`[figure] 找不到圖片，略過：${src}`);
+      return "";
+    }
+    const credit = creditLine(src);
+    const cap = caption || credit ? `<figcaption>${escapeHtml(caption)}${credit}</figcaption>` : "";
     return `<figure><img src="${encodeURI(src)}" alt="${escapeHtml(caption)}" loading="lazy">${cap}</figure>`;
+  });
+
+  // 大張的步驟截圖：{% shot "../images/steps/la-1.png", "第 1 步：……" %}
+  eleventyConfig.addShortcode("shot", (src, caption = "") => {
+    if (!fs.existsSync(imageFile(src))) {
+      console.warn(`[shot] 找不到截圖，略過：${src}`);
+      return "";
+    }
+    const cap = caption ? `<figcaption>${escapeHtml(caption)}</figcaption>` : "";
+    return `<figure class="shot"><a href="${encodeURI(src)}" target="_blank"><img src="${encodeURI(src)}" alt="${escapeHtml(caption)}" loading="lazy"></a>${cap}</figure>`;
+  });
+
+  // App 介紹卡：{% app "Trainline", "trainline", "https://..." %} 說明 {% endapp %}
+  // 圖示放在 src/images/apps/trainline.png（沒有圖示時顯示首字母）
+  eleventyConfig.addPairedShortcode("app", (content, name, icon, url = "") => {
+    const file = ["png", "jpg", "webp"].map((e) => `src/images/apps/${icon}.${e}`).find((f) => fs.existsSync(f));
+    const img = file
+      ? `<img class="app-icon" src="../images/apps/${path.basename(file)}" alt="" loading="lazy">`
+      : `<span class="app-icon app-icon-fallback" aria-hidden="true">${escapeHtml(name.slice(0, 1))}</span>`;
+    const title = url
+      ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(name)}</a>`
+      : escapeHtml(name);
+    return `<div class="card app-card"><div class="app-head">${img}<h3>${title}</h3></div>${renderInner(content)}</div>`;
+  });
+
+  // Google 地圖：{% map "Hello Asia Murcia", "在 Google 地圖開啟" %}
+  eleventyConfig.addShortcode("map", (query, linkText = "Google Maps") => {
+    const q = encodeURIComponent(query);
+    return `<figure class="map"><iframe src="https://www.google.com/maps?q=${q}&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="${escapeHtml(query)}"></iframe><figcaption><a href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank" rel="noopener">📍 ${escapeHtml(linkText)}</a></figcaption></figure>`;
   });
 
   // ---------- 給版面用的工具 ----------

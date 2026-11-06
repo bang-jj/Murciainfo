@@ -15,6 +15,35 @@ Murcia has two main stations. Check which one you need:
 - **Train station: Murcia del Carmen** (Plaza de la Industria). All trains stop here.
 - **Bus station: Estación de Autobuses de Murcia** (also called San Andrés, Calle Sierra de la Pila 3). Long-distance and airport buses leave from here.
 
+{% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen train station" %}
+
+{% figure "../images/places/bus-station.jpg", "Murcia bus station (San Andrés)" %}
+
+## Which booking app?
+
+{% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
+**Compare every train company in one app.** Spain's high-speed trains are run by Renfe, OUIGO and iryo, each with its own website. Trainline shows all their departures and prices side by side and lets you buy in English; your e-ticket is stored in the app and you just show your phone on board.
+
+- **Why students like it:** it usually accepts **foreign cards** without problems (Renfe's own site sometimes rejects them).
+- **Downside:** there's usually a small booking fee, shown at checkout. Once you've picked a train, you can compare with the operator's own site.
+- **How to use it:** enter From (e.g. Madrid) and To (Murcia) and the date → compare operators → choose a fare → pay → the e-ticket appears under "My tickets".
+{% endapp %}
+
+{% grid %}
+{% app "Renfe", "renfe", "https://www.renfe.com/" %}
+Spain's national railway: the most departures, from AVE high-speed to regional trains.
+{% endapp %}
+{% app "OUIGO", "ouigo", "https://www.ouigo.com/es/" %}
+Low-cost high-speed trains. Cheapest when booked early; strict luggage rules.
+{% endapp %}
+{% app "iryo", "iryo", "https://iryo.eu/" %}
+Private high-speed operator with prices similar to OUIGO and comfier seats.
+{% endapp %}
+{% app "ALSA", "alsa", "https://www.alsa.com/" %}
+Spain's biggest coach company — for airports, Madrid and Valencia.
+{% endapp %}
+{% endgrid %}
+
 ## 1. Madrid → Murcia
 
 {% card "🚄 High-speed train (recommended)" %}
@@ -61,6 +90,8 @@ From **Estació del Nord** bus station, about 10–12 hours. Overnight buses sav
 {% card "🛫 Alicante Airport ALC (best for going abroad)" %}
 {% tag "About 70 km" %} {% tag "Bus about 55 min" %}
 
+{% figure "../images/places/alicante-airport.jpg", "Alicante–Elche Airport" %}
+
 The airport with **the most routes** nearby: **141 destinations in 30 countries** in summer 2026, served by Ryanair, Vueling, easyJet, Wizz Air, Volotea and more. For most trips around Europe, this is the easiest place to fly from.
 
 **How to get there:**
@@ -72,7 +103,7 @@ The airport with **the most routes** nearby: **141 destinations in 30 countries*
 {% card "🛫 Murcia Airport RMU (Corvera)" %}
 {% tag "About 27 km" %} {% tag "Bus €1.85", "price" %}
 
-Closest to the city but with fewer routes — about 20 routes in 7 countries, **mostly to the UK** (London, Manchester and others), plus Dublin, Barcelona, the Canary Islands and some routes to France, Italy and Morocco.
+Closest to the city but with fewer routes — about 20 routes in 7 countries, **mostly to the UK** (London, Manchester and others — handy for British students flying home), plus Dublin, Barcelona, the Canary Islands and some routes to France, Italy and Morocco.
 
 **How to get there:** A public bus runs from Murcia bus station to the airport for €1.85, about 10 times a day; or take a taxi. Schedules may change by season, so check before you go.
 {% endcard %}
@@ -97,6 +128,12 @@ If your TIE is still being processed, leaving the Schengen Area (e.g. to the UK 
 - **Low-cost baggage rules are strict:** Usually only a small bag is free. Cabin bags and checked luggage cost extra, and prices rise closer to departure. Oversized bags are charged at the gate.
 - **Check in online for Ryanair:** Checking in at the airport desk costs extra.
 - **Comparison tools:** Skyscanner or Google Flights for flights; Trainline or Omio for trains and buses — then book on the operator's own site, which is often cheaper.
+
+## 6. Flying home
+
+- **UK & Ireland:** Alicante and Murcia airports have many direct flights to British and Irish cities, often very cheap if booked early.
+- **North America & Australia:** long-haul flights usually leave from **Madrid**; you can also fly from Alicante to a European hub (London, Paris, Amsterdam, Frankfurt) and connect.
+- End-of-semester flights get expensive — book early on Skyscanner or Google Flights.
 
 ## Sources
 

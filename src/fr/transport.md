@@ -14,6 +14,8 @@ Consultez [Grands trajets : venir à Murcie et voyager à l'étranger](travel.ht
 
 Le tramway est le moyen le plus pratique de se déplacer à Murcie. Il n'y a qu'une ligne (L1), qui dessert la plupart des endroits fréquentés par les étudiants en échange.
 
+{% figure "../images/places/tram.jpg", "Tramway de Murcie" %}
+
 {% grid %}
 {% card "💰 Tarifs" %}
 | Titre | Prix |

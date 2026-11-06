@@ -6,6 +6,17 @@ order: 2
 subtitle: "Si tu estancia en España supera los 180 días, debes solicitar la TIE (Tarjeta de Identidad de Extranjero) en los 30 días siguientes a tu llegada."
 ---
 
+## Antes de viajar: el visado de estudiante
+
+{% card "🌎 Si vienes de Latinoamérica" %}
+- Aunque muchos países latinoamericanos **no necesitan visado para turismo** (hasta 90 días), para un intercambio de **más de 90 días** necesitas un **visado de estudiante** del consulado español de tu país **antes de viajar**.
+- **Seguro médico privado** que cubra toda la estancia, con gastos médicos y **repatriación**.
+- **Apostilla de La Haya:** documentos como antecedentes penales o certificados médicos suelen tener que estar apostillados (y traducidos al español si no lo están). Pregunta en el consulado.
+- **¿Tienes doble nacionalidad europea?** Si tienes pasaporte español o de otro país de la UE, no necesitas visado ni TIE: regístrate como ciudadano de la UE (formulario **EX-18**).
+{% endcard %}
+
+Al llegar a Murcia, los estudiantes no comunitarios deben solicitar la **TIE**:
+
 ## Paso 1: pedir cita previa
 
 {% card %}

@@ -8,6 +8,11 @@ subtitle: "Découvrir Murcie : de la culture du centre-ville à la nature des en
 
 ## 1. Centre-ville et alentours (en tram ou en bus)
 
+{% grid %}
+{% figure "../images/places/cathedral.jpg", "Cathédrale de Murcie" %}
+{% figure "../images/places/real-casino.jpg", "L'intérieur du Real Casino" %}
+{% endgrid %}
+
 {% card "🏛️ Culture et monuments" %}
 - **Cathédrale de Murcie (Catedral de Murcia) :** {% tag "Entrée libre aux heures d'ouverture ; visite guidée et clocher payants", "price" %} Le symbole de la ville. Les visites de la cathédrale et du clocher sont vendues séparément, et les visites guidées sont **uniquement en espagnol**.
 - **Real Casino de Murcia :** {% tag "Entrée payante", "price" %} Ancien cercle de la haute société transformé en musée. Son intérieur mêle styles islamique et européen : somptueux et idéal pour les photos.

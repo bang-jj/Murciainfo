@@ -8,6 +8,11 @@ subtitle: "무르시아 탐방: 시내의 문화부터 근교의 자연까지."
 
 ## 1. 시내와 근교(트램·버스로 이동)
 
+{% grid %}
+{% figure "../images/places/cathedral.jpg", "무르시아 대성당" %}
+{% figure "../images/places/real-casino.jpg", "레알 카지노 내부" %}
+{% endgrid %}
+
 {% card "🏛️ 문화와 랜드마크" %}
 - **무르시아 대성당(Catedral de Murcia):** {% tag "개방 시 무료 입장, 가이드 투어와 종탑은 유료", "price" %} 도시의 상징. 대성당과 종탑 투어는 따로 판매하며, 가이드는 **스페인어로만** 진행됩니다.
 - **레알 카지노(Real Casino de Murcia):** {% tag "유료", "price" %} 옛 상류층 클럽을 개조한 박물관. 이슬람과 유럽 양식이 섞인 내부가 매우 화려해 사진 찍기 좋습니다.

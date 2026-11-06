@@ -13,4 +13,8 @@ Murcia 是西班牙第七大城市，氣候乾燥溫暖。生活成本相對於�
 
 UCAM（Universidad Católica San Antonio de Murcia）以體育強項聞名。主校區位於洛斯赫羅尼莫斯修道院（Los Jerónimos Monastery），需搭乘公車或輕軌抵達，距離市區約 30-60 分鐘路程（輕軌或公車）。
 
+{% figure "../images/places/ucam-jeronimos.jpg", "UCAM 主校區：洛斯赫羅尼莫斯修道院" %}
+
+{% map "UCAM Campus de Los Jerónimos, Guadalupe, Murcia", "UCAM Campus de Los Jerónimos — 在 Google 地圖開啟" %}
+
 英語授課課程有心理、商業、外語、牙醫、藥學、運動科學與國際關係。

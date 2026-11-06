@@ -8,6 +8,11 @@ subtitle: "Exploring Murcia: from the culture of the city centre to the nature n
 
 ## 1. City centre & outskirts (by tram or bus)
 
+{% grid %}
+{% figure "../images/places/cathedral.jpg", "Murcia Cathedral" %}
+{% figure "../images/places/real-casino.jpg", "Inside the Real Casino" %}
+{% endgrid %}
+
 {% card "🏛️ Culture & landmarks" %}
 - **Murcia Cathedral (Catedral de Murcia):** {% tag "Free to enter when open; guided tour and bell tower need a ticket", "price" %} The symbol of the city. Tours of the cathedral and the bell tower are sold separately, and guided tours are **only in Spanish**.
 - **Real Casino de Murcia:** {% tag "Ticket required", "price" %} A former private club for the wealthy, now a museum. Its interior mixes Islamic and European styles — extremely ornate and a great place for photos.

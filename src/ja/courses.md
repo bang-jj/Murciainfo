@@ -38,6 +38,12 @@ subtitle: "Learning Agreement のダウンロード、授業の選び方、時�
 どれを使うかわからない場合は、所属大学の国際課か UCAM に問い合わせましょう。
 {% endcard %}
 
+### 📸 図解：Learning Agreement の場所
+
+{% shot "../images/steps/la-1-overseas.png", "ステップ1：Incoming Students のページで自分のプログラムを開きます。日本などアジアの大学は「Overseas Program」です。" %}
+
+{% shot "../images/steps/la-2-overseas.png", "ステップ2：「Learning Agreement」をクリックして書類をダウンロード。上の「Elaborate your learning agreement」は英語の記入ガイドです。" %}
+
 {% alert "⚠️ 注意", "warning" %}
 - 申請時にアップロードする Learning Agreement は **あくまで案** です。この時点で UCAM の先生や国際課に署名を依頼する必要はありません。
 - UCAM は **OLA（Online Learning Agreement）を使用していません**。
@@ -74,10 +80,28 @@ subtitle: "Learning Agreement のダウンロード、授業の選び方、時�
 学部名は略称でも構いません（例：ADE/BBA 経営学、CAFD/SC スポーツ科学、TI 翻訳、PSI/PSY 心理学）。
 {% endcard %}
 
+### 📸 図解：授業情報の調べ方
+
+{% shot "../images/steps/c-1-modalidad.png", "ステップ1：学部課程カタログで検索欄の横にあるフィルターアイコンを押し、「Modalidad」の Presencial（対面）にチェック。" %}
+
+{% shot "../images/steps/c-1-sede.png", "ステップ2：「Sedes」までスクロールして Murcia にチェック。（下の「Idiomas」で英語で授業がある学部も絞り込めます）" %}
+
+{% shot "../images/steps/c-2-degree.png", "ステップ3：学部のページを開き、「Plan de Estudios」タブに切り替えます。" %}
+
+{% shot "../images/steps/c-3-plan.png", "ステップ4：学年ごとに各授業の単位（ECTS）と学期（Semestre）が並んでいます。授業名をクリックするとシラバスが開きます。" %}
+
+{% shot "../images/steps/c-6-guia.png", "ステップ5：シラバスの一番上に授業コード（例：17006）があります。英語版（Inglés）への切り替えや PDF ダウンロードもでき、単位認定の手続きに使えます。" %}
+
 ## 5. 到着後：時間割・教室・オンライン学習
 
+### 📸 図解：時間割と教室
+
+{% shot "../images/steps/c-4-horarios.png", "同じ Plan de Estudios のページで「Horarios y exámenes」までスクロールし、「Horarios y Planificación」を開いて学年を選びます。" %}
+
+{% shot "../images/steps/c-5-timetable.png", "オンライン時間割には各授業の時間・授業コード・教室が表示されます。「Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8」は8号館（Pabellón 8）の1階（日本の2階）の6番教室です。授業をクリックすると詳細が見られます。" %}
+
 {% card "🗓️ 時間割と教室" %}
-- **時間割：** 各学部のページに学年・学期別の **「Horarios y exámenes」（時間割と試験日程）** の PDF があります。授業の時間と **教室コード**（例：`P8_1_A02`）が載っています。
+- **時間割：** 学部の **Plan de Estudios** ページの「Horarios y exámenes」→「Horarios y Planificación」から、学年ごとのオンライン時間割を開けます。各授業の時間・授業コード・**教室**（例：`Aula P8_1_A06` = 8号館1階6番教室）が表示されます。上の図解を参照。
 - **キャンパスマップ：** 教室はいくつもの建物に分かれています。UCAM の [Google キャンパスマップ](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19) で場所を確認し、最初の授業は早めに出かけましょう。
 - **学年暦：** [2026-2027 学年暦（英語 PDF）](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf)。授業開始日、休暇、試験期間が載っています。歯学・心理学・看護・医学は日程が異なる場合があるので別途確認を。
 {% endcard %}
@@ -85,6 +109,10 @@ subtitle: "Learning Agreement のダウンロード、授業の選び方、時�
 {% card "💻 Campus Virtual（オンライン学習）" %}
 UCAM のアカウントができたら、教材、課題、お知らせ、試験、カレンダーはすべて **[Campus Virtual](https://cv.ucam.edu/)** にあります。大学メールは [correo.ucam.edu](http://correo.ucam.edu/)、ログインなどの問題は [UCAM の IT サポート](https://soporte.ucam.edu/) へ。
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+UCAM 公式アプリ。App Store や Google Play で「UCAM」と検索してダウンロードできます。
+{% endapp %}
 
 ## 6. 連絡先
 

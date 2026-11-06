@@ -158,6 +158,24 @@ figure img {
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 figcaption { font-size: 0.8rem; color: var(--muted); margin-top: 4px; }
+figcaption .credit { display: block; font-size: 0.7rem; color: #999; }
+figcaption .credit a { color: inherit; }
+
+/* 大張步驟截圖 */
+figure.shot img { max-height: none; width: 100%; object-fit: contain; }
+figure.shot figcaption { font-size: 0.85rem; color: var(--text); text-align: start; margin-top: 6px; }
+
+/* Google 地圖 */
+figure.map iframe { width: 100%; height: 260px; border: 1px solid #DDD; border-radius: 4px; }
+figure.map figcaption { text-align: start; }
+
+/* App 介紹卡 */
+.app-head { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+.app-head h3 { margin: 0; }
+.app-head h3 a { text-decoration: none; }
+.app-icon { width: 48px; height: 48px; border-radius: 11px; border: 1px solid #E5E5E5; object-fit: cover; flex: none; }
+.app-icon-fallback { display: inline-flex; align-items: center; justify-content: center; background: #EEE; color: #555; font-weight: bold; font-size: 1.3rem; }
+.app-card > :last-child { margin-bottom: 0; }
 
 table { width: 100%; border-collapse: collapse; margin: 10px 0 15px; background: var(--surface); }
 th, td { border: 1px solid #EEE; padding: 10px; font-size: 0.9rem; text-align: start; vertical-align: top; }

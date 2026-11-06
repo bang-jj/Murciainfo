@@ -13,4 +13,34 @@ Murcia es la séptima ciudad más grande de España, con un clima cálido y seco
 
 La UCAM (Universidad Católica San Antonio de Murcia) es conocida por su excelencia en el deporte. El campus principal está en el Monasterio de Los Jerónimos, al que se llega en autobús o tranvía, a unos 30-60 minutos del centro.
 
+{% figure "../images/places/ucam-jeronimos.jpg", "Campus de la UCAM: Monasterio de Los Jerónimos" %}
+
+{% map "UCAM Campus de Los Jerónimos, Guadalupe, Murcia", "UCAM Campus de Los Jerónimos — Abrir en Google Maps" %}
+
 Los grados con docencia en inglés incluyen Psicología, ADE, Lenguas Modernas, Odontología, Farmacia, Ciencias del Deporte y Relaciones Internacionales.
+
+## El español de España: lo que te puede sorprender
+
+Hablarás el mismo idioma, pero con diferencias que conviene conocer:
+
+{% card "🗣️ Vocabulario" %}
+| En España | En gran parte de Latinoamérica |
+|---|---|
+| ordenador | computadora / computador |
+| móvil | celular |
+| coche | carro / auto |
+| zumo | jugo |
+| patata | papa |
+| piso | departamento / apartamento |
+| vale | ok / dale / está bien |
+| coger (el autobús) | tomar (el autobús) |
+
+- **Vosotros:** en España se usa *vosotros* para el plural informal («¿vosotros venís?»). Si usas *ustedes*, te entenderán perfectamente.
+- **El acento murciano** es rápido y «se come» letras, sobre todo la *s* final. Es normal que al principio cueste.
+{% endcard %}
+
+{% card "🕐 Horarios y costumbres" %}
+- Se come **entre las 14:00 y las 16:00** y se cena **a partir de las 21:00**.
+- La **sobremesa** (quedarse charlando después de comer) es sagrada.
+- Entre conocidos se saluda con **dos besos**; entre estudiantes también vale dar la mano.
+{% endcard %}

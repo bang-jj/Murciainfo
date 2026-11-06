@@ -8,6 +8,11 @@ subtitle: "Objevte Murcii: od kultury v centru po přírodu v okolí."
 
 ## 1. Centrum a okolí (tramvají nebo autobusem)
 
+{% grid %}
+{% figure "../images/places/cathedral.jpg", "Katedrála v Murcii" %}
+{% figure "../images/places/real-casino.jpg", "Interiér Real Casino" %}
+{% endgrid %}
+
 {% card "🏛️ Kultura a památky" %}
 - **Katedrála v Murcii (Catedral de Murcia):** {% tag "Vstup zdarma, když je otevřeno; prohlídka s průvodcem a věž placené", "price" %} Symbol města. Prohlídky katedrály a věže se prodávají zvlášť a průvodci provázejí **jen španělsky**.
 - **Real Casino de Murcia:** {% tag "Vstupné", "price" %} Bývalý klub smetánky přeměněný na muzeum. Interiér kombinuje islámský a evropský styl – velmi okázalý a skvělý na fotky.

@@ -38,6 +38,12 @@ subtitle: "من أين تنزّل Learning Agreement، وكيف تختار ال�
 إن لم تكن متأكدًا أي استمارة تستخدم، فاسأل المكتب الدولي في جامعتك أو راسل UCAM.
 {% endcard %}
 
+### 📸 خطوة بخطوة: أين تجد Learning Agreement
+
+{% shot "../images/steps/la-1-overseas.png", "الخطوة 1: في صفحة Incoming Students افتح برنامجك. الجامعات الشريكة من خارج أوروبا وأمريكا تستخدم غالبًا «Overseas Program»، أما شركاء إيراسموس فيختارون «Erasmus Students Exchange at UCAM»." %}
+
+{% shot "../images/steps/la-2-overseas.png", "الخطوة 2: انقر على «Learning Agreement» لتنزيل الاستمارة. أما «Elaborate your learning agreement» في الأعلى فهو دليل التعبئة." %}
+
 {% alert "⚠️ انتبه", "warning" %}
 - Learning Agreement الذي ترفعه مع الطلب **مجرد مسودة**، فلا ترسله الآن إلى المنسقين أو المكتب للتوقيع.
 - جامعة UCAM **لا تستخدم نظام OLA (Online Learning Agreement)**.
@@ -62,6 +68,10 @@ subtitle: "من أين تنزّل Learning Agreement، وكيف تختار ال�
 - **اللغة:** يُنصح بالإسبانية بمستوى B1 (إلزامي قبل التدريب الصحي)، وبالإنجليزية بمستوى B2 للمواد الإنجليزية.
 {% endcard %}
 
+{% alert "🌙 الامتحانات في رمضان", "info" %}
+لا تتغير مواعيد الدراسة والامتحانات في رمضان. إذا احتجت إلى مراعاة خاصة، فتحدث مع أستاذك أو منسّقك **مبكرًا** وبأدب؛ كثير من الأساتذة يتفهمون ذلك.
+{% endalert %}
+
 ## 4. كيف تجد معلومات المواد
 
 {% card "🔎 المواد ورموزها" %}
@@ -74,10 +84,28 @@ subtitle: "من أين تنزّل Learning Agreement، وكيف تختار ال�
 يمكن استخدام اختصارات التخصصات، مثل ADE/BBA (إدارة الأعمال)، CAFD/SC (علوم الرياضة)، TI (الترجمة)، PSI/PSY (علم النفس).
 {% endcard %}
 
+### 📸 خطوة بخطوة: معلومات المواد
+
+{% shot "../images/steps/c-1-modalidad.png", "الخطوة 1: في دليل التخصصات، انقر على أيقونة التصفية بجانب مربع البحث واختر Presencial (حضوري) ضمن «Modalidad»." %}
+
+{% shot "../images/steps/c-1-sede.png", "الخطوة 2: انزل إلى «Sedes» واختر Murcia. (يمكنك من «Idiomas» تصفية التخصصات التي تُدرَّس بالإنجليزية.)" %}
+
+{% shot "../images/steps/c-2-degree.png", "الخطوة 3: افتح صفحة التخصص وانتقل إلى تبويب «Plan de Estudios»." %}
+
+{% shot "../images/steps/c-3-plan.png", "الخطوة 4: تظهر المواد حسب السنة مع ساعاتها (ECTS) وفصلها (Semestre). انقر على اسم المادة لفتح دليلها الدراسي." %}
+
+{% shot "../images/steps/c-6-guia.png", "الخطوة 5: رمز المادة (مثل 17006) في أعلى الدليل الدراسي، ويمكنك التبديل إلى الإنجليزية (Inglés) أو تنزيله PDF لجامعتك." %}
+
 ## 5. بعد الوصول: الجدول والقاعات والمنصة الإلكترونية
 
+### 📸 خطوة بخطوة: الجدول والقاعات
+
+{% shot "../images/steps/c-4-horarios.png", "في صفحة Plan de Estudios نفسها، انزل إلى «Horarios y exámenes» وافتح «Horarios y Planificación» واختر السنة." %}
+
+{% shot "../images/steps/c-5-timetable.png", "يعرض الجدول الإلكتروني وقت كل محاضرة ورمز المادة والقاعة: «Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8» تعني القاعة 6 في الطابق الأول من المبنى (Pabellón) 8. انقر على المحاضرة لمزيد من التفاصيل." %}
+
 {% card "🗓️ الجدول والقاعات" %}
-- **الجدول الدراسي:** في صفحة كل تخصص ملفات PDF بعنوان **«Horarios y exámenes»** (الجدول ومواعيد الامتحانات)، حسب السنة والفصل. تظهر فيها مواعيد كل محاضرة و**رمز القاعة**، مثل `P8_1_A02`.
+- **الجدول الدراسي:** في صفحة **Plan de Estudios** للتخصص، انتقل إلى «Horarios y exámenes» ← «Horarios y Planificación» وافتح الجدول الإلكتروني لكل سنة. يظهر فيه وقت كل محاضرة ورمز المادة و**القاعة** (مثل `Aula P8_1_A06` = المبنى 8، الطابق الأول، القاعة 6). انظر الصور أعلاه.
 - **خريطة الحرم الجامعي:** القاعات موزعة على عدة مبانٍ. استخدم [خريطة الحرم على Google](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19)، واخرج مبكرًا في أيامك الأولى.
 - **التقويم الأكاديمي:** [تقويم 2026-2027 (PDF بالإنجليزية)](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf)، فيه بداية الدراسة والعطل وفترات الامتحانات. قد تختلف المواعيد في طب الأسنان وعلم النفس والتمريض والطب.
 {% endcard %}
@@ -85,6 +113,10 @@ subtitle: "من أين تنزّل Learning Agreement، وكيف تختار ال�
 {% card "💻 Campus Virtual (المنصة الإلكترونية)" %}
 بعد حصولك على حساب UCAM، تجد المواد الدراسية والواجبات والإعلانات والامتحانات والتقويم في **[Campus Virtual](https://cv.ucam.edu/)**. بريد الجامعة على [correo.ucam.edu](http://correo.ucam.edu/)، ولمشكلات الدخول تواصل مع [الدعم التقني في UCAM](https://soporte.ucam.edu/).
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+التطبيق الرسمي لجامعة UCAM: ابحث عن «UCAM» في App Store أو Google Play.
+{% endapp %}
 
 ## 6. جهات الاتصال
 

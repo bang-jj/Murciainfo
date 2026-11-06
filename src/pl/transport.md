@@ -14,6 +14,8 @@ Zobacz [Dalekie podróże: dojazd do Murcji i wyjazdy za granicę](travel.html).
 
 Tramwaj to najwygodniejszy środek transportu w Murcji. Jest tylko jedna linia (L1), która obejmuje większość miejsc odwiedzanych przez studentów wymiany.
 
+{% figure "../images/places/tram.jpg", "Tramwaj w Murcji" %}
+
 {% grid %}
 {% card "💰 Ceny" %}
 | Bilet | Cena |

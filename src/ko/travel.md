@@ -15,6 +15,35 @@ subtitle: "마드리드, 바르셀로나, 발렌시아에서 무르시아로 오
 - **기차역: Murcia del Carmen**(Plaza de la Industria). 모든 기차가 여기에 섭니다.
 - **버스터미널: Estación de Autobuses de Murcia**(San Andrés, Calle Sierra de la Pila 3). 장거리 버스와 공항버스가 여기서 출발합니다.
 
+{% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen 기차역" %}
+
+{% figure "../images/places/bus-station.jpg", "무르시아 버스터미널(San Andrés)" %}
+
+## 예매 앱 고르기
+
+{% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
+**여러 철도 회사를 한 번에 비교하는 앱.** 스페인 고속철도는 Renfe, OUIGO, iryo 세 회사가 있고 사이트도 각각 따로입니다. Trainline에서는 같은 날 열차와 요금을 한눈에 비교하고 바로 예매할 수 있으며, 전자 티켓은 앱에 저장되어 탈 때 휴대폰만 보여주면 됩니다.
+
+- **교환학생에게 좋은 점:** 영어로 쓸 수 있고 **한국 카드도 잘 결제되는 편**입니다(Renfe 공식 사이트는 해외 카드를 거절할 때가 있습니다).
+- **단점:** 보통 소액의 수수료가 붙습니다(결제 전에 표시). 열차를 정한 뒤 각 회사 공식 사이트와 비교해 보세요.
+- **사용법:** 출발지(예: Madrid)와 도착지(Murcia), 날짜 입력 → 회사별 열차 비교 → 요금 선택 → 결제 → "내 티켓"에 전자 티켓이 표시됩니다.
+{% endapp %}
+
+{% grid %}
+{% app "Renfe", "renfe", "https://www.renfe.com/" %}
+스페인 국영 철도. AVE 고속철도부터 일반 열차까지 편수가 가장 많습니다.
+{% endapp %}
+{% app "OUIGO", "ouigo", "https://www.ouigo.com/es/" %}
+저가 고속철도. 일찍 예약할수록 싸고, 수하물 규정이 엄격합니다.
+{% endapp %}
+{% app "iryo", "iryo", "https://iryo.eu/" %}
+민영 고속철도. 요금은 OUIGO와 비슷하고 좌석이 편합니다.
+{% endapp %}
+{% app "ALSA", "alsa", "https://www.alsa.com/" %}
+스페인 최대 장거리 버스 회사. 공항, 마드리드, 발렌시아로 갑니다.
+{% endapp %}
+{% endgrid %}
+
 ## 1. 마드리드 → 무르시아
 
 {% card "🚄 고속철도(추천)" %}
@@ -61,6 +90,8 @@ Volotea는 무르시아 공항(RMU)으로도 운항하지만 편수가 적습니
 {% card "🛫 알리칸테 공항 ALC(해외여행에 가장 추천)" %}
 {% tag "약 70km" %} {% tag "버스 약 55분" %}
 
+{% figure "../images/places/alicante-airport.jpg", "알리칸테 공항" %}
+
 근처에서 **노선이 가장 많은** 공항으로, 2026년 여름 **30개국 141개 도시**에 취항합니다. Ryanair, Vueling, easyJet, Wizz Air, Volotea 등 저가항공이 있어 유럽 여행 대부분은 여기서 출발하는 것이 편합니다.
 
 **가는 법:**
@@ -97,6 +128,10 @@ TIE 발급 중에 솅겐 지역 밖(영국, 모로코 등)으로 나가면 스�
 - **저가항공 수하물 규정은 엄격:** 보통 작은 가방 하나만 무료이고, 기내용 캐리어와 위탁 수하물은 따로 사야 합니다. 늦게 살수록 비싸고, 크기를 넘으면 탑승구에서 요금을 냅니다.
 - **Ryanair는 온라인 체크인 필수:** 공항 카운터에서 체크인하면 요금이 붙습니다.
 - **비교 도구:** 항공권은 Skyscanner나 Google 항공편, 기차·버스는 Trainline이나 Omio로 비교한 뒤 공식 사이트에서 사면 더 싼 경우가 많습니다.
+
+## 6. 한국으로 가는 항공편
+
+마드리드–인천 직항이 운항되는 시기가 있지만, 무르시아 근처에서는 보통 마드리드, 유럽 대도시(파리, 프랑크푸르트, 암스테르담 등)나 중동(도하, 두바이, 이스탄불)을 경유합니다. 학기말에는 비싸지니 일찍 예약하세요.
 
 ## 참고 자료
 

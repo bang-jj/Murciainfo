@@ -32,7 +32,22 @@ TIE の予約枠は不定期に出て、非常に取りにくいです。毎朝8
 - **手数料 790-012**：銀行で支払った証明（約16ユーロ）。
 {% endcard %}
 
+## 在留届と緊急連絡先
+
+{% alert "📋 在留届を忘れずに", "info" %}
+外国に **3か月以上** 滞在する日本人は、住所を管轄する在外公館に **在留届** を出す義務があります（オンラインの ORRnet から提出可）。災害や事件のときに大使館から連絡を受けられます。
+{% endalert %}
+
+{% card "🏛️ 在スペイン日本国大使館" %}
+- 住所：Calle Serrano, 109, 28006 Madrid
+- 電話：+34 91 590 7600
+- バルセロナにも総領事館があります（Av. Diagonal, 640, Barcelona／電話 +34 93 280 3433）。
+
+スペインの緊急番号：**112**（警察・救急・消防）
+{% endcard %}
+
 ## 公式情報
 
+- [🇯🇵 Embassy Finder: 在スペイン日本国大使館・総領事館](https://embassy-finder.com/es/japan_in_spain)
 - [🏛️ スペイン国家警察：TIE の公式手続き](https://sede.policia.gob.es/portalCiudadano/_en/tramites_extranjeria_tramite_tarjeta_residencia_residenciaytrabajo.php)
 - [📄 UCAM 学生モビリティ規程（PDF・英語）](https://www.ucam.edu/sites/default/files/public/la-universidad/normativa/regulation-on-student-mobility-of-ucam-universidad-catolica-san-antonio-de-murcia-en.pdf)

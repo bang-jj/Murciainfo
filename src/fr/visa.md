@@ -19,6 +19,15 @@ Le rendez-vous se prend sur le même portail Cita Previa, en choisissant la proc
 - déclaration de ressources suffisantes
 {% endalert %}
 
+{% grid %}
+{% card "🇨🇭 Suisse" %}
+La Suisse n'est pas dans l'UE mais bénéficie de la libre circulation : les démarches sont en général les mêmes que pour les citoyens de l'UE. Vérifiez auprès du bureau international de l'UCAM.
+{% endcard %}
+{% card "🌍 Maghreb et Afrique francophone" %}
+Vous êtes **hors UE** : il faut un **visa d'études** du consulat d'Espagne avant le départ, puis la **TIE** à l'arrivée (étapes ci-dessous). Une assurance santé privée couvrant tout le séjour est exigée, et certains documents peuvent nécessiter une **apostille** et une traduction en espagnol.
+{% endcard %}
+{% endgrid %}
+
 ## Étape 1 : prendre rendez-vous (Cita Previa)
 
 {% card %}
@@ -44,6 +53,12 @@ Les créneaux pour la TIE sont libérés de façon imprévisible et sont très d
 - **Empadronamiento** : certificat de résidence de la mairie de Murcie.<br><small>Bureau : Calle Dr. Alonso de Espejo, 7, 30007 Murcia.</small>
 - **Taxe 790-012** : preuve de paiement à la banque (environ 16 €).
 {% endcard %}
+
+## Santé et urgences
+
+- **Citoyens de l'UE :** demandez votre **carte européenne d'assurance maladie (CEAM)** avant de partir ; elle couvre les soins publics en Espagne.
+- **Numéro d'urgence en Espagne : 112.**
+- **Français :** le Consulat général de France à **Madrid** est compétent pour Murcie. Inscrivez-vous au **Registre des Français établis hors de France** et sur **Ariane** pour vos voyages. Belges, Suisses et autres francophones s'adressent à leur propre ambassade à Madrid.
 
 ## Ressources officielles
 

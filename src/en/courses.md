@@ -38,6 +38,12 @@ In the application you choose a programme category: **Erasmus+** for European pa
 If you're not sure which form to use, ask your home international office or email UCAM.
 {% endcard %}
 
+### 📸 Step by step: finding the Learning Agreement
+
+{% shot "../images/steps/la-1-northamerica.png", "Step 1: On the Incoming Students page, open your programme. US and Canadian universities use \"North American Exchange Program\"; Asian and other partners use \"Overseas Program\" (Irish and other EU students: \"Erasmus Students Exchange at UCAM\")." %}
+
+{% shot "../images/steps/la-2-overseas.png", "Step 2: Click \"Learning Agreement\" to download the form. \"Elaborate your learning agreement\" above it is the how-to guide." %}
+
 {% alert "⚠️ Note", "warning" %}
 - The Learning Agreement you upload with your application is **only a proposal** — don't send it to UCAM tutors or the international office for signing yet.
 - UCAM **does not use OLA (Online Learning Agreement)**.
@@ -74,10 +80,28 @@ If you're not sure which form to use, ask your home international office or emai
 You can use degree abbreviations on the form, e.g. ADE/BBA (Business), CAFD/SC (Sport Sciences), TI (Translation), PSI/PSY (Psychology).
 {% endcard %}
 
+### 📸 Step by step: finding course information
+
+{% shot "../images/steps/c-1-modalidad.png", "Step 1: In the course catalogue, click the filter icon next to the search box and tick Presencial (on-site) under \"Modalidad\"." %}
+
+{% shot "../images/steps/c-1-sede.png", "Step 2: Scroll to \"Sedes\" and tick Murcia. (\"Idiomas\" below lets you filter English-taught degrees.)" %}
+
+{% shot "../images/steps/c-2-degree.png", "Step 3: Open the degree and switch to the \"Plan de Estudios\" tab." %}
+
+{% shot "../images/steps/c-3-plan.png", "Step 4: Courses are listed by year with their ECTS and semester (Semestre). Click a course name to open its course guide." %}
+
+{% shot "../images/steps/c-6-guia.png", "Step 5: The course code (e.g. 17006) is at the top of the course guide. Switch to English (Inglés) or download it as a PDF for your home university." %}
+
 ## 5. After arrival: timetables, classrooms and the online platform
 
+### 📸 Step by step: timetable and rooms
+
+{% shot "../images/steps/c-4-horarios.png", "On the same Plan de Estudios page, scroll to \"Horarios y exámenes\", open \"Horarios y Planificación\" and choose the year." %}
+
+{% shot "../images/steps/c-5-timetable.png", "The online timetable shows each class's time, course code and room — \"Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8\" means room 6 on the first floor of building (Pabellón) 8. Click a class for details." %}
+
 {% card "🗓️ Timetables and classrooms" %}
-- **Timetables:** Each degree's web page has **"Horarios y exámenes" (timetables and exams)** PDFs, split by year and semester. They show each class time and the **classroom code**, e.g. `P8_1_A02`.
+- **Timetables:** on the degree's **Plan de Estudios** page, go to "Horarios y exámenes" → "Horarios y Planificación" and open the online timetable for each year. It shows every class's time, course code and **room** (e.g. `Aula P8_1_A06` = building 8, first floor, room 6). See the screenshots above.
 - **Campus map:** Classrooms are spread across different buildings. Use UCAM's [Google campus map](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19) to find them. Leave early for your first classes.
 - **Academic calendar:** [2026–2027 academic calendar (PDF)](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf) with term dates, holidays and exam weeks. Dentistry, Psychology, Nursing and Medicine may start on different dates — check separately.
 {% endcard %}
@@ -85,6 +109,10 @@ You can use degree abbreviations on the form, e.g. ADE/BBA (Business), CAFD/SC (
 {% card "💻 Campus Virtual (online learning platform)" %}
 Once you have your UCAM account, course materials, assignments, announcements, exams and your calendar are on **[Campus Virtual](https://cv.ucam.edu/)**. Your UCAM email is at [correo.ucam.edu](http://correo.ucam.edu/); for login or technical problems, contact [UCAM IT support](https://soporte.ucam.edu/).
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+UCAM's official app — search "UCAM" in the App Store or Google Play to keep university information on your phone.
+{% endapp %}
 
 ## 6. Contacts
 

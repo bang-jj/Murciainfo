@@ -15,6 +15,35 @@ Murcia má dvě hlavní nádraží. Ověřte si, které potřebujete:
 - **Vlakové nádraží: Murcia del Carmen** (Plaza de la Industria). Zastavují tu všechny vlaky.
 - **Autobusové nádraží: Estación de Autobuses de Murcia** (San Andrés, Calle Sierra de la Pila 3). Odtud jezdí dálkové a letištní autobusy.
 
+{% figure "../images/places/murcia-del-carmen.jpg", "Nádraží Murcia del Carmen" %}
+
+{% figure "../images/places/bus-station.jpg", "Autobusové nádraží v Murcii (San Andrés)" %}
+
+## Jakou aplikací rezervovat?
+
+{% app "Trainline", "trainline", "https://www.thetrainline.com/" %}
+**Porovnejte všechny železniční dopravce v jedné aplikaci.** Vysokorychlostní vlaky ve Španělsku provozují Renfe, OUIGO a iryo, každý s vlastním webem. Trainline ukáže jejich spoje a ceny vedle sebe a umožní hned koupit jízdenku; e-jízdenka se uloží do aplikace a ve vlaku jen ukážete telefon.
+
+- **Proč se hodí:** funguje anglicky a obvykle bez problémů přijímá **zahraniční karty** (web Renfe je někdy odmítá).
+- **Nevýhoda:** obvykle se účtuje malý rezervační poplatek (zobrazí se před platbou). Po výběru spoje porovnejte cenu na webu dopravce.
+- **Jak na to:** odkud (např. Madrid), kam (Murcia) a datum → porovnat dopravce → vybrat tarif → zaplatit → e-jízdenka je v „Moje jízdenky“.
+{% endapp %}
+
+{% grid %}
+{% app "Renfe", "renfe", "https://www.renfe.com/" %}
+Španělské státní dráhy: nejvíc spojů, od AVE po regionální vlaky.
+{% endapp %}
+{% app "OUIGO", "ouigo", "https://www.ouigo.com/es/" %}
+Levné rychlovlaky. Nejlevnější při včasné rezervaci; přísná pravidla pro zavazadla.
+{% endapp %}
+{% app "iryo", "iryo", "https://iryo.eu/" %}
+Soukromý dopravce rychlovlaků, ceny podobné OUIGO, pohodlnější sedadla.
+{% endapp %}
+{% app "ALSA", "alsa", "https://www.alsa.com/" %}
+Největší autobusový dopravce ve Španělsku: letiště, Madrid a Valencie.
+{% endapp %}
+{% endgrid %}
+
 ## 1. Madrid → Murcia
 
 {% card "🚄 Vysokorychlostní vlak (doporučeno)" %}
@@ -61,6 +90,8 @@ Z nádraží **Estació del Nord**, asi 10–12 h. Noční autobusy ušetří je
 {% card "🛫 Letiště Alicante ALC (nejlepší pro cesty do zahraničí)" %}
 {% tag "Asi 70 km" %} {% tag "Autobusem asi 55 min" %}
 
+{% figure "../images/places/alicante-airport.jpg", "Letiště Alicante-Elche" %}
+
 Letiště s **nejvíce linkami** v okolí: **141 destinací ve 30 zemích** v létě 2026, s Ryanairem, Vuelingem, easyJetem, Wizz Air, Voloteou a dalšími. Na většinu cest po Evropě je nejpohodlnější.
 
 **Jak se tam dostat:**
@@ -100,6 +131,10 @@ Pokud se vaše karta TIE ještě vyřizuje, odjezd mimo schengenský prostor (na
 - **Zavazadla u nízkonákladovek – přísná pravidla:** zdarma bývá jen malá taška. Kabinový kufr i odbavené zavazadlo se platí zvlášť a čím později je koupíte, tím jsou dražší. Za příliš velké zavazadlo zaplatíte u brány.
 - **Ryanair – odbavení online:** odbavení u přepážky na letišti je zpoplatněné.
 - **Srovnávače:** Skyscanner nebo Google Flights na letenky, Trainline nebo Omio na vlaky a autobusy – pak kupte přímo u dopravce, bývá to levnější.
+
+## 6. Cesta domů
+
+Přímé lety do Prahy či dalších českých měst se v okolí Murcie objevují hlavně z **Alicante**, často jen sezónně; jinak se dá letět s přestupem. Aktuální spoje hledejte na Skyscanneru nebo Google Flights.
 
 ## Zdroje
 

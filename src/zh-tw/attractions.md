@@ -8,6 +8,11 @@ subtitle: 探索穆爾西亞：從市中心的人文氣息到近郊的自然風�
 
 ## 1. 市中心與市郊（輕軌／公車可達）
 
+{% grid %}
+{% figure "../images/places/cathedral.jpg", "穆爾西亞主教座堂" %}
+{% figure "../images/places/real-casino.jpg", "皇家賭場（Real Casino）內部" %}
+{% endgrid %}
+
 {% card "🏛️ 文化與地標" %}
 - **穆爾西亞主教座堂（Catedral de Murcia）：** {% tag "門開時可自由進出，導覽與登上鐘塔需門票", "price" %} 城市象徵。教堂與鐘塔的導覽是分開賣的，但要注意導覽只有**全西班牙文**。
 - **皇家賭場（Real Casino de Murcia）：** {% tag "需門票", "price" %} 昔日富人俱樂部改造的博物館，內部裝潢揉合伊斯蘭與歐洲風格，極度華麗，拍照好地方。

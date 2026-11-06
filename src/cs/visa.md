@@ -45,7 +45,16 @@ Termíny na TIE se uvolňují nepravidelně a je velmi těžké je získat. Kont
 - **Poplatek 790-012**: potvrzení o platbě v bance (asi 16 €).
 {% endcard %}
 
+## Zdraví a nouzové situace
+
+- **EHIC:** před odjezdem si u své pojišťovny ověřte evropský průkaz zdravotního pojištění – bývá na zadní straně české kartičky pojištěnce. Doporučujeme i cestovní pojištění.
+- **Tísňové číslo ve Španělsku: 112.**
+- **Velvyslanectví ČR v Madridu:** Avenida Pío XII, 22–24, 28016 Madrid, tel. +34 91 353 18 80, e-mail madrid@mzv.gov.cz.
+- **Mimo pracovní dobu (nonstop):** konzulární operační středisko MZV **+420 222 420 222**.
+- Před odjezdem se zaregistrujte v systému **DROZD** MZV. **Slováci** se obracejí na velvyslanectví Slovenské republiky v Madridu.
+
 ## Oficiální zdroje
 
+- [🇨🇿 Velvyslanectví ČR v Madridu: kontakty](https://mzv.gov.cz/madrid/cz/o_velvyslanectvi/kontakty.html)
 - [🏛️ Policía Nacional: oficiální postup pro TIE](https://sede.policia.gob.es/portalCiudadano/_en/tramites_extranjeria_tramite_tarjeta_residencia_residenciaytrabajo.php)
 - [📄 Pravidla mobility studentů UCAM (PDF, anglicky)](https://www.ucam.edu/sites/default/files/public/la-universidad/normativa/regulation-on-student-mobility-of-ucam-universidad-catolica-san-antonio-de-murcia-en.pdf)

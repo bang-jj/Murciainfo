@@ -14,6 +14,8 @@ Viz [Dálkové cesty: jak se dostat do Murcie a cestovat do zahraničí](travel.
 
 Tramvaj je v Murcii nejpohodlnější doprava. Je tu jen jedna linka (L1), která pokrývá většinu míst, kam výměnní studenti jezdí.
 
+{% figure "../images/places/tram.jpg", "Tramvaj v Murcii" %}
+
 {% grid %}
 {% card "💰 Jízdné" %}
 | Jízdenka | Cena |

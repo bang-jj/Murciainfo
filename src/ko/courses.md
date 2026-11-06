@@ -38,6 +38,12 @@ subtitle: "Learning Agreement 다운로드, 수업 고르는 법, 시간표와 �
 어떤 것을 써야 할지 모르면 소속 대학 국제처나 UCAM에 문의하세요.
 {% endcard %}
 
+### 📸 그림으로 보기: Learning Agreement 위치
+
+{% shot "../images/steps/la-1-overseas.png", "1단계: Incoming Students 페이지에서 내 프로그램을 엽니다. 한국 등 아시아 대학은 「Overseas Program」입니다." %}
+
+{% shot "../images/steps/la-2-overseas.png", "2단계: 「Learning Agreement」를 눌러 서류를 내려받습니다. 위의 「Elaborate your learning agreement」는 영어 작성 안내입니다." %}
+
 {% alert "⚠️ 주의", "warning" %}
 - 신청 때 올리는 Learning Agreement는 **초안일 뿐**입니다. 아직 UCAM 교수나 국제처에 서명을 요청하지 마세요.
 - UCAM은 **OLA(Online Learning Agreement)를 사용하지 않습니다**.
@@ -74,10 +80,28 @@ subtitle: "Learning Agreement 다운로드, 수업 고르는 법, 시간표와 �
 전공명은 약어로 써도 됩니다(예: ADE/BBA 경영학, CAFD/SC 스포츠과학, TI 번역, PSI/PSY 심리학).
 {% endcard %}
 
+### 📸 그림으로 보기: 수업 정보 찾기
+
+{% shot "../images/steps/c-1-modalidad.png", "1단계: 학부 과정 목록에서 검색창 옆 필터 아이콘을 누르고 「Modalidad」의 Presencial(대면)에 체크합니다." %}
+
+{% shot "../images/steps/c-1-sede.png", "2단계: 「Sedes」까지 내려가 Murcia에 체크합니다. (아래 「Idiomas」에서 영어 수업 전공도 고를 수 있습니다)" %}
+
+{% shot "../images/steps/c-2-degree.png", "3단계: 전공 페이지를 열고 「Plan de Estudios」 탭으로 이동합니다." %}
+
+{% shot "../images/steps/c-3-plan.png", "4단계: 학년별로 과목의 학점(ECTS)과 학기(Semestre)가 나옵니다. 과목명을 누르면 강의계획서가 열립니다." %}
+
+{% shot "../images/steps/c-6-guia.png", "5단계: 강의계획서 맨 위에 과목 코드(예: 17006)가 있습니다. 영어(Inglés)로 바꾸거나 PDF로 내려받을 수 있어 학점 인정 때 유용합니다." %}
+
 ## 5. 도착 후: 시간표, 강의실, 온라인 플랫폼
 
+### 📸 그림으로 보기: 시간표와 강의실
+
+{% shot "../images/steps/c-4-horarios.png", "같은 Plan de Estudios 페이지에서 「Horarios y exámenes」까지 내려가 「Horarios y Planificación」을 열고 학년을 고릅니다." %}
+
+{% shot "../images/steps/c-5-timetable.png", "온라인 시간표에는 수업 시간, 과목 코드, 강의실이 나옵니다. 「Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8」은 8번 건물(Pabellón 8) 1층(한국식 2층) 6번 강의실입니다. 수업을 누르면 자세한 정보가 나옵니다." %}
+
 {% card "🗓️ 시간표와 강의실" %}
-- **시간표:** 각 전공 페이지에 학년·학기별 **"Horarios y exámenes"(시간표와 시험 일정)** PDF가 있습니다. 수업 시간과 **강의실 코드**(예: `P8_1_A02`)가 나와 있습니다.
+- **시간표:** 전공의 **Plan de Estudios** 페이지에서 「Horarios y exámenes」 → 「Horarios y Planificación」으로 학년별 온라인 시간표를 엽니다. 수업 시간, 과목 코드, **강의실**(예: `Aula P8_1_A06` = 8번 건물 1층 6번 강의실)이 나옵니다. 위 그림 참고.
 - **캠퍼스 지도:** 강의실은 여러 건물에 나뉘어 있습니다. UCAM의 [구글 캠퍼스 지도](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19)로 위치를 확인하고, 첫 수업 날은 일찍 나가세요.
 - **학사 일정:** [2026-2027 학사 일정(영어 PDF)](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf). 개강, 방학, 시험 기간이 나와 있습니다. 치의학·심리학·간호·의학은 일정이 다를 수 있으니 따로 확인하세요.
 {% endcard %}
@@ -85,6 +109,10 @@ subtitle: "Learning Agreement 다운로드, 수업 고르는 법, 시간표와 �
 {% card "💻 Campus Virtual(온라인 학습 플랫폼)" %}
 UCAM 계정이 생기면 강의 자료, 과제, 공지, 시험, 일정은 모두 **[Campus Virtual](https://cv.ucam.edu/)** 에 있습니다. 학교 메일은 [correo.ucam.edu](http://correo.ucam.edu/), 로그인 등 문제는 [UCAM IT 지원](https://soporte.ucam.edu/)으로 문의하세요.
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+UCAM 공식 앱. App Store나 Google Play에서 「UCAM」을 검색해 내려받을 수 있습니다.
+{% endapp %}
 
 ## 6. 연락처
 

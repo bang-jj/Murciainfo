@@ -28,8 +28,9 @@ Alrededor del **10 de mayo** para el primer semestre y del **1 de noviembre** pa
 Todos los formularios están en la **[página de Incoming Students de la UCAM](https://www.ucam.edu/servicios/oficina-relaciones-internacionales/incoming-students)**.
 
 {% card "📄 Elige el formulario de tu programa" %}
-En la solicitud eliges una categoría: **Erasmus+** para universidades europeas, **UCAM Ibero** para Latinoamérica y **UCAM USA/Overseas** para EE. UU., Canadá y Asia.
+En la solicitud eliges una categoría: **Erasmus+** para universidades europeas, **UCAM Ibero** para Latinoamérica y **UCAM USA/Overseas** para EE. UU., Canadá y Asia. **Si vienes de una universidad latinoamericana, la tuya es UCAM Ibero**, que tiene su propia lista de asignaturas y calendario en la página de Incoming Students.
 
+- **Programa Ibero (Latinoamérica):** en lugar del Learning Agreement se usa el documento **«Plan de Estudios Iberoamérica Incoming»**, que está en la sección del programa Iberoamérica de la [página de Incoming Students](https://www.ucam.edu/servicios/oficina-relaciones-internacionales/incoming-students) (ver capturas abajo).
 - **Programa Overseas / Norteamérica:** [learning_agreement_completo.docx](https://www.ucam.edu/sites/default/files/public/Oficina-relaciones-internacionales/Incoming-Students/Overseas-Program/learning_agreement_completo.docx)
 - **Erasmus:** [learning_agreement.docx](https://www.ucam.edu/sites/default/files/public/Oficina-relaciones-internacionales/programa-erasmus-estudio/learning_agreement.docx)
 - **Cómo rellenarlo (PDF):** [Elabora tu learning agreement/plan de estudios](https://www.ucam.edu/sites/default/files/public/Oficina-relaciones-internacionales/Incoming-Students/Erasmus-Students-Exchange-at-UCAM/elabora-tu-learning-agreement-plan-de-estudios.pdf)
@@ -37,6 +38,12 @@ En la solicitud eliges una categoría: **Erasmus+** para universidades europeas,
 
 Si no sabes cuál usar, pregunta en la oficina internacional de tu universidad o escribe a la UCAM.
 {% endcard %}
+
+### 📸 Paso a paso: dónde está el documento
+
+{% shot "../images/steps/la-1-ibero.png", "Paso 1: En la página de Incoming Students, abre tu programa. Si vienes de Latinoamérica, es «Programa de Intercambio Estudiantil Iberoamérica»." %}
+
+{% shot "../images/steps/la-2-ibero.png", "Paso 2: En el programa Ibero no hay «Learning Agreement»: descarga el «Plan de Estudios Iberoamérica Incoming». Más arriba está la guía «Elabora tu learning agreement/plan de estudios»." %}
 
 {% alert "⚠️ Ojo", "warning" %}
 - El Learning Agreement que subes con la solicitud es **solo una propuesta**: no lo envíes todavía a los tutores ni a la oficina para firmar.
@@ -74,10 +81,28 @@ Si no sabes cuál usar, pregunta en la oficina internacional de tu universidad o
 Puedes usar abreviaturas de los grados, p. ej. ADE/BBA, CAFD/SC (Ciencias del Deporte), TI (Traducción), PSI/PSY (Psicología).
 {% endcard %}
 
+### 📸 Paso a paso: información de las asignaturas
+
+{% shot "../images/steps/c-1-modalidad.png", "Paso 1: En el catálogo de grados, pulsa el icono de filtros junto al buscador y marca Presencial en «Modalidad»." %}
+
+{% shot "../images/steps/c-1-sede.png", "Paso 2: Baja hasta «Sedes» y marca Murcia. (En «Idiomas» puedes filtrar los grados en inglés.)" %}
+
+{% shot "../images/steps/c-2-degree.png", "Paso 3: Entra en el grado y abre la pestaña «Plan de Estudios»." %}
+
+{% shot "../images/steps/c-3-plan.png", "Paso 4: Las asignaturas aparecen por curso, con sus ECTS y su semestre. Pulsa el nombre para abrir la guía docente." %}
+
+{% shot "../images/steps/c-6-guia.png", "Paso 5: El código de la asignatura (p. ej. 17006) está arriba de la guía docente. Puedes verla en inglés o descargarla en PDF para tu universidad." %}
+
 ## 5. Al llegar: horarios, aulas y plataforma online
 
+### 📸 Paso a paso: horario y aulas
+
+{% shot "../images/steps/c-4-horarios.png", "En la misma página del Plan de Estudios, baja a «Horarios y exámenes», abre «Horarios y Planificación» y elige el curso." %}
+
+{% shot "../images/steps/c-5-timetable.png", "El horario online muestra la hora, el código de la asignatura y el aula de cada clase: «Aula P8_1_A06 - Aula 6. 1º Planta. Pab 8» es el aula 6 de la primera planta del pabellón 8. Pulsa una clase para ver más detalles." %}
+
 {% card "🗓️ Horarios y aulas" %}
-- **Horarios:** la web de cada grado tiene PDF de **«Horarios y exámenes»**, por curso y semestre. Indican la hora de cada clase y el **código del aula**, p. ej. `P8_1_A02`.
+- **Horarios:** en la página **Plan de Estudios** del grado, ve a «Horarios y exámenes» → «Horarios y Planificación» y abre el horario online de cada curso. Muestra la hora, el código de la asignatura y el **aula** de cada clase (p. ej. `Aula P8_1_A06` = pabellón 8, primera planta, aula 6). Mira las capturas de arriba.
 - **Mapa del campus:** las aulas están en distintos edificios. Usa el [mapa del campus en Google](https://www.google.com/maps/d/viewer?hl=es&mid=1wfxoEnVk48CVOkJI8_otHKZVCNlWWvgu&ll=37.99122541130507%2C-1.1850123096888865&z=19) para encontrarlos. Sal con tiempo los primeros días.
 - **Calendario académico:** [calendario 2026-2027 (PDF, inglés)](https://international.ucam.edu/sites/ucam.edu.en/files/documentos/calendario-academico-murcia-ingles.pdf), con inicio de curso, vacaciones y exámenes. Odontología, Psicología, Enfermería y Medicina pueden empezar en otras fechas: compruébalo.
 {% endcard %}
@@ -85,6 +110,10 @@ Puedes usar abreviaturas de los grados, p. ej. ADE/BBA, CAFD/SC (Ciencias del De
 {% card "💻 Campus Virtual" %}
 Cuando tengas tu cuenta de la UCAM, los materiales, tareas, avisos, exámenes y el calendario están en el **[Campus Virtual](https://cv.ucam.edu/)**. El correo de la UCAM está en [correo.ucam.edu](http://correo.ucam.edu/); para problemas de acceso, contacta con [soporte de la UCAM](https://soporte.ucam.edu/).
 {% endcard %}
+
+{% app "UCAM", "ucam", "https://www.ucam.edu/" %}
+La app oficial de la UCAM: búscala como «UCAM» en App Store o Google Play para tener la información de la universidad en el móvil.
+{% endapp %}
 
 ## 6. Contactos
 
