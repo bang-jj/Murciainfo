@@ -42,6 +42,8 @@ Po azjatyckie produkty (sos sojowy, makarony, tofu, ryż do sushi, przyprawy) wy
 - **Hello Asia:** w centrum, 10 minut pieszo od Plaza Circular.
 - **Happy Dulce (糖家福):** na trasie autobusu 44; łatwo dojechać.
 - **Wan Ka Le (萬家樂):** na obrzeżach; autobus 30.
+
+{% map "Hello Asia, Murcia", "Hello Asia — Otwórz w Mapach Google" %}
 {% endcard %}
 
 ### 💶 Pieniądze

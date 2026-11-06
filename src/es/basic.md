@@ -13,6 +13,8 @@ Murcia es la séptima ciudad más grande de España, con un clima cálido y seco
 
 La UCAM (Universidad Católica San Antonio de Murcia) es conocida por su excelencia en el deporte. El campus principal está en el Monasterio de Los Jerónimos, al que se llega en autobús o tranvía, a unos 30-60 minutos del centro.
 
+{% map "UCAM Campus de Los Jerónimos, Guadalupe, Murcia", "UCAM Campus de Los Jerónimos — Abrir en Google Maps" %}
+
 Los grados con docencia en inglés incluyen Psicología, ADE, Lenguas Modernas, Odontología, Farmacia, Ciencias del Deporte y Relaciones Internacionales.
 
 ## El español de España: lo que te puede sorprender

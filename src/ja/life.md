@@ -42,6 +42,8 @@ Mercadona、Día、Consum、Lidl、El Corte Inglés。油、塩、米、じゃ�
 - **Hello Asia：** 中心部、Plaza Circular から徒歩10分。
 - **Happy Dulce（糖家福）：** 44番バスの路線沿い。行きやすいです。
 - **Wan Ka Le（萬家樂）：** 郊外。30番バスで行きます。
+
+{% map "Hello Asia, Murcia", "Hello Asia — Google マップで開く" %}
 {% endcard %}
 
 {% card "🍙 日本食について" %}

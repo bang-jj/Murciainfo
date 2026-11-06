@@ -42,6 +42,8 @@ For Asian ingredients (soy sauce, noodles, tofu, sushi rice, spices) — or anyt
 - **Hello Asia:** Located in the city center, a 10-minute walk from Plaza Circular.
 - **Happy Dulce (糖家福):** Located along the Bus 44 route; relatively easy to access.
 - **Wan Ka Le (萬家樂):** Located in the suburbs; requires Bus 30.
+
+{% map "Hello Asia, Murcia", "Hello Asia — Open in Google Maps" %}
 {% endcard %}
 
 ## 3. Money & Daily Habits

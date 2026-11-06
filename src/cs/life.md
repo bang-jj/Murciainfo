@@ -42,6 +42,8 @@ Pro asijské potraviny (sójová omáčka, nudle, tofu, rýže na sushi, kořen�
 - **Hello Asia:** v centru, 10 minut pěšky od Plaza Circular.
 - **Happy Dulce (糖家福):** na trase autobusu 44; snadno dostupné.
 - **Wan Ka Le (萬家樂):** na okraji města; autobus 30.
+
+{% map "Hello Asia, Murcia", "Hello Asia — Otevřít v Mapách Google" %}
 {% endcard %}
 
 ### 💶 Peníze

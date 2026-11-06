@@ -13,6 +13,8 @@ Murcia je sedmé největší město Španělska s teplým a suchým podnebím. �
 
 UCAM (Universidad Católica San Antonio de Murcia) je známá svým sportem. Hlavní kampus sídlí v klášteře Los Jerónimos, kam se dostanete autobusem nebo tramvají – asi 30–60 minut z centra.
 
+{% map "UCAM Campus de Los Jerónimos, Guadalupe, Murcia", "UCAM Campus de Los Jerónimos — Otevřít v Mapách Google" %}
+
 Mezi obory vyučované v angličtině patří psychologie, podnikání, moderní jazyky, zubní lékařství, farmacie, sportovní vědy a mezinárodní vztahy.
 
 ## Čím se Španělsko liší od Česka

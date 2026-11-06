@@ -42,6 +42,8 @@ Pour les produits asiatiques (sauce soja, nouilles, tofu, riz à sushi, épices)
 - **Hello Asia :** dans le centre, à 10 minutes à pied de la Plaza Circular.
 - **Happy Dulce (糖家福) :** sur la ligne de bus 44 ; facile d'accès.
 - **Wan Ka Le (萬家樂) :** en périphérie ; bus 30.
+
+{% map "Hello Asia, Murcia", "Hello Asia — Ouvrir dans Google Maps" %}
 {% endcard %}
 
 ### 💶 Banque

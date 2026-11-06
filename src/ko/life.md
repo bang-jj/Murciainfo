@@ -42,6 +42,8 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. 기름, 소금, 쌀, 감자, �
 - **Hello Asia:** 시내 중심, Plaza Circular에서 도보 10분.
 - **Happy Dulce(糖家福):** 44번 버스 노선. 가기 쉬운 편입니다.
 - **Wan Ka Le(萬家樂):** 외곽. 30번 버스를 타야 합니다.
+
+{% map "Hello Asia, Murcia", "Hello Asia — Google 지도에서 열기" %}
 {% endcard %}
 
 {% card "🍜 한국 음식 구하기" %}

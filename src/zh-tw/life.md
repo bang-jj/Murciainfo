@@ -43,6 +43,8 @@ Mercadona、Día、Consum、Lidl、El Corte Inglés。基本生活所需的油�
 - **糖家福（Happy Dulce）：** 位於 44 號公車路線上，抵達難度適中。
 - **萬家樂（Wan Ka Le）：** 位於郊區，需搭乘 30 號公車。
 
+{% map "Hello Asia, Murcia", "Hello Asia — 在 Google 地圖開啟" %}
+
 亞超大多是華人經營，店員通常會說中文，結帳、找東西都可以直接用中文問。
 {% endcard %}
 

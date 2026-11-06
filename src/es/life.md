@@ -42,6 +42,8 @@ Para productos asiáticos (salsa de soja, fideos, tofu, arroz para sushi, especi
 - **Hello Asia:** en el centro, a 10 minutos andando de Plaza Circular.
 - **Happy Dulce (糖家福):** en la ruta del autobús 44; fácil de llegar.
 - **Wan Ka Le (萬家樂):** en las afueras; autobús 30.
+
+{% map "Hello Asia, Murcia", "Hello Asia — Abrir en Google Maps" %}
 {% endcard %}
 
 ### 🫓 Productos latinoamericanos
