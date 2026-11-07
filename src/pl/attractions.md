@@ -14,24 +14,24 @@ subtitle: "Odkryj Murcję: od kultury w centrum po przyrodę w okolicy."
 {% endgrid %}
 
 {% card "🏛️ Kultura i zabytki" %}
-- **Katedra w Murcji (Catedral de Murcia):** {% tag "Wstęp wolny w godzinach otwarcia; zwiedzanie z przewodnikiem i wieża płatne", "price" %} Symbol miasta. Zwiedzanie katedry i wieży sprzedawane jest osobno, a przewodnicy oprowadzają **tylko po hiszpańsku**.
-- **Real Casino de Murcia:** {% tag "Bilet wstępu", "price" %} Dawny klub elit zamieniony w muzeum. Wnętrza łączą styl islamski z europejskim – bardzo okazałe i świetne do zdjęć.
-- **Muzea:** m.in. **Museo de Santa Clara** (pozostałości klasztoru) i **Museo Arqueológico** (muzeum archeologiczne). Santa Clara jest bezpłatne w godzinach otwarcia. To tylko dwa przykłady – muzeów jest dużo więcej.
-- **Castillo de Monteagudo (figura Chrystusa):** {% tag "Autobus 22 / 50" %} Ogromna figura Chrystusa na szczycie wzgórza. Można ją podziwiać tylko z daleka lub z podnóża, ale to jeden z najsłynniejszych widoków Murcji i dobre miejsce na zachód słońca.
-- **Akwarium UMU (Acuario):** {% tag "Ok. 1 €", "price" %} Małe, zadbane akwarium prowadzone przez Uniwersytet w Murcji, w Cuartel de Artillería.
+- **Katedra w Murcji (Catedral de Murcia):** {% pin "Catedral de Murcia" %} {% tag "Wstęp wolny w godzinach otwarcia; zwiedzanie z przewodnikiem i wieża płatne", "price" %} Symbol miasta. Zwiedzanie katedry i wieży sprzedawane jest osobno, a przewodnicy oprowadzają **tylko po hiszpańsku**.
+- **Real Casino de Murcia:** {% pin "Real Casino de Murcia" %} {% tag "Bilet wstępu", "price" %} Dawny klub elit zamieniony w muzeum. Wnętrza łączą styl islamski z europejskim – bardzo okazałe i świetne do zdjęć.
+- **Muzea:** m.in. **Museo de Santa Clara** {% pin "Museo de Santa Clara, Murcia" %} (pozostałości klasztoru) i **Museo Arqueológico** (muzeum archeologiczne). Santa Clara jest bezpłatne w godzinach otwarcia. To tylko dwa przykłady – muzeów jest dużo więcej.
+- **Castillo de Monteagudo (figura Chrystusa):** {% pin "Castillo de Monteagudo, Murcia" %} {% tag "Autobus 22 / 50" %} Ogromna figura Chrystusa na szczycie wzgórza. Można ją podziwiać tylko z daleka lub z podnóża, ale to jeden z najsłynniejszych widoków Murcji i dobre miejsce na zachód słońca.
+- **Akwarium UMU (Acuario):** {% pin "Acuario de la Universidad de Murcia" %} {% tag "Ok. 1 €", "price" %} Małe, zadbane akwarium prowadzone przez Uniwersytet w Murcji, w Cuartel de Artillería.
 
 ### 🛍️ Zakupy i wypoczynek
 
-- **El Corte Inglés:** dom towarowy w centrum, z działem eleganckich pamiątek.
-- **IKEA / Nueva Condomina:** {% tag "Pętla tramwaju" %} Największa strefa zakupów: wiele marek odzieżowych, kino, elektronika i fast foody.
-- **Casa del Libro:** księgarnia w mieście, choć książki po angielsku zajmują tylko jedną półkę.
-- **Jardín del Salitre:** w Murcji jest wiele parków i ogrodów na spacer – to jeden z nich. Wybierz ten blisko domu albo z ciekawymi roślinami.
+- **El Corte Inglés:** {% pin "El Corte Inglés Murcia" %} dom towarowy w centrum, z działem eleganckich pamiątek.
+- **IKEA / Nueva Condomina:** {% pin "Centro Comercial Nueva Condomina, Murcia" %} {% tag "Pętla tramwaju" %} Największa strefa zakupów: wiele marek odzieżowych, kino, elektronika i fast foody.
+- **Casa del Libro:** {% pin "Casa del Libro Murcia" %} księgarnia w mieście, choć książki po angielsku zajmują tylko jedną półkę.
+- **Jardín del Salitre:** {% pin "Jardín del Salitre, Murcia" %} w Murcji jest wiele parków i ogrodów na spacer – to jeden z nich. Wybierz ten blisko domu albo z ciekawymi roślinami.
 
 ### 🌃 Życie nocne i poznawanie ludzi
 
-- **Taboo Bar:** bar, w którym ESN (Erasmus Student Network) często organizuje imprezy – dobre miejsce, by poznać studentów UM i UCAM.
-- **Karaoke La Gramola Centro:** karaoke na sali, nie w prywatnych pokojach jak w Azji. Polecane dla osób towarzyskich, które lubią śpiewać.
-- **ODISEO:** {% tag "Tramwaj / taksówka" %} Ekskluzywny kompleks rozrywkowy Murcji ze znanym klubem, restauracjami i kasynem, w bardzo nowoczesnym stylu. Podobno łatwiej wejść z kimś, kto zna to miejsce.
+- **Taboo Bar:** {% pin "Taboo Bar Murcia" %} bar, w którym ESN (Erasmus Student Network) często organizuje imprezy – dobre miejsce, by poznać studentów UM i UCAM.
+- **Karaoke La Gramola Centro:** {% pin "Karaoke La Gramola Murcia" %} karaoke na sali, nie w prywatnych pokojach jak w Azji. Polecane dla osób towarzyskich, które lubią śpiewać.
+- **ODISEO:** {% pin "Odiseo Murcia" %} {% tag "Tramwaj / taksówka" %} Ekskluzywny kompleks rozrywkowy Murcji ze znanym klubem, restauracjami i kasynem, w bardzo nowoczesnym stylu. Podobno łatwiej wejść z kimś, kto zna to miejsce.
 {% endcard %}
 
 ## 2. Wycieczki (autobusem lub pociągiem)

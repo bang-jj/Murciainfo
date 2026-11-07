@@ -14,24 +14,24 @@ subtitle: "Objevte Murcii: od kultury v centru po přírodu v okolí."
 {% endgrid %}
 
 {% card "🏛️ Kultura a památky" %}
-- **Katedrála v Murcii (Catedral de Murcia):** {% tag "Vstup zdarma, když je otevřeno; prohlídka s průvodcem a věž placené", "price" %} Symbol města. Prohlídky katedrály a věže se prodávají zvlášť a průvodci provázejí **jen španělsky**.
-- **Real Casino de Murcia:** {% tag "Vstupné", "price" %} Bývalý klub smetánky přeměněný na muzeum. Interiér kombinuje islámský a evropský styl – velmi okázalý a skvělý na fotky.
-- **Muzea:** např. **Museo de Santa Clara** (pozůstatky kláštera) a **Museo Arqueológico** (archeologické muzeum). Santa Clara je v otevírací době zdarma. Jsou to jen dva příklady – muzeí je mnohem víc.
-- **Castillo de Monteagudo (socha Krista):** {% tag "Autobus 22 / 50" %} Obří socha Krista na vrcholu kopce. Lze ji obdivovat jen zdálky nebo z úpatí, ale je to jeden z nejslavnějších výhledů Murcie a pěkné místo na západ slunce.
-- **Akvárium UMU (Acuario):** {% tag "Asi 1 €", "price" %} Malé, pěkně udržované akvárium, které provozuje Univerzita v Murcii, v Cuartel de Artillería.
+- **Katedrála v Murcii (Catedral de Murcia):** {% pin "Catedral de Murcia" %} {% tag "Vstup zdarma, když je otevřeno; prohlídka s průvodcem a věž placené", "price" %} Symbol města. Prohlídky katedrály a věže se prodávají zvlášť a průvodci provázejí **jen španělsky**.
+- **Real Casino de Murcia:** {% pin "Real Casino de Murcia" %} {% tag "Vstupné", "price" %} Bývalý klub smetánky přeměněný na muzeum. Interiér kombinuje islámský a evropský styl – velmi okázalý a skvělý na fotky.
+- **Muzea:** např. **Museo de Santa Clara** {% pin "Museo de Santa Clara, Murcia" %} (pozůstatky kláštera) a **Museo Arqueológico** (archeologické muzeum). Santa Clara je v otevírací době zdarma. Jsou to jen dva příklady – muzeí je mnohem víc.
+- **Castillo de Monteagudo (socha Krista):** {% pin "Castillo de Monteagudo, Murcia" %} {% tag "Autobus 22 / 50" %} Obří socha Krista na vrcholu kopce. Lze ji obdivovat jen zdálky nebo z úpatí, ale je to jeden z nejslavnějších výhledů Murcie a pěkné místo na západ slunce.
+- **Akvárium UMU (Acuario):** {% pin "Acuario de la Universidad de Murcia" %} {% tag "Asi 1 €", "price" %} Malé, pěkně udržované akvárium, které provozuje Univerzita v Murcii, v Cuartel de Artillería.
 
 ### 🛍️ Nákupy a volný čas
 
-- **El Corte Inglés:** obchodní dům v centru s oddělením kvalitních suvenýrů.
-- **IKEA / Nueva Condomina:** {% tag "Konečná tramvaje" %} Největší nákupní zóna: spousta oděvních značek, kino, elektronika a fast foody.
-- **Casa del Libro:** knihkupectví ve městě, anglické knihy ale zabírají jen jednu polici.
-- **Jardín del Salitre:** v Murcii je spousta parků a zahrad na procházky – tohle je jedna z nich. Vyberte si tu blízko domova nebo s neobvyklými rostlinami.
+- **El Corte Inglés:** {% pin "El Corte Inglés Murcia" %} obchodní dům v centru s oddělením kvalitních suvenýrů.
+- **IKEA / Nueva Condomina:** {% pin "Centro Comercial Nueva Condomina, Murcia" %} {% tag "Konečná tramvaje" %} Největší nákupní zóna: spousta oděvních značek, kino, elektronika a fast foody.
+- **Casa del Libro:** {% pin "Casa del Libro Murcia" %} knihkupectví ve městě, anglické knihy ale zabírají jen jednu polici.
+- **Jardín del Salitre:** {% pin "Jardín del Salitre, Murcia" %} v Murcii je spousta parků a zahrad na procházky – tohle je jedna z nich. Vyberte si tu blízko domova nebo s neobvyklými rostlinami.
 
 ### 🌃 Noční život a seznamování
 
-- **Taboo Bar:** bar, kde ESN (Erasmus Student Network) často pořádá akce – dobré místo k seznámení se studenty UM a UCAM.
-- **Karaoke La Gramola Centro:** karaoke v sále, ne v soukromých místnostech jako v Asii. Pro společenské lidi, kteří rádi zpívají.
-- **ODISEO:** {% tag "Tramvaj / taxi" %} Luxusní zábavní komplex Murcie se známým klubem, restauracemi a kasinem, ve velmi moderním stylu. Prý je snazší se dostat dovnitř s někým, kdo to tam zná.
+- **Taboo Bar:** {% pin "Taboo Bar Murcia" %} bar, kde ESN (Erasmus Student Network) často pořádá akce – dobré místo k seznámení se studenty UM a UCAM.
+- **Karaoke La Gramola Centro:** {% pin "Karaoke La Gramola Murcia" %} karaoke v sále, ne v soukromých místnostech jako v Asii. Pro společenské lidi, kteří rádi zpívají.
+- **ODISEO:** {% pin "Odiseo Murcia" %} {% tag "Tramvaj / taxi" %} Luxusní zábavní komplex Murcie se známým klubem, restauracemi a kasinem, ve velmi moderním stylu. Prý je snazší se dostat dovnitř s někým, kdo to tam zná.
 {% endcard %}
 
 ## 2. Výlety (autobusem nebo vlakem)

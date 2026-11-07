@@ -26,16 +26,26 @@ subtitle: 台灣護照入境申根免簽 90 天，但交換一學期通常會超
 ## 抵達後第一步：預約 Cita Previa
 
 {% card %}
-1. 前往政府預約網站：[https://sede.administracionespublicas.gob.es/](https://sede.administracionespublicas.gob.es/)
-2. 上方欄位點選 **PROCEDIMIENTOS**，出現下拉式選單
-3. 點選 **Extranjería** 後，選擇 **Cita Previa de Extranjería**
-4. 拉至最下方點選 **Acceder al Procedimiento**
+1. 前往政府網站：[https://mptmd.sede.gob.es/](https://mptmd.sede.gob.es/)
+2. 往下捲到 **Procedimientos**，點選 **Extranjería**
+3. 點選 **Cita Previa de Extranjería**
+4. 拉至最下方點選 **Acceder al procedimiento**
 5. 選擇 **Murcia** 地區，並選擇 **POLICIA-TOMA DE HUELLAS**（按指紋）
 
 {% alert %}
 ※ 居留證預約非常難搶，建議每天早上 8-10 點刷網頁，甚至在去之前就開始連 VPN 到當地伺服器刷。注意西班牙比台灣慢 6～7 小時，西班牙早上 8 點是台灣下午 2～3 點。
 {% endalert %}
 {% endcard %}
+
+### 📸 圖解：預約網站怎麼點
+
+{% shot "../images/steps/v-1-extranjeria.png", "第 1 步：打開 [mptmd.sede.gob.es](https://mptmd.sede.gob.es/)，往下捲到「Procedimientos」，點 **Extranjería**。" %}
+{% shot "../images/steps/v-2-cita.png", "第 2 步：點最上面的 **Cita Previa de Extranjería**。" %}
+{% shot "../images/steps/v-3-acceder.png", "第 3 步：拉到頁面最下方，點 **Acceder al procedimiento**，就會進入預約系統，接著選 **Murcia** 和 **POLICIA-TOMA DE HUELLAS**。" %}
+
+{% alert "ℹ️", "info" %}
+預約系統（icp.administracionelectronica.gob.es）常常擋外國網路連線，如果打不開，換個時間或用西班牙的網路再試。到了選省份、手續之後的畫面要填個人資料，這裡就不截圖了。
+{% endalert %}
 
 ## 第二步：準備文件
 
@@ -46,6 +56,13 @@ subtitle: 台灣護照入境申根免簽 90 天，但交換一學期通常會超
 - **住址證明（Empadronamiento）**：需去市政機關辦理。<br><small>地址：Calle Dr. Alonso de Espejo, 7, 30007 Murcia, Spain</small>
 - **規費單 790-012**：需去銀行繳費，目前約 16 歐元。
 {% endcard %}
+
+{% map "Calle Doctor Alonso de Espejo 7, 30007 Murcia", "Empadronamiento — 在 Google 地圖開啟" %}
+
+### 📸 圖解：790-012 規費單
+
+{% shot "../images/steps/v-4-tasa.png", "第 1 步：打開 [警察局規費單網站](https://sede.policia.gob.es/Tasa790_012/)，點 **Rellenar formulario y descargar**（線上填寫並下載）。" %}
+{% shot "../images/steps/v-5-tasa-tie.png", "第 2 步：在「Tarjetas de identidad de extranjeros (TIE)」底下勾選 **TIE que documenta la primera concesión…**（第一次申請居留證），填好個人資料後下載列印，拿去銀行繳費。" %}
 
 ## 健保與保險
 

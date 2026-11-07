@@ -22,7 +22,7 @@ Termín si objednáte na stejném portálu Cita Previa, ale zvolíte postup pro 
 ## Krok 1: objednejte si termín (Cita Previa)
 
 {% card %}
-Termíny se objednávají na oficiálním portálu: [portál pro objednání na cizinecké policii](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
+Termíny se objednávají na oficiálním portálu: [portál pro objednání na cizinecké policii](https://mptmd.sede.gob.es/pagina?id=Extranjeria-cita-previa-extranjeria)
 
 **Postup (TIE):**
 
@@ -35,6 +35,16 @@ Termíny na TIE se uvolňují nepravidelně a je velmi těžké je získat. Kont
 {% endalert %}
 {% endcard %}
 
+### 📸 Krok za krokem: rezervační web
+
+{% shot "../images/steps/v-1-extranjeria.png", "Krok 1: otevřete [mptmd.sede.gob.es](https://mptmd.sede.gob.es/), sjeďte k „Procedimientos“ a klikněte na **Extranjería**." %}
+{% shot "../images/steps/v-2-cita.png", "Krok 2: klikněte na **Cita Previa de Extranjería** nahoře v seznamu." %}
+{% shot "../images/steps/v-3-acceder.png", "Krok 3: dole na stránce klikněte na **Acceder al procedimiento**. Otevře se rezervační systém: zvolte **Murcia** a pak úkon (občané EU: **Certificados UE**; mimo EU: **POLICIA-TOMA DE HUELLAS**)." %}
+
+{% alert "ℹ️", "info" %}
+Rezervační systém (icp.administracionelectronica.gob.es) často blokuje připojení ze zahraničí. Pokud se neotevře, zkuste to později nebo ze španělské sítě. Další obrazovky chtějí osobní údaje, proto je tu neukazujeme.
+{% endalert %}
+
 ## Krok 2: potřebné dokumenty (TIE)
 
 {% card %}
@@ -44,6 +54,13 @@ Termíny na TIE se uvolňují nepravidelně a je velmi těžké je získat. Kont
 - **Empadronamiento**: potvrzení o přihlášení k pobytu z radnice v Murcii.<br><small>Úřad: Calle Dr. Alonso de Espejo, 7, 30007 Murcia</small>
 - **Poplatek 790-012**: potvrzení o platbě v bance (asi 16 €).
 {% endcard %}
+
+{% map "Calle Doctor Alonso de Espejo 7, 30007 Murcia", "Empadronamiento — Otevřít v Mapách Google" %}
+
+### 📸 Krok za krokem: poplatek 790-012
+
+{% shot "../images/steps/v-4-tasa.png", "Krok 1: otevřete [formulář poplatku Policía Nacional](https://sede.policia.gob.es/Tasa790_012/) a klikněte na **Rellenar formulario y descargar** (vyplnit a stáhnout)." %}
+{% shot "../images/steps/v-5-tasa-eu.png", "Krok 2: v části „Tarjetas de identidad de extranjeros (TIE)“ občané EU zaškrtnou řádek s **Certificado de registro de residente comunitario** (studenti mimo EU: **TIE que documenta la primera concesión…**). Vyplňte údaje, stáhněte, vytiskněte a zaplaťte v bance." %}
 
 ## Zdraví a nouzové situace
 

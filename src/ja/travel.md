@@ -17,7 +17,11 @@ subtitle: "マドリード・バルセロナ・バレンシアからムルシア
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen 駅" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — Google マップで開く" %}
+
 {% figure "../images/places/bus-station.jpg", "ムルシアのバスターミナル（San Andrés）" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — Google マップで開く" %}
 
 ## 予約アプリの選び方
 

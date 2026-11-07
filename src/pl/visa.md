@@ -22,7 +22,7 @@ Wizytę umawiasz na tym samym portalu Cita Previa, wybierając procedurę dla ob
 ## Krok 1: umów wizytę (Cita Previa)
 
 {% card %}
-Wizyty umawia się na oficjalnym portalu: [portal wizyt w sprawach cudzoziemców](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
+Wizyty umawia się na oficjalnym portalu: [portal wizyt w sprawach cudzoziemców](https://mptmd.sede.gob.es/pagina?id=Extranjeria-cita-previa-extranjeria)
 
 **Procedura (TIE):**
 
@@ -35,6 +35,16 @@ Terminy na TIE pojawiają się nieregularnie i bardzo trudno je zdobyć. Sprawdz
 {% endalert %}
 {% endcard %}
 
+### 📸 Krok po kroku: strona rezerwacji
+
+{% shot "../images/steps/v-1-extranjeria.png", "Krok 1: wejdź na [mptmd.sede.gob.es](https://mptmd.sede.gob.es/), przewiń do „Procedimientos” i kliknij **Extranjería**." %}
+{% shot "../images/steps/v-2-cita.png", "Krok 2: kliknij **Cita Previa de Extranjería** na górze listy." %}
+{% shot "../images/steps/v-3-acceder.png", "Krok 3: na dole strony kliknij **Acceder al procedimiento**. Otworzy się system rezerwacji: wybierz **Murcia**, a potem procedurę (obywatele UE: **Certificados UE**; spoza UE: **POLICIA-TOMA DE HUELLAS**)." %}
+
+{% alert "ℹ️", "info" %}
+System rezerwacji (icp.administracionelectronica.gob.es) często blokuje połączenia spoza Hiszpanii. Jeśli się nie otwiera, spróbuj później albo z hiszpańskiej sieci. Kolejne ekrany wymagają danych osobowych, więc ich tu nie pokazujemy.
+{% endalert %}
+
 ## Krok 2: wymagane dokumenty (TIE)
 
 {% card %}
@@ -44,6 +54,13 @@ Terminy na TIE pojawiają się nieregularnie i bardzo trudno je zdobyć. Sprawdz
 - **Empadronamiento**: zaświadczenie o zameldowaniu z ratusza w Murcji.<br><small>Biuro: Calle Dr. Alonso de Espejo, 7, 30007 Murcia</small>
 - **Opłata 790-012**: potwierdzenie wpłaty w banku (ok. 16 €).
 {% endcard %}
+
+{% map "Calle Doctor Alonso de Espejo 7, 30007 Murcia", "Empadronamiento — Otwórz w Mapach Google" %}
+
+### 📸 Krok po kroku: opłata 790-012
+
+{% shot "../images/steps/v-4-tasa.png", "Krok 1: otwórz [formularz opłaty Policía Nacional](https://sede.policia.gob.es/Tasa790_012/) i kliknij **Rellenar formulario y descargar** (wypełnij i pobierz)." %}
+{% shot "../images/steps/v-5-tasa-eu.png", "Krok 2: w sekcji „Tarjetas de identidad de extranjeros (TIE)” obywatele UE zaznaczają wiersz z **Certificado de registro de residente comunitario** (studenci spoza UE: **TIE que documenta la primera concesión…**). Wpisz dane, pobierz, wydrukuj i zapłać w banku." %}
 
 ## Zdrowie i sytuacje awaryjne
 

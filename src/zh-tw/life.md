@@ -11,8 +11,8 @@ subtitle: 在穆爾西亞如何生存？從省錢外食到自煮攻略。
 西班牙餐廳動輒 15-20€，留學生平時多以速食、Kebab 或超市微波食品為主。
 
 {% card "🍔 速食系列 <small>(均消約 8-10€)</small>" %}
-- **Plaza Circular 周邊：** 有 Popeyes、KFC、Burger King。注意：此處 BK 位於英國宮附近，青少年多且服務普通。
-- **Senda de Granada 區：** BK 位於家樂福旁，環境較市中心舒適。
+- **Plaza Circular 周邊：** {% pin "Plaza Circular, Murcia" %} 有 Popeyes、KFC、Burger King。注意：此處 BK 位於英國宮附近，青少年多且服務普通。
+- **Senda de Granada 區：** {% pin "Senda de Granada, Murcia" %} BK 位於家樂福旁，環境較市中心舒適。
 - **McDonald's：** 需往購物中心方向（Churra 站）。**強烈建議下載 App** 換取優惠券，但注意這裡飲料不可續杯。
 - **其他：** IKEA（Príncipe Felipe 站）與 Taco Bell 也是相對便宜的選擇。
 
@@ -40,8 +40,8 @@ Mercadona、Día、Consum、Lidl、El Corte Inglés。基本生活所需的油�
 若想念青江菜、白蘿蔔、烏醋或沙茶醬，需前往亞超：
 
 - **Hello Asia：** 位於市中心，離 Plaza Circular 步行 10 分鐘。
-- **糖家福（Happy Dulce）：** 位於 44 號公車路線上，抵達難度適中。
-- **萬家樂（Wan Ka Le）：** 位於郊區，需搭乘 30 號公車。
+- **糖家福（Happy Dulce）：** {% pin "Happy Dulce Murcia" %} 位於 44 號公車路線上，抵達難度適中。
+- **萬家樂（Wan Ka Le）：** {% pin "Wan Ka Le Murcia" %} 位於郊區，需搭乘 30 號公車。
 
 {% map "Hello Asia, Murcia", "Hello Asia — 在 Google 地圖開啟" %}
 
@@ -63,14 +63,6 @@ Mercadona、Día、Consum、Lidl、El Corte Inglés。基本生活所需的油�
 {% alert "⚠️ 從台灣帶東西要注意", "warning" %}
 歐盟**禁止旅客從歐盟以外帶入肉類和乳製品**，包括肉鬆、肉乾、香腸，以及**含肉的泡麵調理包**。被查到會被沒收甚至罰款。醬料、茶葉、乾貨等一般比較沒問題。
 {% endalert %}
-
-### 🤝 與華人社群相處
-
-在穆爾西亞你會遇到兩種華人：一種是**在地經營超市、雜貨店（bazar）和餐廳的華人**，許多來自中國浙江，通常對說中文的客人很親切；另一種是 UCAM 和穆爾西亞大學的**中國留學生**，有些課可能同班。
-
-- **用詞差異：** 例如「視頻／影片」、「質量／品質」、「信息／訊息」、「打車／叫車」、「U盤／隨身碟」。聽不懂就直接問，大家通常都很樂意解釋。
-- **聯絡方式：** 中國同學多用 **微信（WeChat）**，西班牙當地則幾乎都用 **WhatsApp**。華人群組常分享二手家具、租房、團購等資訊，加入後很方便。
-- **政治話題：** 對兩岸議題每個人觀點不同，保持尊重即可。從課業、旅遊、美食聊起，最容易交到朋友。
 
 ## 3. 網路通訊 (Mobile & Internet)
 

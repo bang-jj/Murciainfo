@@ -17,7 +17,11 @@ subtitle: "كيف تصل إلى مرسية من مدريد وبرشلونة وف
 
 {% figure "../images/places/murcia-del-carmen.jpg", "محطة قطار Murcia del Carmen" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — افتح في خرائط Google" %}
+
 {% figure "../images/places/bus-station.jpg", "محطة حافلات مرسية (San Andrés)" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — افتح في خرائط Google" %}
 
 ## أي تطبيق تستخدم للحجز؟
 

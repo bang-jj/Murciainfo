@@ -9,7 +9,7 @@ subtitle: "스페인에 180일 넘게 머문다면 도착 후 30일 안에 TIE(�
 ## 1단계: 예약(Cita Previa) 잡기
 
 {% card %}
-예약은 공식 포털에서 합니다: [외국인 업무 예약 포털](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
+예약은 공식 포털에서 합니다: [외국인 업무 예약 포털](https://mptmd.sede.gob.es/pagina?id=Extranjeria-cita-previa-extranjeria)
 
 **절차:**
 
@@ -22,6 +22,16 @@ TIE 예약은 불규칙하게 열리고 잡기가 매우 어렵습니다. 매일
 {% endalert %}
 {% endcard %}
 
+### 📸 그림으로 보기: 예약 사이트
+
+{% shot "../images/steps/v-1-extranjeria.png", "1단계: [mptmd.sede.gob.es](https://mptmd.sede.gob.es/)에 들어가 「Procedimientos」까지 내려서 **Extranjería**를 누릅니다." %}
+{% shot "../images/steps/v-2-cita.png", "2단계: 맨 위의 **Cita Previa de Extranjería**를 누릅니다." %}
+{% shot "../images/steps/v-3-acceder.png", "3단계: 페이지 맨 아래에서 **Acceder al procedimiento**를 누르면 예약 시스템이 열립니다. **Murcia**와 **POLICIA-TOMA DE HUELLAS**를 고릅니다." %}
+
+{% alert "ℹ️", "info" %}
+예약 시스템(icp.administracionelectronica.gob.es)은 스페인 밖의 접속을 막는 경우가 많습니다. 열리지 않으면 시간을 두거나 스페인 네트워크에서 다시 시도하세요. 주와 업무를 고른 뒤의 화면은 개인정보 입력이라 싣지 않았습니다.
+{% endalert %}
+
 ## 2단계: 필요 서류
 
 {% card %}
@@ -31,6 +41,13 @@ TIE 예약은 불규칙하게 열리고 잡기가 매우 어렵습니다. 매일
 - **주소 등록 증명(Empadronamiento)**: 무르시아 시청에서 발급.<br><small>사무소: Calle Dr. Alonso de Espejo, 7, 30007 Murcia</small>
 - **수수료 790-012**: 은행 납부 증명(약 16유로).
 {% endcard %}
+
+{% map "Calle Doctor Alonso de Espejo 7, 30007 Murcia", "Empadronamiento — Google 지도에서 열기" %}
+
+### 📸 그림으로 보기: 790-012 수수료 양식
+
+{% shot "../images/steps/v-4-tasa.png", "1단계: [경찰청 수수료 양식 페이지](https://sede.policia.gob.es/Tasa790_012/)에서 **Rellenar formulario y descargar**(작성 후 다운로드)를 누릅니다." %}
+{% shot "../images/steps/v-5-tasa-tie.png", "2단계: 「Tarjetas de identidad de extranjeros (TIE)」 아래 **TIE que documenta la primera concesión…**(첫 TIE 발급)에 체크합니다. 개인정보를 입력해 내려받아 인쇄한 뒤 은행에서 납부합니다." %}
 
 ## 재외국민등록과 긴급 연락처
 

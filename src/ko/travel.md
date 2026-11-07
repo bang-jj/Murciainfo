@@ -17,7 +17,11 @@ subtitle: "마드리드, 바르셀로나, 발렌시아에서 무르시아로 오
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen 기차역" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — Google 지도에서 열기" %}
+
 {% figure "../images/places/bus-station.jpg", "무르시아 버스터미널(San Andrés)" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — Google 지도에서 열기" %}
 
 ## 예매 앱 고르기
 

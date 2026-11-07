@@ -11,8 +11,8 @@ subtitle: "كيف تعيش في مرسية: من الأكل الرخيص إلى 
 يكلّف المطعم في إسبانيا بسهولة 15 إلى 20 يورو، لذا يعتمد طلاب التبادل غالبًا على الوجبات السريعة أو الكباب أو الوجبات الجاهزة من المتاجر.
 
 {% card "🍔 الوجبات السريعة <small>(المتوسط 8-10€)</small>" %}
-- **حول Plaza Circular:** Popeyes وKFC وBurger King. ملاحظة: فرع BK قرب El Corte Inglés مزدحم بالمراهقين وخدمته عادية.
-- **Senda de Granada:** فرع BK بجوار Carrefour أهدأ من فرع الوسط.
+- **حول Plaza Circular:** {% pin "Plaza Circular, Murcia" %} Popeyes وKFC وBurger King. ملاحظة: فرع BK قرب El Corte Inglés مزدحم بالمراهقين وخدمته عادية.
+- **Senda de Granada:** {% pin "Senda de Granada, Murcia" %} فرع BK بجوار Carrefour أهدأ من فرع الوسط.
 - **McDonald's:** باتجاه المركز التجاري (محطة Churra). **يُنصح بشدة بتنزيل التطبيق** للحصول على القسائم، ولا توجد إعادة تعبئة مجانية للمشروبات.
 - **أخرى:** IKEA (محطة Príncipe Felipe) وTaco Bell خيارات اقتصادية أيضًا.
 
@@ -40,8 +40,8 @@ Mercadona وDía وConsum وLidl وEl Corte Inglés. ستجد بسهولة ال�
 للمنتجات الآسيوية (صلصة الصويا، والنودلز، والتوفو، والتوابل)، اذهب إلى هذه المتاجر:
 
 - **Hello Asia:** في وسط المدينة، على بعد 10 دقائق سيرًا من Plaza Circular.
-- **Happy Dulce (糖家福):** على خط الحافلة 44، والوصول إليه سهل.
-- **Wan Ka Le (萬家樂):** في الضواحي، يتطلب الحافلة 30.
+- **Happy Dulce (糖家福):** {% pin "Happy Dulce Murcia" %} على خط الحافلة 44، والوصول إليه سهل.
+- **Wan Ka Le (萬家樂):** {% pin "Wan Ka Le Murcia" %} في الضواحي، يتطلب الحافلة 30.
 
 {% map "Hello Asia, Murcia", "Hello Asia — افتح في خرائط Google" %}
 {% endcard %}

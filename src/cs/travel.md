@@ -17,7 +17,11 @@ Murcia má dvě hlavní nádraží. Ověřte si, které potřebujete:
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Nádraží Murcia del Carmen" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — Otevřít v Mapách Google" %}
+
 {% figure "../images/places/bus-station.jpg", "Autobusové nádraží v Murcii (San Andrés)" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — Otevřít v Mapách Google" %}
 
 ## Jakou aplikací rezervovat?
 

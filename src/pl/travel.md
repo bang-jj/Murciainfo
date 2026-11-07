@@ -17,7 +17,11 @@ Murcja ma dwa główne dworce. Sprawdź, którego potrzebujesz:
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Dworzec Murcia del Carmen" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — Otwórz w Mapach Google" %}
+
 {% figure "../images/places/bus-station.jpg", "Dworzec autobusowy w Murcji (San Andrés)" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — Otwórz w Mapach Google" %}
 
 ## Jaką aplikacją rezerwować?
 

@@ -14,24 +14,24 @@ subtitle: "Exploring Murcia: from the culture of the city centre to the nature n
 {% endgrid %}
 
 {% card "🏛️ Culture & landmarks" %}
-- **Murcia Cathedral (Catedral de Murcia):** {% tag "Free to enter when open; guided tour and bell tower need a ticket", "price" %} The symbol of the city. Tours of the cathedral and the bell tower are sold separately, and guided tours are **only in Spanish**.
-- **Real Casino de Murcia:** {% tag "Ticket required", "price" %} A former private club for the wealthy, now a museum. Its interior mixes Islamic and European styles — extremely ornate and a great place for photos.
-- **Museums:** Including **Museo de Santa Clara** (convent ruins) and the **Museo Arqueológico** (archaeological museum). Santa Clara is free and open to walk in during opening hours. These are just two examples — Murcia has many more museums.
-- **Castillo de Monteagudo (Christ statue):** {% tag "Bus 22 / 50" %} A giant statue of Christ on a hilltop. You can only see it from afar or reach the foot of the hill, but it is one of Murcia's most famous views and a lovely sunset spot.
-- **UMU Aquarium (Acuario):** {% tag "About €1", "price" %} A small but well-kept aquarium run by the University of Murcia, at the Cuartel de Artillería.
+- **Murcia Cathedral (Catedral de Murcia):** {% pin "Catedral de Murcia" %} {% tag "Free to enter when open; guided tour and bell tower need a ticket", "price" %} The symbol of the city. Tours of the cathedral and the bell tower are sold separately, and guided tours are **only in Spanish**.
+- **Real Casino de Murcia:** {% pin "Real Casino de Murcia" %} {% tag "Ticket required", "price" %} A former private club for the wealthy, now a museum. Its interior mixes Islamic and European styles — extremely ornate and a great place for photos.
+- **Museums:** Including **Museo de Santa Clara** {% pin "Museo de Santa Clara, Murcia" %} (convent ruins) and the **Museo Arqueológico** (archaeological museum). Santa Clara is free and open to walk in during opening hours. These are just two examples — Murcia has many more museums.
+- **Castillo de Monteagudo (Christ statue):** {% pin "Castillo de Monteagudo, Murcia" %} {% tag "Bus 22 / 50" %} A giant statue of Christ on a hilltop. You can only see it from afar or reach the foot of the hill, but it is one of Murcia's most famous views and a lovely sunset spot.
+- **UMU Aquarium (Acuario):** {% pin "Acuario de la Universidad de Murcia" %} {% tag "About €1", "price" %} A small but well-kept aquarium run by the University of Murcia, at the Cuartel de Artillería.
 
 ### 🛍️ Shopping & leisure
 
-- **El Corte Inglés:** A department store in the city centre, with a section dedicated to quality souvenirs.
-- **IKEA / Nueva Condomina:** {% tag "End of the tram line" %} The largest shopping area, with a wide range of clothing brands, a cinema, an electronics store and fast food.
-- **Casa del Libro:** A bookshop in the city, though English books fill only one shelf.
-- **Jardín del Salitre:** Murcia has many parks and gardens to walk in — this is one of them. Pick one near your home, or one with special plants.
+- **El Corte Inglés:** {% pin "El Corte Inglés Murcia" %} A department store in the city centre, with a section dedicated to quality souvenirs.
+- **IKEA / Nueva Condomina:** {% pin "Centro Comercial Nueva Condomina, Murcia" %} {% tag "End of the tram line" %} The largest shopping area, with a wide range of clothing brands, a cinema, an electronics store and fast food.
+- **Casa del Libro:** {% pin "Casa del Libro Murcia" %} A bookshop in the city, though English books fill only one shelf.
+- **Jardín del Salitre:** {% pin "Jardín del Salitre, Murcia" %} Murcia has many parks and gardens to walk in — this is one of them. Pick one near your home, or one with special plants.
 
 ### 🌃 Nightlife & socialising
 
-- **Taboo Bar:** A bar where ESN (Erasmus Student Network) often holds events — a great way to meet many UM and UCAM students.
-- **Karaoke La Gramola Centro:** Karaoke, but unlike Asian-style private rooms. Recommended for outgoing people who want to sing and make friends.
-- **ODISEO:** {% tag "Tram / taxi" %} Murcia's upscale entertainment complex with a well-known nightclub, restaurants and a casino, in a very modern setting. It seems easier to get in if you go with someone who knows it.
+- **Taboo Bar:** {% pin "Taboo Bar Murcia" %} A bar where ESN (Erasmus Student Network) often holds events — a great way to meet many UM and UCAM students.
+- **Karaoke La Gramola Centro:** {% pin "Karaoke La Gramola Murcia" %} Karaoke, but unlike Asian-style private rooms. Recommended for outgoing people who want to sing and make friends.
+- **ODISEO:** {% pin "Odiseo Murcia" %} {% tag "Tram / taxi" %} Murcia's upscale entertainment complex with a well-known nightclub, restaurants and a casino, in a very modern setting. It seems easier to get in if you go with someone who knows it.
 {% endcard %}
 
 ## 2. Day trips (by bus or train)
