@@ -11,8 +11,8 @@ subtitle: "무르시아에서 살아남기: 저렴한 외식부터 장보기까�
 스페인 식당은 15~20€가 쉽게 나오기 때문에 교환학생들은 보통 패스트푸드, 케밥, 마트 전자레인지 음식으로 해결합니다.
 
 {% card "🍔 패스트푸드 <small>(평균 8~10€)</small>" %}
-- **Plaza Circular 주변:** Popeyes, KFC, Burger King이 있습니다. 엘 코르테 잉글레스 근처 BK는 청소년이 많고 서비스는 보통입니다.
-- **Senda de Granada:** 까르푸 옆 BK가 시내보다 쾌적합니다.
+- **Plaza Circular 주변:** {% pin "Plaza Circular, Murcia" %} Popeyes, KFC, Burger King이 있습니다. 엘 코르테 잉글레스 근처 BK는 청소년이 많고 서비스는 보통입니다.
+- **Senda de Granada:** {% pin "Senda de Granada, Murcia" %} 까르푸 옆 BK가 시내보다 쾌적합니다.
 - **McDonald's:** 쇼핑몰 방향(Churra 역). 쿠폰이 있으니 **앱 설치를 강력 추천**하며, 음료 리필은 안 됩니다.
 - **기타:** IKEA(Príncipe Felipe 역)와 Taco Bell도 비교적 저렴합니다.
 
@@ -40,8 +40,8 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. 기름, 소금, 쌀, 감자, �
 한국 식재료는 중국계 아시아 마트에서 꽤 구할 수 있습니다:
 
 - **Hello Asia:** 시내 중심, Plaza Circular에서 도보 10분.
-- **Happy Dulce(糖家福):** 44번 버스 노선. 가기 쉬운 편입니다.
-- **Wan Ka Le(萬家樂):** 외곽. 30번 버스를 타야 합니다.
+- **Happy Dulce(糖家福):** {% pin "Happy Dulce Murcia" %} 44번 버스 노선. 가기 쉬운 편입니다.
+- **Wan Ka Le(萬家樂):** {% pin "Wan Ka Le Murcia" %} 외곽. 30번 버스를 타야 합니다.
 
 {% map "Hello Asia, Murcia", "Hello Asia — Google 지도에서 열기" %}
 {% endcard %}

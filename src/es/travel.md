@@ -17,7 +17,11 @@ Murcia tiene dos estaciones principales. Comprueba cuál necesitas:
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Estación de Murcia del Carmen" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — Abrir en Google Maps" %}
+
 {% figure "../images/places/bus-station.jpg", "Estación de autobuses de Murcia (San Andrés)" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — Abrir en Google Maps" %}
 
 ## ¿Con qué app reservar?
 

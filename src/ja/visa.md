@@ -9,7 +9,7 @@ subtitle: "スペインに180日以上滞在する場合、到着後30日以内�
 ## ステップ1：予約（Cita Previa）を取る
 
 {% card %}
-予約は公式サイトから行います：[外国人手続き予約ポータル](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
+予約は公式サイトから行います：[外国人手続き予約ポータル](https://mptmd.sede.gob.es/pagina?id=Extranjeria-cita-previa-extranjeria)
 
 **手順：**
 
@@ -22,6 +22,16 @@ TIE の予約枠は不定期に出て、非常に取りにくいです。毎朝8
 {% endalert %}
 {% endcard %}
 
+### 📸 図解：予約サイトの進み方
+
+{% shot "../images/steps/v-1-extranjeria.png", "手順 1：[mptmd.sede.gob.es](https://mptmd.sede.gob.es/) を開き、「Procedimientos」までスクロールして **Extranjería** をクリック。" %}
+{% shot "../images/steps/v-2-cita.png", "手順 2：一番上の **Cita Previa de Extranjería** をクリック。" %}
+{% shot "../images/steps/v-3-acceder.png", "手順 3：ページの一番下で **Acceder al procedimiento** をクリック。予約システムが開くので、**Murcia** と **POLICIA-TOMA DE HUELLAS** を選びます。" %}
+
+{% alert "ℹ️", "info" %}
+予約システム（icp.administracionelectronica.gob.es）はスペイン国外からの接続をブロックすることがよくあります。開けない場合は時間をおくか、スペインのネットワークから試してください。県と手続きを選んだ後の画面は個人情報の入力なので載せていません。
+{% endalert %}
+
 ## ステップ2：必要書類
 
 {% card %}
@@ -31,6 +41,13 @@ TIE の予約枠は不定期に出て、非常に取りにくいです。毎朝8
 - **住民登録証明（Empadronamiento）**：ムルシア市役所で取得。<br><small>窓口：Calle Dr. Alonso de Espejo, 7, 30007 Murcia</small>
 - **手数料 790-012**：銀行で支払った証明（約16ユーロ）。
 {% endcard %}
+
+{% map "Calle Doctor Alonso de Espejo 7, 30007 Murcia", "Empadronamiento — Google マップで開く" %}
+
+### 📸 図解：手数料 790-012 の用紙
+
+{% shot "../images/steps/v-4-tasa.png", "手順 1：[国家警察の手数料ページ](https://sede.policia.gob.es/Tasa790_012/) を開き、**Rellenar formulario y descargar**（入力してダウンロード）をクリック。" %}
+{% shot "../images/steps/v-5-tasa-tie.png", "手順 2：「Tarjetas de identidad de extranjeros (TIE)」の **TIE que documenta la primera concesión…**（初回の TIE）にチェック。個人情報を入力してダウンロード・印刷し、銀行で支払います。" %}
 
 ## 在留届と緊急連絡先
 

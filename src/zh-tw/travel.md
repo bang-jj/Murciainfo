@@ -17,7 +17,11 @@ subtitle: 從馬德里、巴塞隆納、瓦倫西亞到穆爾西亞，以及從�
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen 火車站" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — 在 Google 地圖開啟" %}
+
 {% figure "../images/places/bus-station.jpg", "穆爾西亞巴士總站（San Andrés）" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — 在 Google 地圖開啟" %}
 
 ## 訂票 App 怎麼選
 

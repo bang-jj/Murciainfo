@@ -20,7 +20,7 @@ Al llegar a Murcia, los estudiantes no comunitarios deben solicitar la **TIE**:
 ## Paso 1: pedir cita previa
 
 {% card %}
-Las citas se solicitan en el portal oficial: [Cita previa de Extranjería](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
+Las citas se solicitan en el portal oficial: [Cita previa de Extranjería](https://mptmd.sede.gob.es/pagina?id=Extranjeria-cita-previa-extranjeria)
 
 **Proceso:**
 
@@ -33,6 +33,16 @@ Las citas para la TIE se liberan de forma imprevisible y son muy difíciles de c
 {% endalert %}
 {% endcard %}
 
+### 📸 Paso a paso: la web de citas
+
+{% shot "../images/steps/v-1-extranjeria.png", "Paso 1: Entra en [mptmd.sede.gob.es](https://mptmd.sede.gob.es/), baja hasta «Procedimientos» y pulsa **Extranjería**." %}
+{% shot "../images/steps/v-2-cita.png", "Paso 2: Pulsa **Cita Previa de Extranjería**, la primera de la lista." %}
+{% shot "../images/steps/v-3-acceder.png", "Paso 3: Baja hasta el final y pulsa **Acceder al procedimiento**. Se abre el sistema de citas, donde eliges **Murcia** y **POLICIA-TOMA DE HUELLAS**." %}
+
+{% alert "ℹ️", "info" %}
+El sistema de citas (icp.administracionelectronica.gob.es) a menudo bloquea conexiones desde fuera de España. Si no carga, inténtalo más tarde o desde una red española. Las pantallas siguientes piden datos personales, por eso no se muestran.
+{% endalert %}
+
 ## Paso 2: documentos necesarios
 
 {% card %}
@@ -42,6 +52,13 @@ Las citas para la TIE se liberan de forma imprevisible y son muy difíciles de c
 - **Empadronamiento**: certificado del Ayuntamiento de Murcia.<br><small>Oficina: Calle Dr. Alonso de Espejo, 7, 30007 Murcia.</small>
 - **Tasa 790-012**: justificante de pago en el banco (aprox. 16 €).
 {% endcard %}
+
+{% map "Calle Doctor Alonso de Espejo 7, 30007 Murcia", "Empadronamiento — Abrir en Google Maps" %}
+
+### 📸 Paso a paso: la tasa 790-012
+
+{% shot "../images/steps/v-4-tasa.png", "Paso 1: Abre la [web de la tasa de la Policía Nacional](https://sede.policia.gob.es/Tasa790_012/) y pulsa **Rellenar formulario y descargar**." %}
+{% shot "../images/steps/v-5-tasa-tie.png", "Paso 2: En «Tarjetas de identidad de extranjeros (TIE)», marca **TIE que documenta la primera concesión…**. Rellena tus datos, descarga e imprime el impreso y págalo en el banco." %}
 
 ## Recursos oficiales
 

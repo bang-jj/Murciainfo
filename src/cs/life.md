@@ -11,8 +11,8 @@ subtitle: "Jak přežít v Murcii: od levného jídla venku po nákupy a vařen�
 Restaurace ve Španělsku snadno stojí 15–20 €, takže výměnní studenti většinou jedí fast food, kebab nebo hotová jídla ze supermarketu.
 
 {% card "🍔 Fast food <small>(průměrně 8–10 €)</small>" %}
-- **Okolí Plaza Circular:** Popeyes, KFC a Burger King. Pozor: BK u El Corte Inglés bývá plný teenagerů a obsluha je průměrná.
-- **Senda de Granada:** BK vedle Carrefouru je klidnější než ten v centru.
+- **Okolí Plaza Circular:** {% pin "Plaza Circular, Murcia" %} Popeyes, KFC a Burger King. Pozor: BK u El Corte Inglés bývá plný teenagerů a obsluha je průměrná.
+- **Senda de Granada:** {% pin "Senda de Granada, Murcia" %} BK vedle Carrefouru je klidnější než ten v centru.
 - **McDonald's:** směrem k nákupnímu centru (zastávka Churra). **Stáhněte si aplikaci** kvůli kupónům; doplňování nápojů zdarma tu není.
 - **Další:** IKEA (zastávka Príncipe Felipe) a Taco Bell jsou také levné možnosti.
 
@@ -40,8 +40,8 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. Základní potraviny jako olej,
 Pro asijské potraviny (sójová omáčka, nudle, tofu, rýže na sushi, koření) zajděte do těchto obchodů vedených Číňany:
 
 - **Hello Asia:** v centru, 10 minut pěšky od Plaza Circular.
-- **Happy Dulce (糖家福):** na trase autobusu 44; snadno dostupné.
-- **Wan Ka Le (萬家樂):** na okraji města; autobus 30.
+- **Happy Dulce (糖家福):** {% pin "Happy Dulce Murcia" %} na trase autobusu 44; snadno dostupné.
+- **Wan Ka Le (萬家樂):** {% pin "Wan Ka Le Murcia" %} na okraji města; autobus 30.
 
 {% map "Hello Asia, Murcia", "Hello Asia — Otevřít v Mapách Google" %}
 {% endcard %}

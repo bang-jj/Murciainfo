@@ -191,3 +191,7 @@ th { background: #F3F3F1; }
 /* ---------- 語言選擇首頁 ---------- */
 .lang-grid { list-style: none; padding: 0; margin: 0; }
 .lang-grid .english { color: var(--muted); font-size: 0.85rem; }
+
+/* 小地圖釘 */
+a.pin { text-decoration: none; font-size: 0.95em; padding: 0 2px; border-radius: 4px; }
+a.pin:hover { background: rgba(224, 0, 0, 0.08); }

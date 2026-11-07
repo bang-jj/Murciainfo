@@ -11,8 +11,8 @@ subtitle: "Cómo sobrevivir en Murcia: desde comer barato hasta hacer la compra.
 Un restaurante en España cuesta fácilmente 15-20 €, así que los estudiantes de intercambio suelen tirar de comida rápida, kebabs o platos preparados del supermercado.
 
 {% card "🍔 Comida rápida <small>(media: 8-10 €)</small>" %}
-- **Zona Plaza Circular:** Popeyes, KFC y Burger King. Ojo: el BK cerca de El Corte Inglés suele estar lleno de adolescentes y el servicio es regular.
-- **Senda de Granada:** el BK junto a Carrefour es más tranquilo que el del centro.
+- **Zona Plaza Circular:** {% pin "Plaza Circular, Murcia" %} Popeyes, KFC y Burger King. Ojo: el BK cerca de El Corte Inglés suele estar lleno de adolescentes y el servicio es regular.
+- **Senda de Granada:** {% pin "Senda de Granada, Murcia" %} el BK junto a Carrefour es más tranquilo que el del centro.
 - **McDonald's:** en dirección al centro comercial (parada Churra). **Muy recomendable descargar la app** para conseguir cupones; aquí no hay recarga gratis de bebida.
 - **Otros:** IKEA (parada Príncipe Felipe) y Taco Bell también son opciones económicas.
 
@@ -40,8 +40,8 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. Encontrarás fácilmente lo bá
 Para productos asiáticos (salsa de soja, fideos, tofu, arroz para sushi, especias), ve a estas tiendas regentadas por chinos:
 
 - **Hello Asia:** en el centro, a 10 minutos andando de Plaza Circular.
-- **Happy Dulce (糖家福):** en la ruta del autobús 44; fácil de llegar.
-- **Wan Ka Le (萬家樂):** en las afueras; autobús 30.
+- **Happy Dulce (糖家福):** {% pin "Happy Dulce Murcia" %} en la ruta del autobús 44; fácil de llegar.
+- **Wan Ka Le (萬家樂):** {% pin "Wan Ka Le Murcia" %} en las afueras; autobús 30.
 
 {% map "Hello Asia, Murcia", "Hello Asia — Abrir en Google Maps" %}
 {% endcard %}

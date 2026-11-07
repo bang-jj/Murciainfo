@@ -17,7 +17,11 @@ Murcia has two main stations. Check which one you need:
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Murcia del Carmen train station" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — Open in Google Maps" %}
+
 {% figure "../images/places/bus-station.jpg", "Murcia bus station (San Andrés)" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — Open in Google Maps" %}
 
 ## Which booking app?
 

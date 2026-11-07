@@ -11,8 +11,8 @@ subtitle: "Survivre à Murcie : manger pas cher et faire ses courses."
 Un restaurant en Espagne coûte facilement 15-20 €, alors les étudiants en échange se rabattent souvent sur le fast-food, les kebabs ou les plats à réchauffer du supermarché.
 
 {% card "🍔 Fast-food <small>(environ 8-10 €)</small>" %}
-- **Autour de la Plaza Circular :** Popeyes, KFC et Burger King. À noter : le BK près d'El Corte Inglés est souvent bondé d'ados et le service est moyen.
-- **Senda de Granada :** le BK à côté de Carrefour est plus agréable que celui du centre.
+- **Autour de la Plaza Circular :** {% pin "Plaza Circular, Murcia" %} Popeyes, KFC et Burger King. À noter : le BK près d'El Corte Inglés est souvent bondé d'ados et le service est moyen.
+- **Senda de Granada :** {% pin "Senda de Granada, Murcia" %} le BK à côté de Carrefour est plus agréable que celui du centre.
 - **McDonald's :** en direction du centre commercial (arrêt Churra). **Téléchargez l'appli** pour les coupons ; pas de boissons à volonté ici.
 - **Autres :** IKEA (arrêt Príncipe Felipe) et Taco Bell sont aussi des options abordables.
 
@@ -40,8 +40,8 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. Vous trouverez facilement l'ess
 Pour les produits asiatiques (sauce soja, nouilles, tofu, riz à sushi, épices), direction ces épiceries tenues par des Chinois :
 
 - **Hello Asia :** dans le centre, à 10 minutes à pied de la Plaza Circular.
-- **Happy Dulce (糖家福) :** sur la ligne de bus 44 ; facile d'accès.
-- **Wan Ka Le (萬家樂) :** en périphérie ; bus 30.
+- **Happy Dulce (糖家福) :** {% pin "Happy Dulce Murcia" %} sur la ligne de bus 44 ; facile d'accès.
+- **Wan Ka Le (萬家樂) :** {% pin "Wan Ka Le Murcia" %} en périphérie ; bus 30.
 
 {% map "Hello Asia, Murcia", "Hello Asia — Ouvrir dans Google Maps" %}
 {% endcard %}

@@ -11,8 +11,8 @@ subtitle: "Jak przetrwać w Murcji: od taniego jedzenia na mieście po zakupy i 
 Restauracja w Hiszpanii to łatwo 15–20 €, więc studenci wymiany zwykle jedzą fast foody, kebaby albo gotowe dania z supermarketu.
 
 {% card "🍔 Fast food <small>(średnio 8–10 €)</small>" %}
-- **Okolice Plaza Circular:** Popeyes, KFC i Burger King. Uwaga: BK przy El Corte Inglés bywa pełen nastolatków, a obsługa jest przeciętna.
-- **Senda de Granada:** BK obok Carrefoura jest spokojniejszy niż ten w centrum.
+- **Okolice Plaza Circular:** {% pin "Plaza Circular, Murcia" %} Popeyes, KFC i Burger King. Uwaga: BK przy El Corte Inglés bywa pełen nastolatków, a obsługa jest przeciętna.
+- **Senda de Granada:** {% pin "Senda de Granada, Murcia" %} BK obok Carrefoura jest spokojniejszy niż ten w centrum.
 - **McDonald's:** w stronę centrum handlowego (przystanek Churra). **Warto pobrać aplikację** z kuponami; dolewki napojów nie ma.
 - **Inne:** IKEA (przystanek Príncipe Felipe) i Taco Bell to też tanie opcje.
 
@@ -40,8 +40,8 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. Podstawowe produkty, takie jak 
 Po azjatyckie produkty (sos sojowy, makarony, tofu, ryż do sushi, przyprawy) wybierz się do tych sklepów prowadzonych przez Chińczyków:
 
 - **Hello Asia:** w centrum, 10 minut pieszo od Plaza Circular.
-- **Happy Dulce (糖家福):** na trasie autobusu 44; łatwo dojechać.
-- **Wan Ka Le (萬家樂):** na obrzeżach; autobus 30.
+- **Happy Dulce (糖家福):** {% pin "Happy Dulce Murcia" %} na trasie autobusu 44; łatwo dojechać.
+- **Wan Ka Le (萬家樂):** {% pin "Wan Ka Le Murcia" %} na obrzeżach; autobus 30.
 
 {% map "Hello Asia, Murcia", "Hello Asia — Otwórz w Mapach Google" %}
 {% endcard %}

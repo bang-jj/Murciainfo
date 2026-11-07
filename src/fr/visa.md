@@ -31,7 +31,7 @@ Vous êtes **hors UE** : il faut un **visa d'études** du consulat d'Espagne ava
 ## Étape 1 : prendre rendez-vous (Cita Previa)
 
 {% card %}
-Les rendez-vous se prennent sur le portail officiel : [portail de rendez-vous Extranjería](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
+Les rendez-vous se prennent sur le portail officiel : [portail de rendez-vous Extranjería](https://mptmd.sede.gob.es/pagina?id=Extranjeria-cita-previa-extranjeria)
 
 **Procédure :**
 
@@ -44,6 +44,16 @@ Les créneaux pour la TIE sont libérés de façon imprévisible et sont très d
 {% endalert %}
 {% endcard %}
 
+### 📸 Pas à pas : le site de rendez-vous
+
+{% shot "../images/steps/v-1-extranjeria.png", "Étape 1 : allez sur [mptmd.sede.gob.es](https://mptmd.sede.gob.es/), descendez jusqu’à « Procedimientos » et cliquez sur **Extranjería**." %}
+{% shot "../images/steps/v-2-cita.png", "Étape 2 : cliquez sur **Cita Previa de Extranjería**, en haut de la liste." %}
+{% shot "../images/steps/v-3-acceder.png", "Étape 3 : en bas de la page, cliquez sur **Acceder al procedimiento**. Le système de rendez-vous s’ouvre : choisissez **Murcia**, puis la procédure (citoyens UE : **Certificados UE** ; hors UE : **POLICIA-TOMA DE HUELLAS**)." %}
+
+{% alert "ℹ️", "info" %}
+Le système de rendez-vous (icp.administracionelectronica.gob.es) bloque souvent les connexions hors d’Espagne. S’il ne s’ouvre pas, réessayez plus tard ou depuis un réseau espagnol. Les écrans suivants demandent des données personnelles : ils ne sont pas montrés ici.
+{% endalert %}
+
 ## Étape 2 : documents nécessaires
 
 {% card %}
@@ -53,6 +63,13 @@ Les créneaux pour la TIE sont libérés de façon imprévisible et sont très d
 - **Empadronamiento** : certificat de résidence de la mairie de Murcie.<br><small>Bureau : Calle Dr. Alonso de Espejo, 7, 30007 Murcia.</small>
 - **Taxe 790-012** : preuve de paiement à la banque (environ 16 €).
 {% endcard %}
+
+{% map "Calle Doctor Alonso de Espejo 7, 30007 Murcia", "Empadronamiento — Ouvrir dans Google Maps" %}
+
+### 📸 Pas à pas : la taxe 790-012
+
+{% shot "../images/steps/v-4-tasa.png", "Étape 1 : ouvrez le [formulaire de taxe de la Police nationale](https://sede.policia.gob.es/Tasa790_012/) et cliquez sur **Rellenar formulario y descargar** (remplir et télécharger)." %}
+{% shot "../images/steps/v-5-tasa-eu.png", "Étape 2 : sous « Tarjetas de identidad de extranjeros (TIE) », les citoyens UE cochent la ligne **Certificado de registro de residente comunitario** (les étudiants hors UE : **TIE que documenta la primera concesión…**). Remplissez vos données, téléchargez, imprimez et payez à la banque." %}
 
 ## Santé et urgences
 

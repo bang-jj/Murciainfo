@@ -29,7 +29,7 @@ The steps below are for **non-EU students** getting a TIE.
 ## Step 1: Book an Appointment (Cita Previa)
 
 {% card %}
-Appointments must be scheduled through the official portal: [Official Immigration Appointment Portal](https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus)
+Appointments must be scheduled through the official portal: [Official Immigration Appointment Portal](https://mptmd.sede.gob.es/pagina?id=Extranjeria-cita-previa-extranjeria)
 
 **Process:**
 
@@ -42,6 +42,16 @@ TIE slots are released unpredictably. Check the website every morning around 8:3
 {% endalert %}
 {% endcard %}
 
+### 📸 Step by step: the appointment website
+
+{% shot "../images/steps/v-1-extranjeria.png", "Step 1: Go to [mptmd.sede.gob.es](https://mptmd.sede.gob.es/), scroll to &quot;Procedimientos&quot; and click **Extranjería**." %}
+{% shot "../images/steps/v-2-cita.png", "Step 2: Click **Cita Previa de Extranjería** at the top of the list." %}
+{% shot "../images/steps/v-3-acceder.png", "Step 3: Scroll to the bottom and click **Acceder al procedimiento**. This opens the booking system, where you choose **Murcia** and **POLICIA-TOMA DE HUELLAS**." %}
+
+{% alert "ℹ️", "info" %}
+The booking system (icp.administracionelectronica.gob.es) often blocks connections from outside Spain. If it will not load, try again later or from a Spanish network. The screens after the province and procedure ask for personal data, so they are not shown here.
+{% endalert %}
+
 ## Step 2: Required Documents
 
 {% card %}
@@ -51,6 +61,13 @@ TIE slots are released unpredictably. Check the website every morning around 8:3
 - **Empadronamiento**: Census certificate from Murcia City Hall.<br><small>Office: Calle Dr. Alonso de Espejo, 7, 30007 Murcia.</small>
 - **Tax Form 790-012**: Stamped proof of payment (approx. €16.08).
 {% endcard %}
+
+{% map "Calle Doctor Alonso de Espejo 7, 30007 Murcia", "Empadronamiento — Open in Google Maps" %}
+
+### 📸 Step by step: the 790-012 fee form
+
+{% shot "../images/steps/v-4-tasa.png", "Step 1: Open the [National Police fee form](https://sede.policia.gob.es/Tasa790_012/) and click **Rellenar formulario y descargar** (fill in and download)." %}
+{% shot "../images/steps/v-5-tasa-tie.png", "Step 2: Under &quot;Tarjetas de identidad de extranjeros (TIE)&quot;, tick **TIE que documenta la primera concesión…** (first-time TIE). Fill in your details, download and print it, then pay at a bank." %}
 
 ## Official Academic & Government Resources
 

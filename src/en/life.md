@@ -11,8 +11,8 @@ subtitle: "How to survive in Murcia: From budget dining to grocery shopping tips
 While restaurants in Spain easily cost 15-20€, exchange students usually rely on fast food, Kebabs, or microwave meals from supermarkets.
 
 {% card "🍔 Fast Food <small>(Average cost: 8-10€)</small>" %}
-- **Plaza Circular Area:** Popeyes, KFC, and Burger King are available. Note: The BK near El Corte Inglés can be crowded with teenagers and offers average service.
-- **Senda de Granada:** The BK next to Carrefour offers a more comfortable environment than the city center.
+- **Plaza Circular Area:** {% pin "Plaza Circular, Murcia" %} Popeyes, KFC, and Burger King are available. Note: The BK near El Corte Inglés can be crowded with teenagers and offers average service.
+- **Senda de Granada:** {% pin "Senda de Granada, Murcia" %} The BK next to Carrefour offers a more comfortable environment than the city center.
 - **McDonald's:** Located towards the shopping mall (Churra stop). **Highly recommended to download the App** for coupons, but note that there are no free refills here.
 - **Others:** IKEA (Príncipe Felipe stop) and Taco Bell are also affordable options.
 
@@ -40,8 +40,8 @@ Mercadona, Día, Consum, Lidl, El Corte Inglés. You can easily find basic neces
 For Asian ingredients (soy sauce, noodles, tofu, sushi rice, spices) — or anything you can't find in Spanish supermarkets — try these Chinese-run shops:
 
 - **Hello Asia:** Located in the city center, a 10-minute walk from Plaza Circular.
-- **Happy Dulce (糖家福):** Located along the Bus 44 route; relatively easy to access.
-- **Wan Ka Le (萬家樂):** Located in the suburbs; requires Bus 30.
+- **Happy Dulce (糖家福):** {% pin "Happy Dulce Murcia" %} Located along the Bus 44 route; relatively easy to access.
+- **Wan Ka Le (萬家樂):** {% pin "Wan Ka Le Murcia" %} Located in the suburbs; requires Bus 30.
 
 {% map "Hello Asia, Murcia", "Hello Asia — Open in Google Maps" %}
 {% endcard %}

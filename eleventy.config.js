@@ -86,8 +86,9 @@ export default function (eleventyConfig) {
       console.warn(`[shot] 找不到截圖，略過：${src}`);
       return "";
     }
-    const cap = caption ? `<figcaption>${escapeHtml(caption)}</figcaption>` : "";
-    return `<figure class="shot"><a href="${encodeURI(src)}" target="_blank"><img src="${encodeURI(src)}" alt="${escapeHtml(caption)}" loading="lazy"></a>${cap}</figure>`;
+    const cap = caption ? `<figcaption>${md.renderInline(caption).replace(/<a href/g, '<a target="_blank" rel="noopener" href')}</figcaption>` : "";
+    const alt = caption.replace(/&quot;/g, '"').replace(/\[([^\]]*)\]\([^)]*\)/g, "$1").replace(/\*\*/g, "");
+    return `<figure class="shot"><a href="${encodeURI(src)}" target="_blank"><img src="${encodeURI(src)}" alt="${escapeHtml(alt)}" loading="lazy"></a>${cap}</figure>`;
   });
 
   // App 介紹卡：{% app "Trainline", "trainline", "https://..." %} 說明 {% endapp %}
@@ -107,6 +108,12 @@ export default function (eleventyConfig) {
   eleventyConfig.addShortcode("map", (query, linkText = "Google Maps") => {
     const q = encodeURIComponent(query);
     return `<figure class="map"><iframe src="https://www.google.com/maps?q=${q}&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="${escapeHtml(query)}"></iframe><figcaption><a href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank" rel="noopener">📍 ${escapeHtml(linkText)}</a></figcaption></figure>`;
+  });
+
+  // 小地圖釘：{% pin "Catedral de Murcia" %} → 點了在 Google 地圖打開
+  eleventyConfig.addShortcode("pin", (query) => {
+    const q = encodeURIComponent(query);
+    return `<a class="pin" href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank" rel="noopener" title="Google Maps: ${escapeHtml(query)}" aria-label="Google Maps: ${escapeHtml(query)}">📍</a>`;
   });
 
   // ---------- 給版面用的工具 ----------

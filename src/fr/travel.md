@@ -17,7 +17,11 @@ Murcie a deux gares principales. Vérifiez laquelle vous concerne :
 
 {% figure "../images/places/murcia-del-carmen.jpg", "Gare de Murcia del Carmen" %}
 
+{% map "Estación de Murcia del Carmen", "Murcia del Carmen — Ouvrir dans Google Maps" %}
+
 {% figure "../images/places/bus-station.jpg", "Gare routière de Murcie (San Andrés)" %}
+
+{% map "Estación de Autobuses de Murcia, Calle Sierra de la Pila 3", "Estación de Autobuses de Murcia — Ouvrir dans Google Maps" %}
 
 ## Quelle appli pour réserver ?
 

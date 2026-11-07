@@ -11,8 +11,8 @@ subtitle: ムルシアでの暮らし方：節約外食から自炊まで。
 スペインのレストランは15〜20€かかることも多いので、留学生は普段ファストフード、ケバブ、スーパーの電子レンジ食品などで済ませることが多いです。
 
 {% card "🍔 ファストフード <small>（平均 8〜10€）</small>" %}
-- **Plaza Circular 周辺：** Popeyes、KFC、Burger King があります。エル・コルテ・イングレス近くの BK は若者が多く、サービスは普通です。
-- **Senda de Granada：** カルフール横の BK は中心部より落ち着いています。
+- **Plaza Circular 周辺：** {% pin "Plaza Circular, Murcia" %} Popeyes、KFC、Burger King があります。エル・コルテ・イングレス近くの BK は若者が多く、サービスは普通です。
+- **Senda de Granada：** {% pin "Senda de Granada, Murcia" %} カルフール横の BK は中心部より落ち着いています。
 - **McDonald's：** ショッピングモール方面（Churra 駅）。クーポンがあるので **アプリのダウンロードがおすすめ** です。ドリンクのおかわりはできません。
 - **その他：** IKEA（Príncipe Felipe 駅）や Taco Bell も比較的安い選択肢です。
 
@@ -40,8 +40,8 @@ Mercadona、Día、Consum、Lidl、El Corte Inglés。油、塩、米、じゃ�
 日本食の材料は、中国系のアジアスーパーでかなり手に入ります：
 
 - **Hello Asia：** 中心部、Plaza Circular から徒歩10分。
-- **Happy Dulce（糖家福）：** 44番バスの路線沿い。行きやすいです。
-- **Wan Ka Le（萬家樂）：** 郊外。30番バスで行きます。
+- **Happy Dulce（糖家福）：** {% pin "Happy Dulce Murcia" %} 44番バスの路線沿い。行きやすいです。
+- **Wan Ka Le（萬家樂）：** {% pin "Wan Ka Le Murcia" %} 郊外。30番バスで行きます。
 
 {% map "Hello Asia, Murcia", "Hello Asia — Google マップで開く" %}
 {% endcard %}
